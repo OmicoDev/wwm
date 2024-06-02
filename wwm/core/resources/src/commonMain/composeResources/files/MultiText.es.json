@@ -1,0 +1,1706 @@
+[
+  {
+    "Id": "AchievementCategory_1_Name",
+    "Content": "Exploración"
+  },
+  {
+    "Id": "AchievementCategory_2_Name",
+    "Content": "Viaje"
+  },
+  {
+    "Id": "AchievementCategory_3_Name",
+    "Content": "Batallas"
+  },
+  {
+    "Id": "AchievementCategory_4_Name",
+    "Content": "Voces"
+  },
+  {
+    "Id": "AchievementCategory_6_Name",
+    "Content": "Amigos"
+  },
+  {
+    "Id": "AchievementGroup_1001_Name",
+    "Content": "Exploración: Huanglong"
+  },
+  {
+    "Id": "AchievementGroup_1002_Name",
+    "Content": "Huanglong I"
+  },
+  {
+    "Id": "AchievementGroup_1004_Name",
+    "Content": "Llamadas de la Selva"
+  },
+  {
+    "Id": "AchievementGroup_2001_Name",
+    "Content": "Viaje del Errante"
+  },
+  {
+    "Id": "AchievementGroup_2003_Name",
+    "Content": "Momentos Contigo"
+  },
+  {
+    "Id": "AchievementGroup_3001_Name",
+    "Content": "Recuerdos de Batalla"
+  },
+  {
+    "Id": "AchievementGroup_3002_Name",
+    "Content": "Habilidades de Batalla I"
+  },
+  {
+    "Id": "AchievementGroup_3003_Name",
+    "Content": "Habilidades de Batalla II"
+  },
+  {
+    "Id": "AchievementGroup_3004_Name",
+    "Content": "Experiencia Inesperada"
+  },
+  {
+    "Id": "AchievementGroup_3005_Name",
+    "Content": "Desde la Torre Abisal I"
+  },
+  {
+    "Id": "AchievementGroup_4001_Name",
+    "Content": "Camino de Crecimiento"
+  },
+  {
+    "Id": "AchievementGroup_4002_Name",
+    "Content": "Colección de Eco"
+  },
+  {
+    "Id": "AchievementGroup_5001_Name",
+    "Content": "Amistad de Otros Reinos"
+  },
+  {
+    "Id": "Achievement_100101_Desc",
+    "Content": "Siéntate en la silla más alta en Jinzhou"
+  },
+  {
+    "Id": "Achievement_100101_Name",
+    "Content": "¡PODER!"
+  },
+  {
+    "Id": "Achievement_100102_Desc",
+    "Content": "Completa «Historia Silenciosa»."
+  },
+  {
+    "Id": "Achievement_100102_Name",
+    "Content": "Sigue la Luz del Faro"
+  },
+  {
+    "Id": "Achievement_100103_Desc",
+    "Content": "Resuelve un rompecabezas del Cubo magnético 1 vez"
+  },
+  {
+    "Id": "Achievement_100103_Name",
+    "Content": "Camino unidireccional adelante"
+  },
+  {
+    "Id": "Achievement_100104_Desc",
+    "Content": "Resuelve un rompecabezas del Bloque de cifrado 1 vez"
+  },
+  {
+    "Id": "Achievement_100104_Name",
+    "Content": "Lanza los Fuegos Artificiales"
+  },
+  {
+    "Id": "Achievement_100105_Desc",
+    "Content": "Completa 5 Desafíos de Eco"
+  },
+  {
+    "Id": "Achievement_100105_Name",
+    "Content": "La Metamorfosis"
+  },
+  {
+    "Id": "Achievement_100106_Desc",
+    "Content": "Completa «Percepción paralela» por primera vez."
+  },
+  {
+    "Id": "Achievement_100106_Name",
+    "Content": "Leyenda más rápida"
+  },
+  {
+    "Id": "Achievement_100107_Desc",
+    "Content": "Completa «Doblador de perspectiva» por primera vez."
+  },
+  {
+    "Id": "Achievement_100107_Name",
+    "Content": "Doblador de perspectiva"
+  },
+  {
+    "Id": "Achievement_100108_Desc",
+    "Content": "Maniobra las muñecas a través del corredor de láser en \"Cruzada Solitaria\""
+  },
+  {
+    "Id": "Achievement_100108_Name",
+    "Content": "Baila en la Luz del Láser"
+  },
+  {
+    "Id": "Achievement_100110_Desc",
+    "Content": "Derrota a \"Variante de Champirosa\" en la Ciudad portuaria de Guixu"
+  },
+  {
+    "Id": "Achievement_100110_Name",
+    "Content": "¿Plantas vs Champirosa Zombie?"
+  },
+  {
+    "Id": "Achievement_100111_Desc",
+    "Content": "Derrota al \"Sabyrkin\" en las Fauces del tigre"
+  },
+  {
+    "Id": "Achievement_100111_Name",
+    "Content": "Rampage del Bosque de Jabalíes"
+  },
+  {
+    "Id": "Achievement_100112_Desc",
+    "Content": "Derrota a \"Saurio Viridblaze: Último\" en las Llanuras Centrales"
+  },
+  {
+    "Id": "Achievement_100112_Name",
+    "Content": "El \"Último\""
+  },
+  {
+    "Id": "Achievement_100113_Desc",
+    "Content": "Derrota al \"Campana del Desierto\" en la Bahía Wuming"
+  },
+  {
+    "Id": "Achievement_100113_Name",
+    "Content": "Baila con los Lobos"
+  },
+  {
+    "Id": "Achievement_100114_Desc",
+    "Content": "El curso último en la naturaleza."
+  },
+  {
+    "Id": "Achievement_100114_Name",
+    "Content": "Aquí viene el oso"
+  },
+  {
+    "Id": "Achievement_100115_Desc",
+    "Content": "Derrota al \"Guardián del Obelisco\" en las Tierras altas de Desoroca"
+  },
+  {
+    "Id": "Achievement_100115_Name",
+    "Content": "Solo una roca"
+  },
+  {
+    "Id": "Achievement_100116_Desc",
+    "Content": "Derrota al \"Heron Gemelo\" en el Pantano de Aix"
+  },
+  {
+    "Id": "Achievement_100116_Name",
+    "Content": "Aunque no puedo volar"
+  },
+  {
+    "Id": "Achievement_100117_Desc",
+    "Content": "Derrota al \"Caparazón: Motor Cero\" en las Llanuras Centrales"
+  },
+  {
+    "Id": "Achievement_100117_Name",
+    "Content": "Amor, muerte y coches abandonados"
+  },
+  {
+    "Id": "Achievement_100118_Desc",
+    "Content": "Derrota al \"Joven Murmullo\" en el Bosque Oscuro"
+  },
+  {
+    "Id": "Achievement_100118_Name",
+    "Content": "¡No es mi rival!"
+  },
+  {
+    "Id": "Achievement_100119_Desc",
+    "Content": "Derrota al \"Corazón de Prisma\" en el Bosque Oscuro"
+  },
+  {
+    "Id": "Achievement_100119_Name",
+    "Content": "Fiesta de Prisma"
+  },
+  {
+    "Id": "Achievement_100120_Desc",
+    "Content": "Derrota al \"Seguidor de Fractsidus\" en la Ciudad portuaria de Guixu"
+  },
+  {
+    "Id": "Achievement_100120_Name",
+    "Content": "¡Proyecto de debut de los tres grandes!"
+  },
+  {
+    "Id": "Achievement_100121_Desc",
+    "Content": "Derrota al \"Explorador Autómata #01\" en las Llanuras Centrales"
+  },
+  {
+    "Id": "Achievement_100121_Name",
+    "Content": "Protocolo 3. ¡A-ataque!"
+  },
+  {
+    "Id": "Achievement_100122_Desc",
+    "Content": "Derrota al \"Teatro del Iluminador\" en las Tierras altas de Desoroca"
+  },
+  {
+    "Id": "Achievement_100122_Name",
+    "Content": "¡Seguridad primero!"
+  },
+  {
+    "Id": "Achievement_100123_Desc",
+    "Content": "Derrota al \"Nido de Escorpión\" en la Ciudad portuaria de Guixu"
+  },
+  {
+    "Id": "Achievement_100123_Name",
+    "Content": "Vacía el nido"
+  },
+  {
+    "Id": "Achievement_100124_Desc",
+    "Content": "Resuelve el rompecabezas en el tablón de anuncios en el modo co-op."
+  },
+  {
+    "Id": "Achievement_100124_Name",
+    "Content": "Corazón Estelar"
+  },
+  {
+    "Id": "Achievement_100125_Desc",
+    "Content": "Derrota a \"Wild Scarlet\" en el Bosque Oscuro"
+  },
+  {
+    "Id": "Achievement_100125_Name",
+    "Content": "Observador de Gorilas"
+  },
+  {
+    "Id": "Achievement_100126_Desc",
+    "Content": "Derrota a \"Chasm Rider\" en la Aldea Qichi."
+  },
+  {
+    "Id": "Achievement_100126_Name",
+    "Content": "Somos el Retador, Mi Amigo"
+  },
+  {
+    "Id": "Achievement_100201_Desc",
+    "Content": "Completa «Lo prometido es deuda»."
+  },
+  {
+    "Id": "Achievement_100201_Name",
+    "Content": "Honra Mi Lema"
+  },
+  {
+    "Id": "Achievement_100202_Desc",
+    "Content": "Completa «Lacrimosa Estigia»."
+  },
+  {
+    "Id": "Achievement_100202_Name",
+    "Content": "Recuérdame"
+  },
+  {
+    "Id": "Achievement_100203_Desc",
+    "Content": "Completa «Sombras del Pasado»."
+  },
+  {
+    "Id": "Achievement_100203_Name",
+    "Content": "Días Pasados"
+  },
+  {
+    "Id": "Achievement_100204_Desc",
+    "Content": "Completa «Cuando el Bosque ya no Está Oscuro»."
+  },
+  {
+    "Id": "Achievement_100204_Name",
+    "Content": "Átomo: La Odisea de la Jungla"
+  },
+  {
+    "Id": "Achievement_100205_Desc",
+    "Content": "Completa «Cuando la Luz de la Luna Brilla en el Bosque»."
+  },
+  {
+    "Id": "Achievement_100205_Name",
+    "Content": "Cuando el Bosque ya no Está Oscuro"
+  },
+  {
+    "Id": "Achievement_100206_Desc",
+    "Content": "Completa «Reactivación de Radar»."
+  },
+  {
+    "Id": "Achievement_100206_Name",
+    "Content": "El Sol Sale como de Costumbre"
+  },
+  {
+    "Id": "Achievement_100207_Desc",
+    "Content": "Completa «El Pasado es el Futuro»."
+  },
+  {
+    "Id": "Achievement_100207_Name",
+    "Content": "El Futuro Está Aquí"
+  },
+  {
+    "Id": "Achievement_100208_Desc",
+    "Content": "Completa «El Concierto Eterno»."
+  },
+  {
+    "Id": "Achievement_100208_Name",
+    "Content": "Un Tiempo Fuera de tu Alcance"
+  },
+  {
+    "Id": "Achievement_100209_Desc",
+    "Content": "Completa «Investigación Secreta»."
+  },
+  {
+    "Id": "Achievement_100209_Name",
+    "Content": "Lo siento, soy un Patrullero"
+  },
+  {
+    "Id": "Achievement_100210_Desc",
+    "Content": "Completa «La verdad oculta»."
+  },
+  {
+    "Id": "Achievement_100210_Name",
+    "Content": "Una apuesta desesperada"
+  },
+  {
+    "Id": "Achievement_100211_Desc",
+    "Content": "Completa «Incursión al campamento»."
+  },
+  {
+    "Id": "Achievement_100211_Name",
+    "Content": "¡El valiente gana cuando los caminos se cruzan!"
+  },
+  {
+    "Id": "Achievement_100212_Desc",
+    "Content": "Completa «¿Una comida gratis?»."
+  },
+  {
+    "Id": "Achievement_100212_Name",
+    "Content": "Nada es gratis"
+  },
+  {
+    "Id": "Achievement_100213_Desc",
+    "Content": "Completa «La legendaria mecánica del cubo magnético»."
+  },
+  {
+    "Id": "Achievement_100213_Name",
+    "Content": "Tu misterio, yo lo resolveré"
+  },
+  {
+    "Id": "Achievement_100214_Desc",
+    "Content": "Completa «Viajar en Jinzhou: Burbujines»."
+  },
+  {
+    "Id": "Achievement_100214_Name",
+    "Content": "Nadando hasta que el mar se vuelve azul"
+  },
+  {
+    "Id": "Achievement_100215_Desc",
+    "Content": "Completa «La práctica del bailarín»."
+  },
+  {
+    "Id": "Achievement_100215_Name",
+    "Content": "Lleno total"
+  },
+  {
+    "Id": "Achievement_100216_Desc",
+    "Content": "Completa «Héroe del salto»."
+  },
+  {
+    "Id": "Achievement_100216_Name",
+    "Content": "El maestro del Parkour"
+  },
+  {
+    "Id": "Achievement_100401_Desc",
+    "Content": "Forja un arma una vez"
+  },
+  {
+    "Id": "Achievement_100401_Name",
+    "Content": "Artesano habilidoso"
+  },
+  {
+    "Id": "Achievement_100402_Desc",
+    "Content": "Captura 50 peces"
+  },
+  {
+    "Id": "Achievement_100402_Name",
+    "Content": "Maestro de la pesca I"
+  },
+  {
+    "Id": "Achievement_100403_Desc",
+    "Content": "Captura 100 peces"
+  },
+  {
+    "Id": "Achievement_100403_Name",
+    "Content": "Maestro de la pesca II"
+  },
+  {
+    "Id": "Achievement_100404_Desc",
+    "Content": "Obtén 50 piezas de aves de corral"
+  },
+  {
+    "Id": "Achievement_100404_Name",
+    "Content": "Maestro de la Caza I"
+  },
+  {
+    "Id": "Achievement_100405_Desc",
+    "Content": "Obtén 100 piezas de Pollo"
+  },
+  {
+    "Id": "Achievement_100405_Name",
+    "Content": "Maestro de la Caza II"
+  },
+  {
+    "Id": "Achievement_100406_Desc",
+    "Content": "Obtén 50 piezas de Carne cruda"
+  },
+  {
+    "Id": "Achievement_100406_Name",
+    "Content": "Cazador Salvaje I"
+  },
+  {
+    "Id": "Achievement_100407_Desc",
+    "Content": "Obtén 100 piezas de Carne cruda"
+  },
+  {
+    "Id": "Achievement_100407_Name",
+    "Content": "Cazador Salvaje II"
+  },
+  {
+    "Id": "Achievement_100408_Desc",
+    "Content": "Recolecta minerales 50 veces"
+  },
+  {
+    "Id": "Achievement_100408_Name",
+    "Content": "Minero de Oro I"
+  },
+  {
+    "Id": "Achievement_100409_Desc",
+    "Content": "Recolecta minerales 100 veces"
+  },
+  {
+    "Id": "Achievement_100409_Name",
+    "Content": "Minero de Oro II"
+  },
+  {
+    "Id": "Achievement_100410_Desc",
+    "Content": "Prepara 1 Pollo desmenuzado picante"
+  },
+  {
+    "Id": "Achievement_100410_Name",
+    "Content": "Cena de Pollo Ganador"
+  },
+  {
+    "Id": "Achievement_100411_Desc",
+    "Content": "Captura 200 Pescado"
+  },
+  {
+    "Id": "Achievement_100411_Name",
+    "Content": "Maestro de la Pesca III"
+  },
+  {
+    "Id": "Achievement_100412_Desc",
+    "Content": "Obtén 200 piezas de Pollo"
+  },
+  {
+    "Id": "Achievement_100412_Name",
+    "Content": "Maestro de la Caza III"
+  },
+  {
+    "Id": "Achievement_100413_Desc",
+    "Content": "Obtén 200 piezas de Carne cruda"
+  },
+  {
+    "Id": "Achievement_100413_Name",
+    "Content": "Cazador Salvaje III"
+  },
+  {
+    "Id": "Achievement_100414_Desc",
+    "Content": "Recolecta minerales 200 veces"
+  },
+  {
+    "Id": "Achievement_100414_Name",
+    "Content": "Minero de Oro III"
+  },
+  {
+    "Id": "Achievement_100416_Desc",
+    "Content": "Usa Caza de Eco 50 veces."
+  },
+  {
+    "Id": "Achievement_100416_Name",
+    "Content": "Sigue el mapa"
+  },
+  {
+    "Id": "Achievement_100417_Desc",
+    "Content": "Usa poción 20 veces"
+  },
+  {
+    "Id": "Achievement_100417_Name",
+    "Content": "Poción Efectiva I"
+  },
+  {
+    "Id": "Achievement_100418_Desc",
+    "Content": "Usa poción 50 veces"
+  },
+  {
+    "Id": "Achievement_100418_Name",
+    "Content": "Poción Efectiva II"
+  },
+  {
+    "Id": "Achievement_100419_Desc",
+    "Content": "Usa poción 100 veces"
+  },
+  {
+    "Id": "Achievement_100419_Name",
+    "Content": "Poción Efectiva III"
+  },
+  {
+    "Id": "Achievement_100420_Desc",
+    "Content": "Consume Platos 20 veces"
+  },
+  {
+    "Id": "Achievement_100420_Name",
+    "Content": "Sabor de la Alegría I"
+  },
+  {
+    "Id": "Achievement_100421_Desc",
+    "Content": "Consume Platos 50 veces"
+  },
+  {
+    "Id": "Achievement_100421_Name",
+    "Content": "Sabor de la Alegría II"
+  },
+  {
+    "Id": "Achievement_100422_Desc",
+    "Content": "Consume Platos 100 veces"
+  },
+  {
+    "Id": "Achievement_100422_Name",
+    "Content": "Sabor de la Alegría III"
+  },
+  {
+    "Id": "Achievement_100423_Desc",
+    "Content": "Realiza Síntesis 20 veces"
+  },
+  {
+    "Id": "Achievement_100423_Name",
+    "Content": "Taller Creativo I"
+  },
+  {
+    "Id": "Achievement_100424_Desc",
+    "Content": "Realiza Síntesis 50 veces"
+  },
+  {
+    "Id": "Achievement_100424_Name",
+    "Content": "Taller Creativo II"
+  },
+  {
+    "Id": "Achievement_100425_Desc",
+    "Content": "Realiza Síntesis 100 veces"
+  },
+  {
+    "Id": "Achievement_100425_Name",
+    "Content": "Taller Creativo III"
+  },
+  {
+    "Id": "Achievement_100426_Desc",
+    "Content": "Alcanza el Nivel 2 de Chef"
+  },
+  {
+    "Id": "Achievement_100426_Name",
+    "Content": "Mochelin Chef de 1 Estrella"
+  },
+  {
+    "Id": "Achievement_100427_Desc",
+    "Content": "Alcanza el Nivel 5 de Chef"
+  },
+  {
+    "Id": "Achievement_100427_Name",
+    "Content": "Mochelin Chef de 2 estrellas"
+  },
+  {
+    "Id": "Achievement_100429_Desc",
+    "Content": "Alcanza el Nivel 2 de Síntesis"
+  },
+  {
+    "Id": "Achievement_100429_Name",
+    "Content": "Hechizo del Farmacéutico I"
+  },
+  {
+    "Id": "Achievement_100430_Desc",
+    "Content": "Alcanza el Nivel 5 de Síntesis"
+  },
+  {
+    "Id": "Achievement_100430_Name",
+    "Content": "Hechizo del Farmacéutico II"
+  },
+  {
+    "Id": "Achievement_110101_Desc",
+    "Content": "Entrega 30 Ataúdes de Sonancia a Chenpi"
+  },
+  {
+    "Id": "Achievement_110101_Name",
+    "Content": "Ecos del Pasado: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110102_Desc",
+    "Content": "Entrega 60 Ataúdes de Sonancia a Chenpi"
+  },
+  {
+    "Id": "Achievement_110102_Name",
+    "Content": "Ecos del Pasado: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110103_Desc",
+    "Content": "Entrega 115 Ataúdes de Sonancia a Chenpi"
+  },
+  {
+    "Id": "Achievement_110103_Name",
+    "Content": "Ecos del Pasado: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110105_Desc",
+    "Content": "Activa todos los Faros de Resonancia en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110105_Name",
+    "Content": "Viaje Mundial: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110106_Desc",
+    "Content": "Desafía todos los \"Holograma Táctico: Calamidad\" en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110106_Name",
+    "Content": "\"Rastro Encendido\""
+  },
+  {
+    "Id": "Achievement_110107_Desc",
+    "Content": "Desafía todos los Campos Tácitos en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110107_Name",
+    "Content": "Solo queda la Reverberación"
+  },
+  {
+    "Id": "Achievement_110110_Desc",
+    "Content": "Obtén 20 Patrimonios de las mareas en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110110_Name",
+    "Content": "Afinación de la Cremación I"
+  },
+  {
+    "Id": "Achievement_110111_Desc",
+    "Content": "Obtén 50 Patrimonios de las mareas en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110111_Name",
+    "Content": "Afinación de la Cremación II"
+  },
+  {
+    "Id": "Achievement_110112_Desc",
+    "Content": "Obtén 80 Patrimonios de las mareas en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110112_Name",
+    "Content": "Afinación de la Cremación III"
+  },
+  {
+    "Id": "Achievement_110113_Desc",
+    "Content": "Activa todos los marcadores en el mapa de Jinzhou"
+  },
+  {
+    "Id": "Achievement_110113_Name",
+    "Content": "Monta la marea: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110114_Desc",
+    "Content": "Recolecta 20 Mutterflies en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110114_Name",
+    "Content": "El sonido del retorno"
+  },
+  {
+    "Id": "Achievement_110115_Desc",
+    "Content": "Alcanza el rango de Pionero Legendario en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110115_Name",
+    "Content": "Prueba del Pionero: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110116_Desc",
+    "Content": "Abre 100 Cofres de suministros en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110116_Name",
+    "Content": "Coleccionista de Cofres I"
+  },
+  {
+    "Id": "Achievement_110117_Desc",
+    "Content": "Abre 200 Cofres de suministros en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110117_Name",
+    "Content": "Coleccionista de Cofres II"
+  },
+  {
+    "Id": "Achievement_110118_Desc",
+    "Content": "Abre 350 Cofres de suministros en Jinzhou"
+  },
+  {
+    "Id": "Achievement_110118_Name",
+    "Content": "Coleccionista de Cofres III"
+  },
+  {
+    "Id": "Achievement_200101_Desc",
+    "Content": "Completa la misión principal «Declaración de maravillas»."
+  },
+  {
+    "Id": "Achievement_200101_Name",
+    "Content": "Desde el Nuevo Mundo"
+  },
+  {
+    "Id": "Achievement_200102_Desc",
+    "Content": "Recibe la Perla de azúcar del Magistrado de Jinzhou"
+  },
+  {
+    "Id": "Achievement_200102_Name",
+    "Content": "El enigma de los hechizos de caramelo"
+  },
+  {
+    "Id": "Achievement_200103_Desc",
+    "Content": "Completa «Primera resonancia»."
+  },
+  {
+    "Id": "Achievement_200103_Name",
+    "Content": "Palabras del Magistrado de Jinzhou: Mensaje Silencioso"
+  },
+  {
+    "Id": "Achievement_200105_Desc",
+    "Content": "Completa «Formación de eco»."
+  },
+  {
+    "Id": "Achievement_200105_Name",
+    "Content": "Palabras del Magistrado de Jinzhou: Pronunciamiento del Frente"
+  },
+  {
+    "Id": "Achievement_200106_Desc",
+    "Content": "Completa «Verdad eterna»."
+  },
+  {
+    "Id": "Achievement_200106_Name",
+    "Content": "El juego del Pastor"
+  },
+  {
+    "Id": "Achievement_200107_Desc",
+    "Content": "Inspecciona el árbol de melocotón en la Aldea Qichi"
+  },
+  {
+    "Id": "Achievement_200107_Name",
+    "Content": "\"Lo que yace bajo el árbol de melocotón...\""
+  },
+  {
+    "Id": "Achievement_200108_Desc",
+    "Content": "Completa «Espadas tintineantes»."
+  },
+  {
+    "Id": "Achievement_200108_Name",
+    "Content": "Una Melodía de Cuchicheo"
+  },
+  {
+    "Id": "Achievement_200109_Desc",
+    "Content": "Completa «Rebobinando gotas de lluvia»."
+  },
+  {
+    "Id": "Achievement_200109_Name",
+    "Content": "Si la Melodía es Verdadera"
+  },
+  {
+    "Id": "Achievement_200110_Desc",
+    "Content": "Recupera los 5 Sonodisks perdidos."
+  },
+  {
+    "Id": "Achievement_200110_Name",
+    "Content": "El Maestro de la Afinación"
+  },
+  {
+    "Id": "Achievement_200111_Desc",
+    "Content": "Completa todas las misiones «¿¿Salvar el mundo? ¡Salva al gato!»."
+  },
+  {
+    "Id": "Achievement_200111_Name",
+    "Content": "Primero el Gatito"
+  },
+  {
+    "Id": "Achievement_200115_Desc",
+    "Content": "Captura tu primera foto en \"Fotos de Jinzhou\""
+  },
+  {
+    "Id": "Achievement_200115_Name",
+    "Content": "Siempre te cautivo"
+  },
+  {
+    "Id": "Achievement_200201_Desc",
+    "Content": "Completa «Cruzada Solitaria»."
+  },
+  {
+    "Id": "Achievement_200201_Name",
+    "Content": "Guardián en la Oscuridad"
+  },
+  {
+    "Id": "Achievement_200202_Desc",
+    "Content": "Participa en \"Relevo de Burbujín\" en \"Por fin amanece\"."
+  },
+  {
+    "Id": "Achievement_200202_Name",
+    "Content": "La Participación es la Clave"
+  },
+  {
+    "Id": "Achievement_200203_Desc",
+    "Content": "Termina \"Por fin amanece\"."
+  },
+  {
+    "Id": "Achievement_200203_Name",
+    "Content": "El Mismo Atardecer"
+  },
+  {
+    "Id": "Achievement_200204_Desc",
+    "Content": "En \"Regreso del corazón salvaje\", completa \"Rastreo de Sonido\"."
+  },
+  {
+    "Id": "Achievement_200204_Name",
+    "Content": "Campanas Sonando"
+  },
+  {
+    "Id": "Achievement_200205_Desc",
+    "Content": "Completa «Regreso del corazón salvaje»."
+  },
+  {
+    "Id": "Achievement_200205_Name",
+    "Content": "Suan'ni Ascendente"
+  },
+  {
+    "Id": "Achievement_200206_Desc",
+    "Content": "Completa «Bajo el Baniano a la Luz de la Luna»."
+  },
+  {
+    "Id": "Achievement_200206_Name",
+    "Content": "Crescente Luna en el Árbol Baniano"
+  },
+  {
+    "Id": "Achievement_300101_Desc",
+    "Content": "Derrota a Aix del Lamento por primera vez."
+  },
+  {
+    "Id": "Achievement_300101_Name+H12:I44",
+    "Content": "Cuando Aix Llora"
+  },
+  {
+    "Id": "Achievement_300102_Desc",
+    "Content": "Derrota a Beringal del Bosque por primera vez."
+  },
+  {
+    "Id": "Achievement_300102_Name",
+    "Content": "Beringal, Nos Vamos Abajo"
+  },
+  {
+    "Id": "Achievement_300103_Desc",
+    "Content": "Derrota a \"Engendro de Lampilumen\" por primera vez."
+  },
+  {
+    "Id": "Achievement_300103_Name",
+    "Content": "Cruza la Niebla Sin Límites"
+  },
+  {
+    "Id": "Achievement_300104_Desc",
+    "Content": "Derrota al \"Jinete Infiernal\" por primera vez."
+  },
+  {
+    "Id": "Achievement_300104_Name",
+    "Content": "Monta el Infierno"
+  },
+  {
+    "Id": "Achievement_300105_Desc",
+    "Content": "Derrota al Sin Corona por primera vez"
+  },
+  {
+    "Id": "Achievement_300105_Name",
+    "Content": "Corona Caída"
+  },
+  {
+    "Id": "Achievement_300106_Desc",
+    "Content": "Derrota a la Geochelone Portacampana por primera vez."
+  },
+  {
+    "Id": "Achievement_300106_Name",
+    "Content": "Sólo la Campana Dobla"
+  },
+  {
+    "Id": "Achievement_300107_Desc",
+    "Content": "Derrota a Mephis Tempestad por primera vez."
+  },
+  {
+    "Id": "Achievement_300107_Name",
+    "Content": "Danza de Destellos"
+  },
+  {
+    "Id": "Achievement_300108_Desc",
+    "Content": "Derrota a la Geochelone Portacampana 50 veces"
+  },
+  {
+    "Id": "Achievement_300108_Name",
+    "Content": "¡Despierta, Despierta!"
+  },
+  {
+    "Id": "Achievement_300109_Desc",
+    "Content": "Derrota a Aix del Lamento 50 veces."
+  },
+  {
+    "Id": "Achievement_300109_Name",
+    "Content": "No Liz, Pero Aves Extrañas"
+  },
+  {
+    "Id": "Achievement_300110_Desc",
+    "Content": "Derrota a Beringal del Bosque 50 veces"
+  },
+  {
+    "Id": "Achievement_300110_Name",
+    "Content": "Regla del Bosque"
+  },
+  {
+    "Id": "Achievement_300111_Desc",
+    "Content": "Derrota a Engendro de Lampilumen 50 veces"
+  },
+  {
+    "Id": "Achievement_300111_Name",
+    "Content": "Penetra la Niebla con Luz"
+  },
+  {
+    "Id": "Achievement_300112_Desc",
+    "Content": "Derrota al Jinete Infiernal 50 veces"
+  },
+  {
+    "Id": "Achievement_300112_Name",
+    "Content": "Viajero Nocturno"
+  },
+  {
+    "Id": "Achievement_300113_Desc",
+    "Content": "Derrota al Sincorona 50 veces"
+  },
+  {
+    "Id": "Achievement_300113_Name",
+    "Content": "Toma la Corona"
+  },
+  {
+    "Id": "Achievement_300114_Desc",
+    "Content": "Derrota a Mephis Tempestad 50 veces"
+  },
+  {
+    "Id": "Achievement_300114_Name",
+    "Content": "Combate Mephis"
+  },
+  {
+    "Id": "Achievement_300115_Desc",
+    "Content": "Activa la Habilidad de la Intro 20 veces"
+  },
+  {
+    "Id": "Achievement_300115_Name",
+    "Content": "Golpe Fatal"
+  },
+  {
+    "Id": "Achievement_300116_Desc",
+    "Content": "Usa la Habilidad de Eco de la Campana-Borne Geochelone para asestar un golpe mortal a la Campana-Borne Geochelone"
+  },
+  {
+    "Id": "Achievement_300116_Name",
+    "Content": "Rebote: Campana-Borne Geochelone"
+  },
+  {
+    "Id": "Achievement_300117_Desc",
+    "Content": "Usa la Habilidad de Eco del Jinete Infiernal para asestar un golpe mortal al Jinete Infiernal"
+  },
+  {
+    "Id": "Achievement_300117_Name",
+    "Content": "Rebote: Jinete Infiernal"
+  },
+  {
+    "Id": "Achievement_300118_Desc",
+    "Content": "Ese último rugido del trueno... ¿De dónde viene?"
+  },
+  {
+    "Id": "Achievement_300118_Name",
+    "Content": "Tempestad desvanecida"
+  },
+  {
+    "Id": "Achievement_300119_Desc",
+    "Content": "Usa la Habilidad de Eco de Aix del Lamento para asestar un golpe mortal a Aix del Lamento"
+  },
+  {
+    "Id": "Achievement_300119_Name",
+    "Content": "Rebote: Aix del Lamento"
+  },
+  {
+    "Id": "Achievement_300120_Desc",
+    "Content": "Usa la habilidad Eco de Sincorona para asestar un golpe mortal al Sin Corona."
+  },
+  {
+    "Id": "Achievement_300120_Name",
+    "Content": "Retroceso: Sincorona"
+  },
+  {
+    "Id": "Achievement_300121_Desc",
+    "Content": "Usa la habilidad Eco de Mephis Trueno para asestar un golpe mortal a Mephis Trueno."
+  },
+  {
+    "Id": "Achievement_300121_Name",
+    "Content": "Retroceso: Mephis Tempestad"
+  },
+  {
+    "Id": "Achievement_300122_Desc",
+    "Content": "Inflige 10,000 puntos de Daño CRIT."
+  },
+  {
+    "Id": "Achievement_300122_Name",
+    "Content": "Estallido silencioso"
+  },
+  {
+    "Id": "Achievement_300123_Desc",
+    "Content": "Realiza la Evasión 50 veces."
+  },
+  {
+    "Id": "Achievement_300123_Name",
+    "Content": "De esquivar a atacar"
+  },
+  {
+    "Id": "Achievement_300124_Desc",
+    "Content": "Realiza el contraataque 10 veces."
+  },
+  {
+    "Id": "Achievement_300124_Name",
+    "Content": "¡¡¡Duang!!!"
+  },
+  {
+    "Id": "Achievement_300205_Desc",
+    "Content": "Inflige 1,000 de daño con un solo ataque al enemigo"
+  },
+  {
+    "Id": "Achievement_300205_Name",
+    "Content": "¡El Verdadero Poder!"
+  },
+  {
+    "Id": "Achievement_300206_Desc",
+    "Content": "Inflige 10,000 de daño con un solo ataque al enemigo"
+  },
+  {
+    "Id": "Achievement_300206_Name",
+    "Content": "El Gran Maestro"
+  },
+  {
+    "Id": "Achievement_300207_Desc",
+    "Content": "Inflige 10,000 de daño en total"
+  },
+  {
+    "Id": "Achievement_300207_Name",
+    "Content": "Maestro de Daño I"
+  },
+  {
+    "Id": "Achievement_300208_Desc",
+    "Content": "Inflige 100,000 de daño en total"
+  },
+  {
+    "Id": "Achievement_300208_Name",
+    "Content": "Maestro de Daño II"
+  },
+  {
+    "Id": "Achievement_300209_Desc",
+    "Content": "Inflige 1,000,000 de daño en total"
+  },
+  {
+    "Id": "Achievement_300209_Name",
+    "Content": "Maestro de Daño III"
+  },
+  {
+    "Id": "Achievement_300210_Desc",
+    "Content": "Inflige 10,000,000 de daño en total"
+  },
+  {
+    "Id": "Achievement_300210_Name",
+    "Content": "Maestro del Daño IV"
+  },
+  {
+    "Id": "Achievement_300211_Desc",
+    "Content": "Realiza habilidades de Eco y transforma en Eco 10 veces"
+  },
+  {
+    "Id": "Achievement_300211_Name",
+    "Content": "\"¡Elijo la forma de la Disonancia Tácita!\""
+  },
+  {
+    "Id": "Achievement_300212_Desc",
+    "Content": "Libera la habilidad de Eco de cualquier tortuga pequeña"
+  },
+  {
+    "Id": "Achievement_300212_Name",
+    "Content": "Respiración de Tortuga"
+  },
+  {
+    "Id": "Achievement_300213_Desc",
+    "Content": "Invoca Ecos 10 veces"
+  },
+  {
+    "Id": "Achievement_300213_Name",
+    "Content": "¡Ve y Lucha!"
+  },
+  {
+    "Id": "Achievement_300301_Desc",
+    "Content": "Derrota al enemigo 10 veces con el Ataque cargado de Chixia desde 7m de distancia"
+  },
+  {
+    "Id": "Achievement_300301_Name",
+    "Content": "Pistolas Manuales I"
+  },
+  {
+    "Id": "Achievement_300302_Desc",
+    "Content": "Derrota al enemigo 10 veces con el Ataque cargado de Chixia desde 1m de distancia"
+  },
+  {
+    "Id": "Achievement_300302_Name",
+    "Content": "Pistolas Manuales II"
+  },
+  {
+    "Id": "Achievement_300304_Desc",
+    "Content": "Derrota al Lobo de Destrucción 10 veces con la habilidad de Eco del Lobo de Fusión."
+  },
+  {
+    "Id": "Achievement_300304_Name",
+    "Content": "Nuevos Lugares los Viejos"
+  },
+  {
+    "Id": "Achievement_300305_Desc",
+    "Content": "Derrota a 100 Exiliados"
+  },
+  {
+    "Id": "Achievement_300305_Name",
+    "Content": "El Caballero Oscuro se Levanta"
+  },
+  {
+    "Id": "Achievement_300306_Desc",
+    "Content": "Derrota a 66 Snip Snaps"
+  },
+  {
+    "Id": "Achievement_300306_Name",
+    "Content": "Buenas Noches, Snip Snaps"
+  },
+  {
+    "Id": "Achievement_300307_Desc",
+    "Content": "Derrota a 66 Zig Zags"
+  },
+  {
+    "Id": "Achievement_300307_Name",
+    "Content": "Luces Apagadas..."
+  },
+  {
+    "Id": "Achievement_300309_Desc",
+    "Content": "Derrota a 66 Whiff Whaffs"
+  },
+  {
+    "Id": "Achievement_300309_Name",
+    "Content": "Oler el Whiff"
+  },
+  {
+    "Id": "Achievement_300310_Desc",
+    "Content": "Derrota a 66 Tick Tacks"
+  },
+  {
+    "Id": "Achievement_300310_Name",
+    "Content": "Un Tick silencioso"
+  },
+  {
+    "Id": "Achievement_300401_Desc",
+    "Content": "Pierde un Resonador por los ataques explosivos de los Zig Zags"
+  },
+  {
+    "Id": "Achievement_300401_Name",
+    "Content": "¡BOOM BOOM!"
+  },
+  {
+    "Id": "Achievement_300402_Desc",
+    "Content": "Pierde un Resonador cuando los Excarratas atacan"
+  },
+  {
+    "Id": "Achievement_300402_Name",
+    "Content": "Un peso mortal"
+  },
+  {
+    "Id": "Achievement_300403_Desc",
+    "Content": "Pierde un Resonador cuando el Jinete Infiernal choca"
+  },
+  {
+    "Id": "Achievement_300403_Name",
+    "Content": "Desastre inesperado"
+  },
+  {
+    "Id": "Achievement_300404_Desc",
+    "Content": "Un Resonador queda incapacitado después de haber sido lanzado por los aires por los Burbujines."
+  },
+  {
+    "Id": "Achievement_300404_Name",
+    "Content": "CRIATURA PELIGROSA"
+  },
+  {
+    "Id": "Achievement_300405_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal cuando los PS están por encima del 95%"
+  },
+  {
+    "Id": "Achievement_300405_Name",
+    "Content": "Despierta y brilla"
+  },
+  {
+    "Id": "Achievement_300406_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal de Gelio cuando los PS están por encima del 50%"
+  },
+  {
+    "Id": "Achievement_300406_Name",
+    "Content": "Escarcha helada"
+  },
+  {
+    "Id": "Achievement_300407_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal de Fusión cuando los PS están por encima del 50%"
+  },
+  {
+    "Id": "Achievement_300407_Name",
+    "Content": "Sol abrasador"
+  },
+  {
+    "Id": "Achievement_300408_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal de Electro cuando los PS están por encima del 50%"
+  },
+  {
+    "Id": "Achievement_300408_Name",
+    "Content": "Entierra el trueno"
+  },
+  {
+    "Id": "Achievement_300409_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal de Aero cuando los PS están por encima del 50%"
+  },
+  {
+    "Id": "Achievement_300409_Name",
+    "Content": "Viento ruidoso"
+  },
+  {
+    "Id": "Achievement_300410_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal de Espectro cuando los PS están por encima del 50%"
+  },
+  {
+    "Id": "Achievement_300410_Name",
+    "Content": "Sobre-Fotosíntesis"
+  },
+  {
+    "Id": "Achievement_300411_Desc",
+    "Content": "Pierde un Resonador por un golpe fatal de Destrucción cuando los PS están por encima del 50%"
+  },
+  {
+    "Id": "Achievement_300411_Name",
+    "Content": "Cierra tus ojos cuando está oscuro"
+  },
+  {
+    "Id": "Achievement_300501_Desc",
+    "Content": "Desbloquea \"Torre de la adversidad: Zona peligrosa\"."
+  },
+  {
+    "Id": "Achievement_300501_Name",
+    "Content": "No vayas suave a esa buena noche"
+  },
+  {
+    "Id": "Achievement_300502_Desc",
+    "Content": "Completa todas las etapas en «Torre de la adversidad: Zona peligrosa»."
+  },
+  {
+    "Id": "Achievement_300502_Name",
+    "Content": "Fantasma del bosque oscuro: Cazador"
+  },
+  {
+    "Id": "Achievement_300503_Desc",
+    "Content": "Obtén todas las Huellas en \"Torre de la adversidad: Zona estable\""
+  },
+  {
+    "Id": "Achievement_300503_Name",
+    "Content": "Fantasma del bosque oscuro: Paseante"
+  },
+  {
+    "Id": "Achievement_300504_Desc",
+    "Content": "Obtén todas las Huellas en \"Torre de la adversidad: Zona experimental\""
+  },
+  {
+    "Id": "Achievement_300504_Name",
+    "Content": "Fantasma del bosque oscuro: Acechador"
+  },
+  {
+    "Id": "Achievement_300505_Desc",
+    "Content": "Obtén todas las Huellas en \"Torre de la adversidad: Zona peligrosa\"."
+  },
+  {
+    "Id": "Achievement_300505_Name",
+    "Content": "Fantasma del bosque oscuro: Observador"
+  },
+  {
+    "Id": "Achievement_300506_Desc",
+    "Content": "Completa «Holograma táctico: Calamidad» - «Mephis Tempestad I»."
+  },
+  {
+    "Id": "Achievement_300506_Name",
+    "Content": "Trueno en el mar ardiente"
+  },
+  {
+    "Id": "Achievement_300507_Desc",
+    "Content": "Completa «Holograma táctico: Calamidad» - «Garza Impermanencia I»."
+  },
+  {
+    "Id": "Achievement_300507_Name",
+    "Content": "Pájaro extraño en la montaña"
+  },
+  {
+    "Id": "Achievement_300508_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Aix del Lamento I»."
+  },
+  {
+    "Id": "Achievement_300508_Name",
+    "Content": "Tierra de la Cigarra Cantante"
+  },
+  {
+    "Id": "Achievement_300509_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Beringal del Bosque I»."
+  },
+  {
+    "Id": "Achievement_300509_Name",
+    "Content": "Encuentro con el Rey"
+  },
+  {
+    "Id": "Achievement_300510_Desc",
+    "Content": "Usa el objeto de Renacimiento por primera vez."
+  },
+  {
+    "Id": "Achievement_300510_Name",
+    "Content": "Momento Una vez Más"
+  },
+  {
+    "Id": "Achievement_300511_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Mephis Tempestad VI»."
+  },
+  {
+    "Id": "Achievement_300511_Name",
+    "Content": "Silenciador de Truenos"
+  },
+  {
+    "Id": "Achievement_300512_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Garza Impermanencia VI»."
+  },
+  {
+    "Id": "Achievement_300512_Name",
+    "Content": "Guardián de la Mina"
+  },
+  {
+    "Id": "Achievement_300513_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Aix del Lamento VI»."
+  },
+  {
+    "Id": "Achievement_300513_Name",
+    "Content": "Muere la Elegía"
+  },
+  {
+    "Id": "Achievement_300514_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Beringal del Bosque VI»."
+  },
+  {
+    "Id": "Achievement_300514_Name",
+    "Content": "No hay Rey a la Vista"
+  },
+  {
+    "Id": "Achievement_400101_Desc",
+    "Content": "La Ascensión de Resonador alcanza el Rango 6"
+  },
+  {
+    "Id": "Achievement_400101_Name",
+    "Content": "\"Heroe de la Justicia\""
+  },
+  {
+    "Id": "Achievement_400102_Desc",
+    "Content": "Mejora el Módulo de datos al Nv.8"
+  },
+  {
+    "Id": "Achievement_400102_Name",
+    "Content": "Todas las Batallas Ganadas I"
+  },
+  {
+    "Id": "Achievement_400103_Desc",
+    "Content": "Obtén el Eco de Sincorona por primera vez"
+  },
+  {
+    "Id": "Achievement_400103_Name",
+    "Content": "¡Ni siquiera quieres llamarme Hermano Mayor!"
+  },
+  {
+    "Id": "Achievement_400104_Desc",
+    "Content": "Obtén el Eco de la Geochelone Portacampana por primera vez"
+  },
+  {
+    "Id": "Achievement_400104_Name",
+    "Content": "Crianza de mascotas para principiantes"
+  },
+  {
+    "Id": "Achievement_400105_Desc",
+    "Content": "Obtén 3 Resonadores en total"
+  },
+  {
+    "Id": "Achievement_400105_Name",
+    "Content": "Cuando las estrellas brillan I"
+  },
+  {
+    "Id": "Achievement_400106_Desc",
+    "Content": "Obtén 6 Resonadores en total"
+  },
+  {
+    "Id": "Achievement_400106_Name",
+    "Content": "Cuando las estrellas brillan II"
+  },
+  {
+    "Id": "Achievement_400107_Desc",
+    "Content": "Obtén 10 Resonadores en total"
+  },
+  {
+    "Id": "Achievement_400107_Name",
+    "Content": "Cuando las estrellas brillan - III"
+  },
+  {
+    "Id": "Achievement_400108_Desc",
+    "Content": "Completa 10 misiones diarias en total."
+  },
+  {
+    "Id": "Achievement_400108_Name",
+    "Content": "Vecindario amigable I"
+  },
+  {
+    "Id": "Achievement_400109_Desc",
+    "Content": "Completa 30 misiones diarias en total."
+  },
+  {
+    "Id": "Achievement_400109_Name",
+    "Content": "Buenos vecinos de los ciudadanos - II"
+  },
+  {
+    "Id": "Achievement_400110_Desc",
+    "Content": "Completa un total de 50 misiones diarias."
+  },
+  {
+    "Id": "Achievement_400110_Name",
+    "Content": "Vecindario amigable II"
+  },
+  {
+    "Id": "Achievement_400111_Desc",
+    "Content": "Equipa un arma de 4 estrellas"
+  },
+  {
+    "Id": "Achievement_400111_Name",
+    "Content": "Primer intento"
+  },
+  {
+    "Id": "Achievement_400113_Desc",
+    "Content": "Mejora el Módulo de datos al Nv.15"
+  },
+  {
+    "Id": "Achievement_400113_Name",
+    "Content": "Todas las Batallas Ganadas II"
+  },
+  {
+    "Id": "Achievement_400114_Desc",
+    "Content": "Mejora el Módulo de datos al Nv.20"
+  },
+  {
+    "Id": "Achievement_400114_Name",
+    "Content": "Todas las Batallas Ganadas III"
+  },
+  {
+    "Id": "Achievement_400115_Desc",
+    "Content": "Mejora todas las habilidades de cualquier Resonador al nivel máximo"
+  },
+  {
+    "Id": "Achievement_400115_Name",
+    "Content": "\"El Frágil Yo ya está Muerto\""
+  },
+  {
+    "Id": "Achievement_400201_Desc",
+    "Content": "Absorbe un Eco de 3 estrellas"
+  },
+  {
+    "Id": "Achievement_400201_Name",
+    "Content": "¡Mientras Funcione!"
+  },
+  {
+    "Id": "Achievement_400202_Desc",
+    "Content": "Absorbe un Eco de 4 estrellas"
+  },
+  {
+    "Id": "Achievement_400202_Name",
+    "Content": "Encantado de Conocerte"
+  },
+  {
+    "Id": "Achievement_400203_Desc",
+    "Content": "Absorbe un Eco de 5 estrellas"
+  },
+  {
+    "Id": "Achievement_400203_Name",
+    "Content": "¿Eres mi Sirviente?"
+  },
+  {
+    "Id": "Achievement_400204_Desc",
+    "Content": "Absorbe 10 Ecos de 5 estrellas"
+  },
+  {
+    "Id": "Achievement_400204_Name",
+    "Content": "Leyenda Dorada I"
+  },
+  {
+    "Id": "Achievement_400205_Desc",
+    "Content": "Mejora un Eco al nivel máximo"
+  },
+  {
+    "Id": "Achievement_400205_Name",
+    "Content": "Derrota Ecos con Ecos"
+  },
+  {
+    "Id": "Achievement_400206_Desc",
+    "Content": "Mejora un Eco de 5 estrellas al nivel máximo"
+  },
+  {
+    "Id": "Achievement_400206_Name",
+    "Content": "Entrenador As"
+  },
+  {
+    "Id": "Achievement_400207_Desc",
+    "Content": "Absorbe un total de 100 Ecos"
+  },
+  {
+    "Id": "Achievement_400207_Name",
+    "Content": "¡Conviértete en un Entusiasta de los Ecos!"
+  },
+  {
+    "Id": "Achievement_400208_Desc",
+    "Content": "Absorbe un total de 300 Ecos"
+  },
+  {
+    "Id": "Achievement_400208_Name",
+    "Content": "¡Conviértete en un Experto de los Ecos!"
+  },
+  {
+    "Id": "Achievement_400209_Desc",
+    "Content": "Absorbe un total de 500 Ecos"
+  },
+  {
+    "Id": "Achievement_400209_Name",
+    "Content": "¡Conviértete en el Maestro de los Ecos!"
+  },
+  {
+    "Id": "Achievement_400210_Desc",
+    "Content": "Ajusta Ecos 50 veces"
+  },
+  {
+    "Id": "Achievement_400210_Name",
+    "Content": "Efecto Mariposa I"
+  },
+  {
+    "Id": "Achievement_400211_Desc",
+    "Content": "Ajusta Ecos 100 veces"
+  },
+  {
+    "Id": "Achievement_400211_Name",
+    "Content": "Efecto Mariposa II"
+  },
+  {
+    "Id": "Achievement_400212_Desc",
+    "Content": "Ajusta los Ecos 200 veces"
+  },
+  {
+    "Id": "Achievement_400212_Name",
+    "Content": "Efecto Mariposa III"
+  },
+  {
+    "Id": "Achievement_400213_Desc",
+    "Content": "Absorbe 20 Ecos de 5 estrellas"
+  },
+  {
+    "Id": "Achievement_400213_Name",
+    "Content": "Leyenda Dorada II"
+  },
+  {
+    "Id": "Achievement_400214_Desc",
+    "Content": "Absorbe 50 Ecos de 5 estrellas"
+  },
+  {
+    "Id": "Achievement_400214_Name",
+    "Content": "Leyenda Dorada III"
+  },
+  {
+    "Id": "Achievement_400215_Desc",
+    "Content": "Activa todos los efectos Sonata de un conjunto de eco por primera vez."
+  },
+  {
+    "Id": "Achievement_400215_Name",
+    "Content": "Nada Menos"
+  },
+  {
+    "Id": "Achievement_400216_Desc",
+    "Content": "¿Qué demonios es una cosa brillante y luminosa...?"
+  },
+  {
+    "Id": "Achievement_400216_Name",
+    "Content": "¿También crees en la luz?"
+  },
+  {
+    "Id": "Achievement_700101_Desc",
+    "Content": "Supera la Dificultad IV con el Eco de Sincorona"
+  },
+  {
+    "Id": "Achievement_700102_Desc",
+    "Content": "Supera la Dificultad IV con el Eco de la Geochelone Portacampana"
+  },
+  {
+    "Id": "Achievement_700103_Desc",
+    "Content": "Supera la Dificultad IV con el Eco del Jinete Infiernal"
+  },
+  {
+    "Id": "Achievement_700201_Desc",
+    "Content": "Activa la cuarta habilidad adicional del Eco de Sincorona"
+  },
+  {
+    "Id": "Achievement_700202_Desc",
+    "Content": "Activa la cuarta habilidad adicional del Eco del Jinete Infiernal"
+  },
+  {
+    "Id": "Achievement_700203_Desc",
+    "Content": "Activa la cuarta habilidad adicional del Eco de la Geochelone Portacampana"
+  },
+  {
+    "Id": "Achievement_700204_Desc",
+    "Content": "Supera cualquier dificultad de las Profundidades del Reino Ilusorio con los PS máx."
+  },
+  {
+    "Id": "Achievement_700205_Desc",
+    "Content": "Supera las Profundidades del Reino Ilusorio: Dificultad V una vez"
+  },
+  {
+    "Id": "Achievement_700401_Desc",
+    "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio con Yangyang."
+  },
+  {
+    "Id": "Achievement_700402_Desc",
+    "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio 1 vez con Errante: Espectro."
+  },
+  {
+    "Id": "Achievement_700403_Desc",
+    "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio 1 vez con Baizhi."
+  },
+  {
+    "Id": "Achievement_700404_Desc",
+    "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio 1 vez con Chixia."
+  },
+  {
+    "Id": "Achievement_700405_Desc",
+    "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio 1 vez con Jiyan."
+  },
+  {
+    "Id": "Achievement_700406_Desc",
+    "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio 1 vez con Taoqi."
+  }
+]

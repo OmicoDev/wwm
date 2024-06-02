@@ -1,0 +1,62 @@
+versions:
+  circuit: "0.22.1"
+  compose.multiplatform: "1.6.10"
+  consensus: "0.9.0"
+  gradle: "8.8"
+  kotlin: "2.0.0"
+  kotlinx:
+    coroutines: "1.8.1"
+    serialization: "1.6.3"
+  okio: "3.9.0"
+  plugins:
+    develocity: "3.17.4"
+    spotless: "6.25.0"
+
+repositories:
+  jetbrainsCompose:
+    url: "https://maven.pkg.jetbrains.space/public/p/compose/dev"
+  google:
+  omico:
+  mavenCentral:
+  gradlePluginPortal:
+
+plugins:
+  gradlePluginPortal:
+    com.diffplug.spotless: ${versions.plugins.spotless}
+    com.gradle.develocity: ${versions.plugins.develocity}
+    org.jetbrains.compose: ${versions.compose.multiplatform}
+    org.jetbrains.kotlin.plugin.compose: ${versions.kotlin}
+    org.jetbrains.kotlin.plugin.serialization: ${versions.kotlin}
+  omico:
+    me.omico.consensus.api: ${versions.consensus}
+    me.omico.consensus.git: ${versions.consensus}
+    me.omico.consensus.spotless: ${versions.consensus}
+
+dependencies:
+  mavenCentral:
+    com.slack.circuit:
+      circuit-foundation:
+        alias: circuit.foundation
+        version: ${versions.circuit}
+    org.jetbrains.kotlin:
+      kotlin-gradle-plugin:
+        alias: kotlinGradlePlugin
+        version: ${versions.kotlin}
+    org.jetbrains.kotlinx:
+      kotlinx-coroutines-core:
+        alias: kotlinx.coroutines.core
+        version: ${versions.kotlinx.coroutines}
+      kotlinx-coroutines-swing:
+        alias: kotlinx.coroutines.swing
+        version: ${versions.kotlinx.coroutines}
+      kotlinx-serialization-core:
+        alias: kotlinx.serialization.core
+        version: ${versions.kotlinx.serialization}
+      kotlinx-serialization-json:
+        alias: kotlinx.serialization.json
+        version: ${versions.kotlinx.serialization}
+  omico:
+    me.omico.consensus:
+      consensus-dsl:
+        alias: me.omico.consensus.dsl
+        version: ${versions.consensus}

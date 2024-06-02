@@ -1,0 +1,1706 @@
+[
+  {
+    "Id": "AchievementCategory_1_Name",
+    "Content": "Erkundung"
+  },
+  {
+    "Id": "AchievementCategory_2_Name",
+    "Content": "Reise"
+  },
+  {
+    "Id": "AchievementCategory_3_Name",
+    "Content": "Kämpfe"
+  },
+  {
+    "Id": "AchievementCategory_4_Name",
+    "Content": "Stimmen"
+  },
+  {
+    "Id": "AchievementCategory_6_Name",
+    "Content": "Freunde"
+  },
+  {
+    "Id": "AchievementGroup_1001_Name",
+    "Content": "Erkundung: Huanglong"
+  },
+  {
+    "Id": "AchievementGroup_1002_Name",
+    "Content": "Huanglong I"
+  },
+  {
+    "Id": "AchievementGroup_1004_Name",
+    "Content": "Rufe aus der Wildnis"
+  },
+  {
+    "Id": "AchievementGroup_2001_Name",
+    "Content": "Rovers Reise"
+  },
+  {
+    "Id": "AchievementGroup_2003_Name",
+    "Content": "Momente mit dir"
+  },
+  {
+    "Id": "AchievementGroup_3001_Name",
+    "Content": "Erinnerungen an Kämpfe"
+  },
+  {
+    "Id": "AchievementGroup_3002_Name",
+    "Content": "Kampffähigkeiten I"
+  },
+  {
+    "Id": "AchievementGroup_3003_Name",
+    "Content": "Kampffähigkeiten II"
+  },
+  {
+    "Id": "AchievementGroup_3004_Name",
+    "Content": "Unerwartete Erfahrung"
+  },
+  {
+    "Id": "AchievementGroup_3005_Name",
+    "Content": "Aus dem Abgrundturm I"
+  },
+  {
+    "Id": "AchievementGroup_4001_Name",
+    "Content": "Pfad des Wachstums"
+  },
+  {
+    "Id": "AchievementGroup_4002_Name",
+    "Content": "Echo-Sammlung"
+  },
+  {
+    "Id": "AchievementGroup_5001_Name",
+    "Content": "Freundschaft aus anderen Reichen"
+  },
+  {
+    "Id": "Achievement_100101_Desc",
+    "Content": "Setz dich auf den höchsten Stuhl in Jinzhou"
+  },
+  {
+    "Id": "Achievement_100101_Name",
+    "Content": "KRAFT!"
+  },
+  {
+    "Id": "Achievement_100102_Desc",
+    "Content": "Schließe „Stille Geschichte“ ab."
+  },
+  {
+    "Id": "Achievement_100102_Name",
+    "Content": "Mögen die Leuchtfeuer uns leiten"
+  },
+  {
+    "Id": "Achievement_100103_Desc",
+    "Content": "Löse einmal ein Magnetisches Würfel-Rätsel."
+  },
+  {
+    "Id": "Achievement_100103_Name",
+    "Content": "Einbahnstraße voraus"
+  },
+  {
+    "Id": "Achievement_100104_Desc",
+    "Content": "Löse einmal ein Verschlüsselungsblock-Rätsel."
+  },
+  {
+    "Id": "Achievement_100104_Name",
+    "Content": "Zünde das Feuerwerk an"
+  },
+  {
+    "Id": "Achievement_100105_Desc",
+    "Content": "Schließe 5 Echo-Herausforderungen ab"
+  },
+  {
+    "Id": "Achievement_100105_Name",
+    "Content": "Die Verwandlung"
+  },
+  {
+    "Id": "Achievement_100106_Desc",
+    "Content": "Schließe „Parallele Wahrnehmung“ zum ersten Mal ab."
+  },
+  {
+    "Id": "Achievement_100106_Name",
+    "Content": "Schnellste Legende"
+  },
+  {
+    "Id": "Achievement_100107_Desc",
+    "Content": "Schließe „Perspektivenbieger“ zum ersten Mal ab."
+  },
+  {
+    "Id": "Achievement_100107_Name",
+    "Content": "Perspektivenbieger"
+  },
+  {
+    "Id": "Achievement_100108_Desc",
+    "Content": "Manövriere die Puppen in „Einsamer Pfad“ durch den Laserkorridor"
+  },
+  {
+    "Id": "Achievement_100108_Name",
+    "Content": "Tanze im Laserlicht"
+  },
+  {
+    "Id": "Achievement_100110_Desc",
+    "Content": "Besiege „Rosenpilz-Variante“ in der Hafenstadt Guixu"
+  },
+  {
+    "Id": "Achievement_100110_Name",
+    "Content": "Pflanzen gegen Zombie-Rosenpilz?"
+  },
+  {
+    "Id": "Achievement_100111_Desc",
+    "Content": "Besiege den „Sabyrkin“ im Tigerschlund"
+  },
+  {
+    "Id": "Achievement_100111_Name",
+    "Content": "Wildschweinwald-Rampage"
+  },
+  {
+    "Id": "Achievement_100112_Desc",
+    "Content": "Besiege „Grüne Flammeneidechse: Ultimativ“ in den Zentralebenen"
+  },
+  {
+    "Id": "Achievement_100112_Name",
+    "Content": "Das „Ultimativ“"
+  },
+  {
+    "Id": "Achievement_100113_Desc",
+    "Content": "Besiege den „Wüstenbrüller“ in der Bucht Wuming"
+  },
+  {
+    "Id": "Achievement_100113_Name",
+    "Content": "Tanzen mit den Wölfen"
+  },
+  {
+    "Id": "Achievement_100114_Desc",
+    "Content": "Wenn es einen Mann und einen Bären in der Wildnis gibt ..."
+  },
+  {
+    "Id": "Achievement_100114_Name",
+    "Content": "Hier kommt der Bär"
+  },
+  {
+    "Id": "Achievement_100115_Desc",
+    "Content": "Besiege den „Obelisk-Wächter“ im Hochland Desorock."
+  },
+  {
+    "Id": "Achievement_100115_Name",
+    "Content": "Nur ein Felsen"
+  },
+  {
+    "Id": "Achievement_100116_Desc",
+    "Content": "Besiege „Zwillingsreiher“ im Jaulenden Sumpf"
+  },
+  {
+    "Id": "Achievement_100116_Name",
+    "Content": "Obwohl ich nicht fliegen kann"
+  },
+  {
+    "Id": "Achievement_100117_Desc",
+    "Content": "Besiege „Karapax: Motor Null“ in den Zentralebenen."
+  },
+  {
+    "Id": "Achievement_100117_Name",
+    "Content": "Liebe, Tod & Verlassene Autos"
+  },
+  {
+    "Id": "Achievement_100118_Desc",
+    "Content": "Besiege den „Jungen Murmurin“ im Düsteren Wald."
+  },
+  {
+    "Id": "Achievement_100118_Name",
+    "Content": "Nicht mein Gegner!"
+  },
+  {
+    "Id": "Achievement_100119_Desc",
+    "Content": "Besiege die „Prisma-Herz“ im Düsteren Wald."
+  },
+  {
+    "Id": "Achievement_100119_Name",
+    "Content": "Prisma Party"
+  },
+  {
+    "Id": "Achievement_100120_Desc",
+    "Content": "Besiege den „Fractsidus-Anhänger“ in der Hafenstadt Guixu."
+  },
+  {
+    "Id": "Achievement_100120_Name",
+    "Content": "Debütprojekt der Big Three!"
+  },
+  {
+    "Id": "Achievement_100121_Desc",
+    "Content": "Besiege „Autopuppen-Späher-01“ in den Zentralebenen"
+  },
+  {
+    "Id": "Achievement_100121_Name",
+    "Content": "Protokoll 3. A-Angriff!"
+  },
+  {
+    "Id": "Achievement_100122_Desc",
+    "Content": "Besiege das „Illuminator-Theater“ im Hochland Desorock."
+  },
+  {
+    "Id": "Achievement_100122_Name",
+    "Content": "Sicherheit zuerst!"
+  },
+  {
+    "Id": "Achievement_100123_Desc",
+    "Content": "Besiege das „Skorpionnest“ in der Hafenstadt Guixu."
+  },
+  {
+    "Id": "Achievement_100123_Name",
+    "Content": "Leere das Nest"
+  },
+  {
+    "Id": "Achievement_100124_Desc",
+    "Content": "Löse das Rätsel auf der Pinnwand im Online-Modus."
+  },
+  {
+    "Id": "Achievement_100124_Name",
+    "Content": "Sternenherz"
+  },
+  {
+    "Id": "Achievement_100125_Desc",
+    "Content": "Besiege den „Wilden Scharlachroten“ im Düsteren Wald"
+  },
+  {
+    "Id": "Achievement_100125_Name",
+    "Content": "Gorilla-Gucker"
+  },
+  {
+    "Id": "Achievement_100126_Desc",
+    "Content": "Besiege den „Abgrundreiter“ im Dorf Qichi."
+  },
+  {
+    "Id": "Achievement_100126_Name",
+    "Content": "Wir sind der Herausforderer, mein Freund"
+  },
+  {
+    "Id": "Achievement_100201_Desc",
+    "Content": "Schließe „Wir versprechen, wir liefern“ ab."
+  },
+  {
+    "Id": "Achievement_100201_Name",
+    "Content": "Ehre mein Motto"
+  },
+  {
+    "Id": "Achievement_100202_Desc",
+    "Content": "Schließe „Klagelied von Jenseits“ ab"
+  },
+  {
+    "Id": "Achievement_100202_Name",
+    "Content": "Erinnere dich an mich"
+  },
+  {
+    "Id": "Achievement_100203_Desc",
+    "Content": "Schließe „Schatten der Vergangenheit“ ab"
+  },
+  {
+    "Id": "Achievement_100203_Name",
+    "Content": "Vergangene Tage"
+  },
+  {
+    "Id": "Achievement_100204_Desc",
+    "Content": "Schließe „Wenn der Wald nicht mehr dunkel ist“ ab"
+  },
+  {
+    "Id": "Achievement_100204_Name",
+    "Content": "Atom: Odyssee des Dschungels"
+  },
+  {
+    "Id": "Achievement_100205_Desc",
+    "Content": "Schließe „Wenn Mondlicht im Wald scheint“ ab"
+  },
+  {
+    "Id": "Achievement_100205_Name",
+    "Content": "Wenn der Wald nicht mehr dunkel ist"
+  },
+  {
+    "Id": "Achievement_100206_Desc",
+    "Content": "Schließe „Radarreaktivierung“ ab"
+  },
+  {
+    "Id": "Achievement_100206_Name",
+    "Content": "Die Sonne geht wie gewohnt auf"
+  },
+  {
+    "Id": "Achievement_100207_Desc",
+    "Content": "Schließe „ Vergangenheit ist die Zukunft“ ab"
+  },
+  {
+    "Id": "Achievement_100207_Name",
+    "Content": "Die Zukunft ist hier"
+  },
+  {
+    "Id": "Achievement_100208_Desc",
+    "Content": "Schließe „ Das ewige Konzert“ ab"
+  },
+  {
+    "Id": "Achievement_100208_Name",
+    "Content": "Eine Zeit jenseits deiner Reichweite"
+  },
+  {
+    "Id": "Achievement_100209_Desc",
+    "Content": "Schließe „ Geheime Untersuchung“ ab"
+  },
+  {
+    "Id": "Achievement_100209_Name",
+    "Content": "Entschuldigung, ich bin ein Patrouilleur"
+  },
+  {
+    "Id": "Achievement_100210_Desc",
+    "Content": "Schließe „ Die verborgene Wahrheit“ ab"
+  },
+  {
+    "Id": "Achievement_100210_Name",
+    "Content": "Ein verzweifelter Wagnis"
+  },
+  {
+    "Id": "Achievement_100211_Desc",
+    "Content": "Schließe „ Lagerüberfall“ ab"
+  },
+  {
+    "Id": "Achievement_100211_Name",
+    "Content": "Der Mutige gewinnt, wenn sich die Wege kreuzen!"
+  },
+  {
+    "Id": "Achievement_100212_Desc",
+    "Content": "Schließe „ Ein Wunder geschieht?“ ab."
+  },
+  {
+    "Id": "Achievement_100212_Name",
+    "Content": "Nichts ist kostenlos"
+  },
+  {
+    "Id": "Achievement_100213_Desc",
+    "Content": "Schließe „ Die sagenumwobene Mechanik des magnetischen Würfels“ ab"
+  },
+  {
+    "Id": "Achievement_100213_Name",
+    "Content": "Dein Geheimnis, Ich werde es beantworten"
+  },
+  {
+    "Id": "Achievement_100214_Desc",
+    "Content": "Schließe „ Reisen in Jinzhou: Gulpuffs“ ab"
+  },
+  {
+    "Id": "Achievement_100214_Name",
+    "Content": "Schwimmen, bis das Meer blau wird"
+  },
+  {
+    "Id": "Achievement_100215_Desc",
+    "Content": "Schließe „Löwentänzer-Praxis“ ab."
+  },
+  {
+    "Id": "Achievement_100215_Name",
+    "Content": "Voll besetzt"
+  },
+  {
+    "Id": "Achievement_100216_Desc",
+    "Content": "Schließe „ Held des Sprungs“ ab"
+  },
+  {
+    "Id": "Achievement_100216_Name",
+    "Content": "Der Meister von Overdashing"
+  },
+  {
+    "Id": "Achievement_100401_Desc",
+    "Content": "Schmiede einmal eine Waffe"
+  },
+  {
+    "Id": "Achievement_100401_Name",
+    "Content": "Geschickter Handwerker"
+  },
+  {
+    "Id": "Achievement_100402_Desc",
+    "Content": "Fange 50 Fische"
+  },
+  {
+    "Id": "Achievement_100402_Name",
+    "Content": "Anglermeister I"
+  },
+  {
+    "Id": "Achievement_100403_Desc",
+    "Content": "Fange 100 Fische"
+  },
+  {
+    "Id": "Achievement_100403_Name",
+    "Content": "Anglermeister II"
+  },
+  {
+    "Id": "Achievement_100404_Desc",
+    "Content": "Besorg dich 50 Geflügelstücke."
+  },
+  {
+    "Id": "Achievement_100404_Name",
+    "Content": "Jagdmeister I"
+  },
+  {
+    "Id": "Achievement_100405_Desc",
+    "Content": "Erhalte 100 Stück Geflügel"
+  },
+  {
+    "Id": "Achievement_100405_Name",
+    "Content": "Jagdmeister II"
+  },
+  {
+    "Id": "Achievement_100406_Desc",
+    "Content": "Besorg dich 50 Stücke Rohes Fleisch."
+  },
+  {
+    "Id": "Achievement_100406_Name",
+    "Content": "Wildjäger I"
+  },
+  {
+    "Id": "Achievement_100407_Desc",
+    "Content": "Erhalte 100 Stück Rohes Fleisch"
+  },
+  {
+    "Id": "Achievement_100407_Name",
+    "Content": "Wildjäger II"
+  },
+  {
+    "Id": "Achievement_100408_Desc",
+    "Content": "Sammle 50 Mal Mineralien"
+  },
+  {
+    "Id": "Achievement_100408_Name",
+    "Content": "Goldgräber I"
+  },
+  {
+    "Id": "Achievement_100409_Desc",
+    "Content": "Sammle 100 Mal Mineralien"
+  },
+  {
+    "Id": "Achievement_100409_Name",
+    "Content": "Goldgräber II"
+  },
+  {
+    "Id": "Achievement_100410_Desc",
+    "Content": "Mache 1 Würzig gezupftes Hähnchen"
+  },
+  {
+    "Id": "Achievement_100410_Name",
+    "Content": "Gewinner-Gewinner-Hühnchen-Abendessen"
+  },
+  {
+    "Id": "Achievement_100411_Desc",
+    "Content": "Fange 200 Fische"
+  },
+  {
+    "Id": "Achievement_100411_Name",
+    "Content": "Fischmeister III"
+  },
+  {
+    "Id": "Achievement_100412_Desc",
+    "Content": "Erhalte 200 Stück Geflügel"
+  },
+  {
+    "Id": "Achievement_100412_Name",
+    "Content": "Jagdmeister III"
+  },
+  {
+    "Id": "Achievement_100413_Desc",
+    "Content": "Erhalte 200 Stück Rohes Fleisch"
+  },
+  {
+    "Id": "Achievement_100413_Name",
+    "Content": "Wilder Jäger III"
+  },
+  {
+    "Id": "Achievement_100414_Desc",
+    "Content": "Sammle 200 Mal Mineralien"
+  },
+  {
+    "Id": "Achievement_100414_Name",
+    "Content": "Goldgräber III"
+  },
+  {
+    "Id": "Achievement_100416_Desc",
+    "Content": "Benutze Echojagd 50 Mal."
+  },
+  {
+    "Id": "Achievement_100416_Name",
+    "Content": "Folge der Karte"
+  },
+  {
+    "Id": "Achievement_100417_Desc",
+    "Content": "Verwende den Trank 20 Mal."
+  },
+  {
+    "Id": "Achievement_100417_Name",
+    "Content": "Effektiver Trank I"
+  },
+  {
+    "Id": "Achievement_100418_Desc",
+    "Content": "Trank 50 Mal verwenden"
+  },
+  {
+    "Id": "Achievement_100418_Name",
+    "Content": "Effektiver Trank II"
+  },
+  {
+    "Id": "Achievement_100419_Desc",
+    "Content": "Trank 100 Mal verwenden"
+  },
+  {
+    "Id": "Achievement_100419_Name",
+    "Content": "Effektiver Trank III"
+  },
+  {
+    "Id": "Achievement_100420_Desc",
+    "Content": "Verzehre 20 Mal Gerichte."
+  },
+  {
+    "Id": "Achievement_100420_Name",
+    "Content": "Genussfreude I"
+  },
+  {
+    "Id": "Achievement_100421_Desc",
+    "Content": "Verzehre Gerichte 50 Mal"
+  },
+  {
+    "Id": "Achievement_100421_Name",
+    "Content": "Genussfreude II"
+  },
+  {
+    "Id": "Achievement_100422_Desc",
+    "Content": "Verzehre Gerichte 100 Mal"
+  },
+  {
+    "Id": "Achievement_100422_Name",
+    "Content": "Genussfreude III"
+  },
+  {
+    "Id": "Achievement_100423_Desc",
+    "Content": "Benutze den Synthesizer 20 Mal."
+  },
+  {
+    "Id": "Achievement_100423_Name",
+    "Content": "Kreativwerkstatt I"
+  },
+  {
+    "Id": "Achievement_100424_Desc",
+    "Content": "Benutze den Synthesizer 50 Mal."
+  },
+  {
+    "Id": "Achievement_100424_Name",
+    "Content": "Kreativwerkstatt II"
+  },
+  {
+    "Id": "Achievement_100425_Desc",
+    "Content": "Benutze den Synthesizer 100 Mal."
+  },
+  {
+    "Id": "Achievement_100425_Name",
+    "Content": "Kreativwerkstatt III"
+  },
+  {
+    "Id": "Achievement_100426_Desc",
+    "Content": "Erreiche Kochstufe 2"
+  },
+  {
+    "Id": "Achievement_100426_Name",
+    "Content": "Michelin-1-Stern-Koch"
+  },
+  {
+    "Id": "Achievement_100427_Desc",
+    "Content": "Erreiche Kochstufe 5"
+  },
+  {
+    "Id": "Achievement_100427_Name",
+    "Content": "Michelin-2-Sterne-Koch"
+  },
+  {
+    "Id": "Achievement_100429_Desc",
+    "Content": "Erreiche Synthesestufe 2."
+  },
+  {
+    "Id": "Achievement_100429_Name",
+    "Content": "Apothekers Zauber I"
+  },
+  {
+    "Id": "Achievement_100430_Desc",
+    "Content": "Erreiche Synthesestufe 5."
+  },
+  {
+    "Id": "Achievement_100430_Name",
+    "Content": "Apothekers Zauber II"
+  },
+  {
+    "Id": "Achievement_110101_Desc",
+    "Content": "Überreiche 30 Schallkassetten an Chenpi"
+  },
+  {
+    "Id": "Achievement_110101_Name",
+    "Content": "Echos der Vergangenheit: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110102_Desc",
+    "Content": "Überbringe 60 Schallkassetten an Chenpi"
+  },
+  {
+    "Id": "Achievement_110102_Name",
+    "Content": "Echos der Vergangenheit: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110103_Desc",
+    "Content": "Überbringe 115 Schallkassetten an Chenpi"
+  },
+  {
+    "Id": "Achievement_110103_Name",
+    "Content": "Echos der Vergangenheit: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110105_Desc",
+    "Content": "Aktiviere alle Resonanz-Leuchtfeuer in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110105_Name",
+    "Content": "Weltreise: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110106_Desc",
+    "Content": "Fordere alle „Taktisches Hologramm: Kalamität“ in Jinzhou heraus"
+  },
+  {
+    "Id": "Achievement_110106_Name",
+    "Content": "„Spur an“"
+  },
+  {
+    "Id": "Achievement_110107_Desc",
+    "Content": "Fordere alle Tacet-Felder in Jinzhou heraus"
+  },
+  {
+    "Id": "Achievement_110107_Name",
+    "Content": "Nur der Nachhall bleibt"
+  },
+  {
+    "Id": "Achievement_110110_Desc",
+    "Content": "Erhalte 20 Gezeiten-Erben in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110110_Name",
+    "Content": "Einäscherungs-Tuning I"
+  },
+  {
+    "Id": "Achievement_110111_Desc",
+    "Content": "Erhalte 50 Gezeiten-Erben in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110111_Name",
+    "Content": "Einäscherungs-Tuning II"
+  },
+  {
+    "Id": "Achievement_110112_Desc",
+    "Content": "Erhalte 80 Gezeiten-Erben in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110112_Name",
+    "Content": "Einäscherungs-Tuning III"
+  },
+  {
+    "Id": "Achievement_110113_Desc",
+    "Content": "Aktiviere alle Markierungen auf der Karte von Jinzhou"
+  },
+  {
+    "Id": "Achievement_110113_Name",
+    "Content": "Reite die Flut: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110114_Desc",
+    "Content": "Sammle 20 Klangschmetterlinge in Jinzhou."
+  },
+  {
+    "Id": "Achievement_110114_Name",
+    "Content": "Klang der Rückkehr"
+  },
+  {
+    "Id": "Achievement_110115_Desc",
+    "Content": "Erreiche den legendären Pionier in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110115_Name",
+    "Content": "Beweis des Pioniers: Jinzhou"
+  },
+  {
+    "Id": "Achievement_110116_Desc",
+    "Content": "Öffne 100 Vorratstruhen in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110116_Name",
+    "Content": "Kisten Sammler I"
+  },
+  {
+    "Id": "Achievement_110117_Desc",
+    "Content": "Öffne 200 Vorratstruhen in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110117_Name",
+    "Content": "Kisten Sammler II"
+  },
+  {
+    "Id": "Achievement_110118_Desc",
+    "Content": "Öffne 350 Vorratstruhen in Jinzhou"
+  },
+  {
+    "Id": "Achievement_110118_Name",
+    "Content": "Kistensammler III"
+  },
+  {
+    "Id": "Achievement_200101_Desc",
+    "Content": "Schließe die Hauptquest „Äußerung von Wundern“ ab."
+  },
+  {
+    "Id": "Achievement_200101_Name",
+    "Content": "Aus der Neuen Welt"
+  },
+  {
+    "Id": "Achievement_200102_Desc",
+    "Content": "Erhalte die Zuckerperle von Jinzhous Magistratin"
+  },
+  {
+    "Id": "Achievement_200102_Name",
+    "Content": "Zuckerzauber-Rätsel"
+  },
+  {
+    "Id": "Achievement_200103_Desc",
+    "Content": "Schließe „Erste Resonanz“ ab."
+  },
+  {
+    "Id": "Achievement_200103_Name",
+    "Content": "So sprach die Magistratin: Wortlose Botschaft"
+  },
+  {
+    "Id": "Achievement_200105_Desc",
+    "Content": "Schließe „Echo der Marche“ ab."
+  },
+  {
+    "Id": "Achievement_200105_Name",
+    "Content": "So sprach die Magistratin: Frontline-Anrufe"
+  },
+  {
+    "Id": "Achievement_200106_Desc",
+    "Content": "Schließe „Unheilvoller Stern“ ab."
+  },
+  {
+    "Id": "Achievement_200106_Name",
+    "Content": "Hirtenspiel"
+  },
+  {
+    "Id": "Achievement_200107_Desc",
+    "Content": "Untersuche den Pfirsichbaum im Dorf Qichi"
+  },
+  {
+    "Id": "Achievement_200107_Name",
+    "Content": "„Unter dem Pfirsichblütenbaum begraben …“"
+  },
+  {
+    "Id": "Achievement_200108_Desc",
+    "Content": "Schließe „Klirrende Klingen“ ab."
+  },
+  {
+    "Id": "Achievement_200108_Name",
+    "Content": "Eine flüsternde Melodie"
+  },
+  {
+    "Id": "Achievement_200109_Desc",
+    "Content": "Schließe „Zurückspulen von Regentropfen“ ab."
+  },
+  {
+    "Id": "Achievement_200109_Name",
+    "Content": "Wenn die Melodie wahr klingt"
+  },
+  {
+    "Id": "Achievement_200110_Desc",
+    "Content": "Hole alle 5 fehlenden Sonodisks"
+  },
+  {
+    "Id": "Achievement_200110_Name",
+    "Content": "Der Meister des Tunings"
+  },
+  {
+    "Id": "Achievement_200111_Desc",
+    "Content": "Schließe alle Quests von „Weltrettung? Rettung der Katzen!“ ab."
+  },
+  {
+    "Id": "Achievement_200111_Name",
+    "Content": "Kätzchen zuerst"
+  },
+  {
+    "Id": "Achievement_200115_Desc",
+    "Content": "Mache dein erstes Foto in „Fotos von Jinzhou“."
+  },
+  {
+    "Id": "Achievement_200115_Name",
+    "Content": "Immer fesselnd"
+  },
+  {
+    "Id": "Achievement_200201_Desc",
+    "Content": "Schließe „Einsamer Pfad“ ab."
+  },
+  {
+    "Id": "Achievement_200201_Name",
+    "Content": "Hüter in der Dunkelheit"
+  },
+  {
+    "Id": "Achievement_200202_Desc",
+    "Content": "Nimm an der „Gulpuff-Staffel“ in „Vor dem Morgengrauen“ teil."
+  },
+  {
+    "Id": "Achievement_200202_Name",
+    "Content": "Teilnahme ist der Schlüssel"
+  },
+  {
+    "Id": "Achievement_200203_Desc",
+    "Content": "Schließe „Vor dem Morgengrauen“ ab."
+  },
+  {
+    "Id": "Achievement_200203_Name",
+    "Content": "Der gleiche Sonnenuntergang"
+  },
+  {
+    "Id": "Achievement_200204_Desc",
+    "Content": "Schließe „Sound Tracing“ in „Rückkehr des wilden Herzens“ ab."
+  },
+  {
+    "Id": "Achievement_200204_Name",
+    "Content": "Klingende Glocken"
+  },
+  {
+    "Id": "Achievement_200205_Desc",
+    "Content": "Schließe „Rückkehr des wilden Herzens“ ab."
+  },
+  {
+    "Id": "Achievement_200205_Name",
+    "Content": "Aufsteigende Suan'ni"
+  },
+  {
+    "Id": "Achievement_200206_Desc",
+    "Content": "Schließe „Rückkehr des wilden Herzens: Am nächsten Tag“ ab."
+  },
+  {
+    "Id": "Achievement_200206_Name",
+    "Content": "Halbmond auf dem Feigenbaum"
+  },
+  {
+    "Id": "Achievement_300101_Desc",
+    "Content": "Besiege die Trauernde Aix zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300101_Name+H12:I44",
+    "Content": "Wenn Aix weint"
+  },
+  {
+    "Id": "Achievement_300102_Desc",
+    "Content": "Besiege die Fliegende Sense von Gori zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300102_Name",
+    "Content": "Beringal, wir gehen unter"
+  },
+  {
+    "Id": "Achievement_300103_Desc",
+    "Content": "Besiege die Lampylumen-Multitude zum ersten Mal."
+  },
+  {
+    "Id": "Achievement_300103_Name",
+    "Content": "Überquere den grenzenlosen Nebel"
+  },
+  {
+    "Id": "Achievement_300104_Desc",
+    "Content": "Besiege den Höllischen Reiter zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300104_Name",
+    "Content": "Reite das Inferno"
+  },
+  {
+    "Id": "Achievement_300105_Desc",
+    "Content": "Besiege die Ungekrönte zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300105_Name",
+    "Content": "Gefallene Krone"
+  },
+  {
+    "Id": "Achievement_300106_Desc",
+    "Content": "Besiege die Klingelnde Schildkröte zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300106_Name",
+    "Content": "Nur die Glocke läutet"
+  },
+  {
+    "Id": "Achievement_300107_Desc",
+    "Content": "Besiege Sturm Mephis zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300107_Name",
+    "Content": "Tanzender Blitz"
+  },
+  {
+    "Id": "Achievement_300108_Desc",
+    "Content": "Besiege die Klingelnde Schildkröte 50 Mal"
+  },
+  {
+    "Id": "Achievement_300108_Name",
+    "Content": "Aufwachen, aufwachen!"
+  },
+  {
+    "Id": "Achievement_300109_Desc",
+    "Content": "Besiege die Trauernde Aix 50 Mal"
+  },
+  {
+    "Id": "Achievement_300109_Name",
+    "Content": "Keine Echsen, aber seltsame Vögel"
+  },
+  {
+    "Id": "Achievement_300110_Desc",
+    "Content": "Besiege die Fliegende Sense von Gori 50 Mal"
+  },
+  {
+    "Id": "Achievement_300110_Name",
+    "Content": "Herrsche über den Wald"
+  },
+  {
+    "Id": "Achievement_300111_Desc",
+    "Content": "Besiege die Lampylumen-Multitude 50 Mal."
+  },
+  {
+    "Id": "Achievement_300111_Name",
+    "Content": "Durchdringe den Nebel mit Licht"
+  },
+  {
+    "Id": "Achievement_300112_Desc",
+    "Content": "Besiege den Höllischen Reiter 50 Mal"
+  },
+  {
+    "Id": "Achievement_300112_Name",
+    "Content": "Nacht-Wanderer"
+  },
+  {
+    "Id": "Achievement_300113_Desc",
+    "Content": "Besiege den Ungekrönten 50 Mal"
+  },
+  {
+    "Id": "Achievement_300113_Name",
+    "Content": "Nimm die Krone"
+  },
+  {
+    "Id": "Achievement_300114_Desc",
+    "Content": "Besiege Sturm Mephis 50 Mal"
+  },
+  {
+    "Id": "Achievement_300114_Name",
+    "Content": "Mephis Kombat"
+  },
+  {
+    "Id": "Achievement_300115_Desc",
+    "Content": "Löse Intro-Skill 20 Mal aus"
+  },
+  {
+    "Id": "Achievement_300115_Name",
+    "Content": "Tödlicher Schlag"
+  },
+  {
+    "Id": "Achievement_300116_Desc",
+    "Content": "Verwende den Echo-Skill der klingelnden Schildkröte, um der klingelnden Schildkröte den Todesstoß zu versetzen."
+  },
+  {
+    "Id": "Achievement_300116_Name",
+    "Content": "Rückstoß: Klingelnde Schildkröte"
+  },
+  {
+    "Id": "Achievement_300117_Desc",
+    "Content": "Verwende den Echo-Skill des Höllischen Reiters, um dem Höllischen Reiter den Todesstoß zu versetzen."
+  },
+  {
+    "Id": "Achievement_300117_Name",
+    "Content": "Rückstoß: Höllischer Reiter"
+  },
+  {
+    "Id": "Achievement_300118_Desc",
+    "Content": "Dieses letzte Donnergrollen ... Wo kommt es her?"
+  },
+  {
+    "Id": "Achievement_300118_Name",
+    "Content": "Verblasender Sturm"
+  },
+  {
+    "Id": "Achievement_300119_Desc",
+    "Content": "Verwende den Echo-Skill der Trauernden Aix, um der Trauernden Aix den Todesstoß zu versetzen."
+  },
+  {
+    "Id": "Achievement_300119_Name",
+    "Content": "Rückstoß: Trauernde Aix"
+  },
+  {
+    "Id": "Achievement_300120_Desc",
+    "Content": "Verwende den Echo-Skill der Ungekrönten, um der Ungekrönten den Todesstoß zu versetzen."
+  },
+  {
+    "Id": "Achievement_300120_Name",
+    "Content": "Rückstoß: Die Ungekrönte"
+  },
+  {
+    "Id": "Achievement_300121_Desc",
+    "Content": "Verwende den Echo-Skill des Donnernden Mephis, um dem Donnernden Mephis den Todesstoß zu versetzen."
+  },
+  {
+    "Id": "Achievement_300121_Name",
+    "Content": "Rückstoß: Sturm Mephis"
+  },
+  {
+    "Id": "Achievement_300122_Desc",
+    "Content": "Verursache 10.000 Punkte Krit. SCH"
+  },
+  {
+    "Id": "Achievement_300122_Name",
+    "Content": "Stiller Ausbruch"
+  },
+  {
+    "Id": "Achievement_300123_Desc",
+    "Content": "Führe 50 Mal extremes Ausweichen durch"
+  },
+  {
+    "Id": "Achievement_300123_Name",
+    "Content": "Vom Ausweichen zum Angriff"
+  },
+  {
+    "Id": "Achievement_300124_Desc",
+    "Content": "Pariere den Angriff des Feindes 10 Mal."
+  },
+  {
+    "Id": "Achievement_300124_Name",
+    "Content": "Duang!!!"
+  },
+  {
+    "Id": "Achievement_300205_Desc",
+    "Content": "Füge dem Feind mit einem Angriff 1.000 Schaden zu"
+  },
+  {
+    "Id": "Achievement_300205_Name",
+    "Content": "Die wahre Kraft!"
+  },
+  {
+    "Id": "Achievement_300206_Desc",
+    "Content": "Füge dem Feind mit einem Angriff 10.000 Schaden zu"
+  },
+  {
+    "Id": "Achievement_300206_Name",
+    "Content": "Der Großmeister"
+  },
+  {
+    "Id": "Achievement_300207_Desc",
+    "Content": "Füge insgesamt 10.000 Schaden zu"
+  },
+  {
+    "Id": "Achievement_300207_Name",
+    "Content": "Meister des Schadens I"
+  },
+  {
+    "Id": "Achievement_300208_Desc",
+    "Content": "Füge insgesamt 100.000 Schaden zu"
+  },
+  {
+    "Id": "Achievement_300208_Name",
+    "Content": "Meister des Schadens II"
+  },
+  {
+    "Id": "Achievement_300209_Desc",
+    "Content": "Füge insgesamt 1.000.000 Schaden zu"
+  },
+  {
+    "Id": "Achievement_300209_Name",
+    "Content": "Meister des Schadens III"
+  },
+  {
+    "Id": "Achievement_300210_Desc",
+    "Content": "Füge insgesamt 10.000.000 Schaden zu"
+  },
+  {
+    "Id": "Achievement_300210_Name",
+    "Content": "Meister des Schadens IV"
+  },
+  {
+    "Id": "Achievement_300211_Desc",
+    "Content": "Führe Echo-Skills aus und verwandle dich 10 Mal in Echo."
+  },
+  {
+    "Id": "Achievement_300211_Name",
+    "Content": "„Ich wähle die Form der Tacet-Dissonanz!“"
+  },
+  {
+    "Id": "Achievement_300212_Desc",
+    "Content": "Verwende zum ersten Mal den Echo-Skill einer kleinen Schildkröte."
+  },
+  {
+    "Id": "Achievement_300212_Name",
+    "Content": "Schildkrötenatmung"
+  },
+  {
+    "Id": "Achievement_300213_Desc",
+    "Content": "Beschwöre 10 Mal Echos."
+  },
+  {
+    "Id": "Achievement_300213_Name",
+    "Content": "Los & Kämpfen!"
+  },
+  {
+    "Id": "Achievement_300301_Desc",
+    "Content": "Besiege den Feind 10 Mal mit Chixias schwerem Angriff aus 7m Entfernung"
+  },
+  {
+    "Id": "Achievement_300301_Name",
+    "Content": "Praktische Pistolen I"
+  },
+  {
+    "Id": "Achievement_300302_Desc",
+    "Content": "Besiege den Feind 10 Mal mit Chixias schwerem Angriff aus 1m Entfernung"
+  },
+  {
+    "Id": "Achievement_300302_Name",
+    "Content": "Praktische Pistolen II"
+  },
+  {
+    "Id": "Achievement_300304_Desc",
+    "Content": "Besiege Chaos Dreadmane 10 Mal mit Echo-Skill von Fusion Dreadmane."
+  },
+  {
+    "Id": "Achievement_300304_Name",
+    "Content": "Neue Orte, die Alten"
+  },
+  {
+    "Id": "Achievement_300305_Desc",
+    "Content": "Besiege 100 Exilanten"
+  },
+  {
+    "Id": "Achievement_300305_Name",
+    "Content": "Der Dunkle Ritter Erhebt Sich"
+  },
+  {
+    "Id": "Achievement_300306_Desc",
+    "Content": "Besiege 66 Snip Snaps"
+  },
+  {
+    "Id": "Achievement_300306_Name",
+    "Content": "Gute Nacht, Snip Snaps"
+  },
+  {
+    "Id": "Achievement_300307_Desc",
+    "Content": "Besiege 66 Zig Zags"
+  },
+  {
+    "Id": "Achievement_300307_Name",
+    "Content": "Lichter Aus..."
+  },
+  {
+    "Id": "Achievement_300309_Desc",
+    "Content": "Besiege 66 Whiff Whaffs"
+  },
+  {
+    "Id": "Achievement_300309_Name",
+    "Content": "Schnuppere den Whiff"
+  },
+  {
+    "Id": "Achievement_300310_Desc",
+    "Content": "Besiege 66 Tick Tacks"
+  },
+  {
+    "Id": "Achievement_300310_Name",
+    "Content": "Ein Stilles Tick"
+  },
+  {
+    "Id": "Achievement_300401_Desc",
+    "Content": "Ein Resonator wird durch die explosiven Angriffe der Zig Zags außer Gefecht gesetzt."
+  },
+  {
+    "Id": "Achievement_300401_Name",
+    "Content": "BOOM BOOM!"
+  },
+  {
+    "Id": "Achievement_300402_Desc",
+    "Content": "Ein Resonator wird durch die Angriffe der Excarats außer Gefecht gesetzt."
+  },
+  {
+    "Id": "Achievement_300402_Name",
+    "Content": "Eine tödliche Last"
+  },
+  {
+    "Id": "Achievement_300403_Desc",
+    "Content": "Ein Resonator wird außer Gefecht gesetzt, nachdem er vom Höllischen Reiter angestoßen wurde."
+  },
+  {
+    "Id": "Achievement_300403_Name",
+    "Content": "Unerwartetes Desaster"
+  },
+  {
+    "Id": "Achievement_300404_Desc",
+    "Content": "Ein Resonator wird außer Gefecht gesetzt, nachdem er von den Gulpuffs jongliert wurde."
+  },
+  {
+    "Id": "Achievement_300404_Name",
+    "Content": "GEFÄHRLICHES GESCHÖPF"
+  },
+  {
+    "Id": "Achievement_300405_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Schlag außer Gefecht gesetzt, wenn die LP über 95 % liegen."
+  },
+  {
+    "Id": "Achievement_300405_Name",
+    "Content": "Aufstehen & Strahlen"
+  },
+  {
+    "Id": "Achievement_300406_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Glacio-SCH außer Gefecht gesetzt, wenn die LP über 50 % liegen."
+  },
+  {
+    "Id": "Achievement_300406_Name",
+    "Content": "Frostige Kälte"
+  },
+  {
+    "Id": "Achievement_300407_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Fusion-SCH außer Gefecht gesetzt, wenn die LP über 50 % liegen."
+  },
+  {
+    "Id": "Achievement_300407_Name",
+    "Content": "Glühende Sonne"
+  },
+  {
+    "Id": "Achievement_300408_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Electro-SCH außer Gefecht gesetzt, wenn die LP über 50 % liegen."
+  },
+  {
+    "Id": "Achievement_300408_Name",
+    "Content": "Vergrabe den Donner"
+  },
+  {
+    "Id": "Achievement_300409_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Aero-SCH außer Gefecht gesetzt, wenn die LP über 50 % liegen."
+  },
+  {
+    "Id": "Achievement_300409_Name",
+    "Content": "Lauter Wind"
+  },
+  {
+    "Id": "Achievement_300410_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Spectro-SCH außer Gefecht gesetzt, wenn die LP über 50 % liegen."
+  },
+  {
+    "Id": "Achievement_300410_Name",
+    "Content": "Über-Photosynthese"
+  },
+  {
+    "Id": "Achievement_300411_Desc",
+    "Content": "Ein Resonator wird durch einen tödlichen Chaos-SCH außer Gefecht gesetzt, wenn die LP über 50 % liegen."
+  },
+  {
+    "Id": "Achievement_300411_Name",
+    "Content": "Schließe deine Augen, wenn es dunkel ist"
+  },
+  {
+    "Id": "Achievement_300501_Desc",
+    "Content": "Schalte „Turm der Widrigkeiten: Tiefer Bereich“ frei."
+  },
+  {
+    "Id": "Achievement_300501_Name",
+    "Content": "Geh nicht sanft in diese gute Nacht"
+  },
+  {
+    "Id": "Achievement_300502_Desc",
+    "Content": "Schließe alle Level in „Turm der Widrigkeiten: Tiefer Bereich“ ab."
+  },
+  {
+    "Id": "Achievement_300502_Name",
+    "Content": "Geist des dunklen Waldes: Jäger"
+  },
+  {
+    "Id": "Achievement_300503_Desc",
+    "Content": "Erhalte alle Wappen in „Turm der Widrigkeiten: Stabiler Bereich“."
+  },
+  {
+    "Id": "Achievement_300503_Name",
+    "Content": "Geist des dunklen Waldes: Spaziergänger"
+  },
+  {
+    "Id": "Achievement_300504_Desc",
+    "Content": "Erhalte alle Wappen in „Turm der Widrigkeiten: Experimenteller Bereich“."
+  },
+  {
+    "Id": "Achievement_300504_Name",
+    "Content": "Geist des dunklen Waldes: Stalker"
+  },
+  {
+    "Id": "Achievement_300505_Desc",
+    "Content": "Erhalte alle Wappen in „Turm der Widrigkeiten: Tiefer Bereich“."
+  },
+  {
+    "Id": "Achievement_300505_Name",
+    "Content": "Geist des dunklen Waldes: Beobachter"
+  },
+  {
+    "Id": "Achievement_300506_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Sturm Mephis I“ ab."
+  },
+  {
+    "Id": "Achievement_300506_Name",
+    "Content": "Donner im brennenden Meer"
+  },
+  {
+    "Id": "Achievement_300507_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Vergänglicher Reiher I“ ab."
+  },
+  {
+    "Id": "Achievement_300507_Name",
+    "Content": "Seltsamer Vogel im Berg"
+  },
+  {
+    "Id": "Achievement_300508_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Trauernde Aix I“ ab."
+  },
+  {
+    "Id": "Achievement_300508_Name",
+    "Content": "Land der singenden Zikaden"
+  },
+  {
+    "Id": "Achievement_300509_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Fliegende Sense von Gori I“ ab."
+  },
+  {
+    "Id": "Achievement_300509_Name",
+    "Content": "Treffen mit dem König"
+  },
+  {
+    "Id": "Achievement_300510_Desc",
+    "Content": "Verwende Wiederbelebungsgegenstand zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_300510_Name",
+    "Content": "Moment noch einmal"
+  },
+  {
+    "Id": "Achievement_300511_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Sturm Mephis VI“ ab."
+  },
+  {
+    "Id": "Achievement_300511_Name",
+    "Content": "Donnerstiller"
+  },
+  {
+    "Id": "Achievement_300512_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Vergänglicher Reiher VI“ ab."
+  },
+  {
+    "Id": "Achievement_300512_Name",
+    "Content": "Minenwächter"
+  },
+  {
+    "Id": "Achievement_300513_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Trauernde Aix VI“ ab."
+  },
+  {
+    "Id": "Achievement_300513_Name",
+    "Content": "Stirbt die Elegie"
+  },
+  {
+    "Id": "Achievement_300514_Desc",
+    "Content": "Schließe „Taktisches Hologramm: Kalamität - Fliegende Sense von Gori VI“ ab."
+  },
+  {
+    "Id": "Achievement_300514_Name",
+    "Content": "Kein König in Sicht"
+  },
+  {
+    "Id": "Achievement_400101_Desc",
+    "Content": "Resonator-Aufstieg erreicht Rang 6."
+  },
+  {
+    "Id": "Achievement_400101_Name",
+    "Content": "„Held der Gerechtigkeit“"
+  },
+  {
+    "Id": "Achievement_400102_Desc",
+    "Content": "Stufe Datenbank auf St. 8 hoch."
+  },
+  {
+    "Id": "Achievement_400102_Name",
+    "Content": "Alle Kämpfe Gewonnen I"
+  },
+  {
+    "Id": "Achievement_400103_Desc",
+    "Content": "Erhalte das Echo des Ungekrönten zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_400103_Name",
+    "Content": "Du willst mich nicht mal Großer Bruder nennen!"
+  },
+  {
+    "Id": "Achievement_400104_Desc",
+    "Content": "Erhalte das Echo der Klingelnden Schildkröte zum ersten Mal"
+  },
+  {
+    "Id": "Achievement_400104_Name",
+    "Content": "Anfänger in der Haustierpflege"
+  },
+  {
+    "Id": "Achievement_400105_Desc",
+    "Content": "Erhalte insgesamt 3 Resonatoren"
+  },
+  {
+    "Id": "Achievement_400105_Name",
+    "Content": "Wenn die Sterne leuchten I"
+  },
+  {
+    "Id": "Achievement_400106_Desc",
+    "Content": "Erhalte insgesamt 6 Resonatoren"
+  },
+  {
+    "Id": "Achievement_400106_Name",
+    "Content": "Wenn die Sterne leuchten II"
+  },
+  {
+    "Id": "Achievement_400107_Desc",
+    "Content": "Erhalte insgesamt 10 Resonatoren"
+  },
+  {
+    "Id": "Achievement_400107_Name",
+    "Content": "Wenn die Sterne leuchten - III"
+  },
+  {
+    "Id": "Achievement_400108_Desc",
+    "Content": "Schließe insgesamt 10 Tägliche Quests ab"
+  },
+  {
+    "Id": "Achievement_400108_Name",
+    "Content": "Freundliche Nachbarschaft I"
+  },
+  {
+    "Id": "Achievement_400109_Desc",
+    "Content": "Schließe insgesamt 30 Tägliche Quests ab"
+  },
+  {
+    "Id": "Achievement_400109_Name",
+    "Content": "Gute Nachbarn der Bürger - II"
+  },
+  {
+    "Id": "Achievement_400110_Desc",
+    "Content": "Schließe insgesamt 50 Tägliche Quests ab"
+  },
+  {
+    "Id": "Achievement_400110_Name",
+    "Content": "Freundliche Nachbarschaft II"
+  },
+  {
+    "Id": "Achievement_400111_Desc",
+    "Content": "Rüste eine 4-Sterne-Waffe aus"
+  },
+  {
+    "Id": "Achievement_400111_Name",
+    "Content": "Erster Versuch"
+  },
+  {
+    "Id": "Achievement_400113_Desc",
+    "Content": "Stufe die Datenbank auf St. 15 hoch."
+  },
+  {
+    "Id": "Achievement_400113_Name",
+    "Content": "Alle Kämpfe Gewonnen II"
+  },
+  {
+    "Id": "Achievement_400114_Desc",
+    "Content": "Stufe die Datenbank auf St. 20 hoch."
+  },
+  {
+    "Id": "Achievement_400114_Name",
+    "Content": "Alle Kämpfe Gewonnen III"
+  },
+  {
+    "Id": "Achievement_400115_Desc",
+    "Content": "Alle Skills eines Resonators auf die max. Stufe aufwerten"
+  },
+  {
+    "Id": "Achievement_400115_Name",
+    "Content": "„Das zerbrechliche Ich ist bereits tot“"
+  },
+  {
+    "Id": "Achievement_400201_Desc",
+    "Content": "Absorbiere ein 3-Sterne Echo"
+  },
+  {
+    "Id": "Achievement_400201_Name",
+    "Content": "Hauptsache es funktioniert!"
+  },
+  {
+    "Id": "Achievement_400202_Desc",
+    "Content": "Absorbiere ein 4-Sterne Echo"
+  },
+  {
+    "Id": "Achievement_400202_Name",
+    "Content": "Freut mich, dich kennenzulernen"
+  },
+  {
+    "Id": "Achievement_400203_Desc",
+    "Content": "Absorbiere ein 5-Sterne Echo"
+  },
+  {
+    "Id": "Achievement_400203_Name",
+    "Content": "Bist du mein Diener?"
+  },
+  {
+    "Id": "Achievement_400204_Desc",
+    "Content": "Absorbiere 10 5-Sterne Echos"
+  },
+  {
+    "Id": "Achievement_400204_Name",
+    "Content": "Goldene Legende I"
+  },
+  {
+    "Id": "Achievement_400205_Desc",
+    "Content": "Ein Echo auf die max. Stufe aufwerten"
+  },
+  {
+    "Id": "Achievement_400205_Name",
+    "Content": "Besiege Echos mit Echos"
+  },
+  {
+    "Id": "Achievement_400206_Desc",
+    "Content": "Ein 5-Sterne-Echo auf die max. Stufe aufwerten"
+  },
+  {
+    "Id": "Achievement_400206_Name",
+    "Content": "Spitzen-Trainer"
+  },
+  {
+    "Id": "Achievement_400207_Desc",
+    "Content": "Absorbiere insgesamt 100 Echos"
+  },
+  {
+    "Id": "Achievement_400207_Name",
+    "Content": "Werde ein Echo-Enthusiast!"
+  },
+  {
+    "Id": "Achievement_400208_Desc",
+    "Content": "Absorbiere insgesamt 300 Echos"
+  },
+  {
+    "Id": "Achievement_400208_Name",
+    "Content": "Werde ein Echo-Experte!"
+  },
+  {
+    "Id": "Achievement_400209_Desc",
+    "Content": "Absorbiere insgesamt 500 Echos"
+  },
+  {
+    "Id": "Achievement_400209_Name",
+    "Content": "Werde der Echo-Meister!"
+  },
+  {
+    "Id": "Achievement_400210_Desc",
+    "Content": "Stimme Echos 50 Mal ab"
+  },
+  {
+    "Id": "Achievement_400210_Name",
+    "Content": "Schmetterlingseffekt I"
+  },
+  {
+    "Id": "Achievement_400211_Desc",
+    "Content": "Stimme Echos 100 Mal ab"
+  },
+  {
+    "Id": "Achievement_400211_Name",
+    "Content": "Schmetterlingseffekt II"
+  },
+  {
+    "Id": "Achievement_400212_Desc",
+    "Content": "Stimme Echos 200 Mal ab"
+  },
+  {
+    "Id": "Achievement_400212_Name",
+    "Content": "Schmetterlingseffekt III"
+  },
+  {
+    "Id": "Achievement_400213_Desc",
+    "Content": "Absorbiere 20 5-Sterne Echos"
+  },
+  {
+    "Id": "Achievement_400213_Name",
+    "Content": "Goldene Legende II"
+  },
+  {
+    "Id": "Achievement_400214_Desc",
+    "Content": "Absorbiere 50 5-Sterne Echos"
+  },
+  {
+    "Id": "Achievement_400214_Name",
+    "Content": "Goldene Legende III"
+  },
+  {
+    "Id": "Achievement_400215_Desc",
+    "Content": "Aktiviere zum ersten Mal einen 5-teiligen Bonus des Sonateneffekts"
+  },
+  {
+    "Id": "Achievement_400215_Name",
+    "Content": "Nichts weniger"
+  },
+  {
+    "Id": "Achievement_400216_Desc",
+    "Content": "Was zum Teufel ist das für ein funkelndes Ding ..."
+  },
+  {
+    "Id": "Achievement_400216_Name",
+    "Content": "Glaubst du auch an das Licht?"
+  },
+  {
+    "Id": "Achievement_700101_Desc",
+    "Content": "Schwierigkeitsstufe IV mit UngekrönteEcho bestehen"
+  },
+  {
+    "Id": "Achievement_700102_Desc",
+    "Content": "Schwierigkeitsstufe IV mit Klingelnde SchildkröteEcho bestehen"
+  },
+  {
+    "Id": "Achievement_700103_Desc",
+    "Content": "Bestehe Schwierigkeitsgrad IV mit Höllischem Reiter-Echo."
+  },
+  {
+    "Id": "Achievement_700201_Desc",
+    "Content": "Aktiviere die vierte zusätzliche Fähigkeit von Ungekrönten-Echo"
+  },
+  {
+    "Id": "Achievement_700202_Desc",
+    "Content": "Aktiviere die vierte zusätzliche Fähigkeit von Höllischem Reiter-Echo."
+  },
+  {
+    "Id": "Achievement_700203_Desc",
+    "Content": "Aktiviere die vierte zusätzliche Fähigkeit von Echo der Klingelnden Schildkröte"
+  },
+  {
+    "Id": "Achievement_700204_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ mit voller LP ab."
+  },
+  {
+    "Id": "Achievement_700205_Desc",
+    "Content": "Bestehe die Tiefen des Illusorischen Reichs: Schwierigkeitsgrad V einmal"
+  },
+  {
+    "Id": "Achievement_700401_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Yangyang ab."
+  },
+  {
+    "Id": "Achievement_700402_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Rover: Spectro ab."
+  },
+  {
+    "Id": "Achievement_700403_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Baizhi ab."
+  },
+  {
+    "Id": "Achievement_700404_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Chixia ab."
+  },
+  {
+    "Id": "Achievement_700405_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Jiyan ab."
+  },
+  {
+    "Id": "Achievement_700406_Desc",
+    "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Taoqi ab."
+  }
+]
