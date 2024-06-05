@@ -1,5 +1,5 @@
 versions:
-  circuit: "0.22.1"
+  circuit: "0.22.2"
   compose.multiplatform: "1.6.10"
   consensus: "0.9.0"
   gradle: "8.8"
