@@ -2,6 +2,7 @@ import me.omico.consensus.dsl.requireRootProject
 
 plugins {
     id("wwm.gradm")
+    id("wwm.root.androidx")
     id("wwm.root.git")
     id("wwm.root.spotless")
 }

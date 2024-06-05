@@ -42,6 +42,8 @@ kotlin {
             }
         }
 
-        createSourcePackageDirectories(project)
+        if (!path.startsWith(":wwm-androidx")) {
+            createSourcePackageDirectories(project)
+        }
     }
 }
