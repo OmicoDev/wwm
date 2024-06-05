@@ -1641,7 +1641,7 @@
   },
   {
     "Id": "Achievement_400216_Desc",
-    "Content": "Ce truc brillant est… ?"
+    "Content": "Qu'est-ce que c'est que ces choses brillantes..."
   },
   {
     "Id": "Achievement_400216_Name",
@@ -1653,11 +1653,11 @@
   },
   {
     "Id": "Achievement_700102_Desc",
-    "Content": "Passer Difficulté IV avec la Tortue clochante"
+    "Content": "passer Difficulté IV avec la Tortue clochante"
   },
   {
     "Id": "Achievement_700103_Desc",
-    "Content": "Passer Difficulté IV avec Chevalier d'Inferno"
+    "Content": "passer Difficulté IV avec Chevalier d'Inferno"
   },
   {
     "Id": "Achievement_700201_Desc",
@@ -1689,18 +1689,18 @@
   },
   {
     "Id": "Achievement_700403_Desc",
-    "Content": "Passer le Royaume fantôme avec Baizhi"
+    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Baizhi"
   },
   {
     "Id": "Achievement_700404_Desc",
-    "Content": "Passer le Royaume fantôme avec Chixia"
+    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Chixia"
   },
   {
     "Id": "Achievement_700405_Desc",
-    "Content": "Passer le Royaume fantôme avec Jiyan"
+    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Jiyan"
   },
   {
     "Id": "Achievement_700406_Desc",
-    "Content": "Passer le Royaume fantôme avec Taoqi"
+    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Taoqi"
   }
 ]
