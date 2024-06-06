@@ -4,13 +4,16 @@
 package dev.omico.wwm.application
 
 import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.adaptive.navigationsuite.ExperimentalMaterial3AdaptiveNavigationSuiteApi
 import androidx.compose.runtime.Composable
+import dev.omico.wwm.feature.achievements.AchievementsScreen
+import dev.omico.wwm.ui.WwmContainer
 
-@OptIn(ExperimentalMaterial3AdaptiveNavigationSuiteApi::class)
 @Composable
 fun WwmApp() {
     MaterialTheme {
-        WwmContainer()
+        WwmContainer(
+            circuit = wwmCircuit,
+            initialScreen = AchievementsScreen,
+        )
     }
 }

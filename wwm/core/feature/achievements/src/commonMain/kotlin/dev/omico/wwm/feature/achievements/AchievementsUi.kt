@@ -1,7 +1,7 @@
 /*
  * Copyright 2024 Omico. All Rights Reserved.
  */
-package dev.omico.wwm.application
+package dev.omico.wwm.feature.achievements
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Box
@@ -16,16 +16,29 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.adaptive.ExperimentalMaterial3AdaptiveApi
-import androidx.compose.material3.adaptive.currentWindowAdaptiveInfo
 import androidx.compose.material3.adaptive.layout.ListDetailPaneScaffold
+import androidx.compose.material3.adaptive.layout.ThreePaneScaffoldScope
 import androidx.compose.material3.adaptive.navigationsuite.ExperimentalMaterial3AdaptiveNavigationSuiteApi
 import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffold
-import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldDefaults
 import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteType
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
+import dev.omico.wwm.ui.LocalNavigationSuiteType
+
+@Composable
+internal fun AchievementsUi(
+    state: AchievementsUiState,
+    modifier: Modifier = Modifier,
+) {
+    AchievementsScaffold(
+        titleText = state.title,
+        listPane = { Box(modifier = Modifier.background(color = Color.LightGray)) },
+        detailPane = { Box(modifier = Modifier.background(color = Color.DarkGray)) },
+        modifier = modifier,
+    )
+}
 
 @OptIn(
     ExperimentalMaterial3AdaptiveApi::class,
@@ -33,13 +46,14 @@ import androidx.compose.ui.unit.dp
     ExperimentalMaterial3Api::class,
 )
 @Composable
-fun WwmContainer(
-    navigationSuiteType: NavigationSuiteType = run {
-        NavigationSuiteScaffoldDefaults.calculateFromAdaptiveInfo(currentWindowAdaptiveInfo())
-    },
+private fun AchievementsScaffold(
+    titleText: String,
+    listPane: @Composable ThreePaneScaffoldScope.() -> Unit,
+    detailPane: @Composable ThreePaneScaffoldScope.() -> Unit,
+    modifier: Modifier = Modifier,
 ) {
-    val titleText = "Title"
-    Column {
+    val navigationSuiteType = LocalNavigationSuiteType.current
+    Column(modifier = modifier) {
         if (navigationSuiteType == NavigationSuiteType.NavigationRail) {
             Text(
                 text = titleText,
@@ -62,6 +76,7 @@ fun WwmContainer(
             },
             content = {
                 Scaffold(
+                    modifier = modifier,
                     topBar = {
                         if (navigationSuiteType == NavigationSuiteType.NavigationBar) {
                             TopAppBar(title = { Text(text = titleText) })
@@ -69,12 +84,8 @@ fun WwmContainer(
                     },
                     content = {
                         ListDetailPaneScaffold(
-                            listPane = {
-                                Box(modifier = Modifier.background(Color.LightGray))
-                            },
-                            detailPane = {
-                                Box(modifier = Modifier.background(Color.DarkGray))
-                            },
+                            listPane = listPane,
+                            detailPane = detailPane,
                         )
                     },
                 )
