@@ -6,6 +6,7 @@ package dev.omico.wwm.feature.achievements
 import com.slack.circuit.foundation.Circuit
 import com.slack.circuit.runtime.presenter.presenterOf
 import com.slack.circuit.runtime.screen.Screen
+import dev.omico.wwm.ui.LocalWwmUiComponent
 
 object AchievementsScreen : Screen
 
@@ -19,7 +20,9 @@ fun Circuit.Builder.addAchievementsFeature(): Circuit.Builder =
         }
         addPresenter<AchievementsScreen, AchievementsUiState> { _, _, _ ->
             presenterOf {
-                produceAchievementsUiState()
+                with(LocalWwmUiComponent.current) {
+                    produceAchievementsUiState()
+                }
             }
         }
     }

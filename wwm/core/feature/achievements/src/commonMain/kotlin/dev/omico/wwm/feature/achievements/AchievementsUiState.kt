@@ -4,7 +4,9 @@
 package dev.omico.wwm.feature.achievements
 
 import com.slack.circuit.runtime.CircuitUiState
+import dev.omico.wwm.data.WwmAchievements
 
 data class AchievementsUiState(
-    val title: String = "",
+    val achievements: WwmAchievements,
+    val eventSink: (AchievementsUiEvent) -> Unit,
 ) : CircuitUiState

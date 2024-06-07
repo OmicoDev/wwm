@@ -10,7 +10,6 @@ import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffo
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
 import com.slack.circuit.backstack.rememberSaveableBackStack
-import com.slack.circuit.foundation.Circuit
 import com.slack.circuit.foundation.LocalCircuit
 import com.slack.circuit.foundation.NavigableCircuitContent
 import com.slack.circuit.foundation.rememberCircuitNavigator
@@ -24,7 +23,7 @@ import com.slack.circuit.runtime.screen.Screen
 )
 @Composable
 fun WwmContainer(
-    circuit: Circuit,
+    component: WwmUiComponent,
     initialScreen: Screen,
 ) {
     val windowAdaptiveInfo = currentWindowAdaptiveInfo()
@@ -32,7 +31,8 @@ fun WwmContainer(
     CompositionLocalProvider(
         LocalNavigationSuiteType provides navigationSuiteType,
         LocalRetainedStateRegistry provides continuityRetainedStateRegistry(),
-        LocalCircuit provides circuit,
+        LocalCircuit provides component.circuit,
+        LocalWwmUiComponent provides component,
         content = {
             val backStack = rememberSaveableBackStack(initialScreens = listOf(initialScreen))
             val navigator = rememberCircuitNavigator(

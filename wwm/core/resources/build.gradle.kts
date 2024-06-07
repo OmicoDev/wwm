@@ -6,6 +6,7 @@ kotlin {
     sourceSets {
         commonMain {
             dependencies {
+                api(project(":wwm-core-resources-model"))
                 api(project(":wwm-core-resources-runtime"))
             }
             dependencies {
