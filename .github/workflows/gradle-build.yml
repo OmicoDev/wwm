@@ -14,7 +14,7 @@ concurrency:
 jobs:
   gradle-build:
     name: Gradle Build
-    runs-on: arc-ubuntu-latest
+    runs-on: ubuntu-latest
     env:
       DEPENDENCY_GRAPH_EXCLUDE_PROJECTS: ':(gradm|initialization|project)'
     steps:
@@ -38,7 +38,7 @@ jobs:
 
   gradle-submit-dependency-graph:
     name: Gradle Submit Dependency Graph
-    uses: OmicoDev/arc-workflows/.github/workflows/gradle-submit-dependency-graph.yml@main
+    uses: OmicoDev/gradle-project-initializer-template/.github/workflows/gradle-submit-dependency-graph.yml@main
     if: ${{ github.ref == 'refs/heads/main' }}
     needs: gradle-build
     permissions:
