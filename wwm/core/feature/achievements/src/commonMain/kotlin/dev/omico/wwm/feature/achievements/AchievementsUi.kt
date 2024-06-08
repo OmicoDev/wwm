@@ -43,7 +43,6 @@ internal fun AchievementsUi(
                         state = state,
                         achievementGroup = navigator.currentDestination?.content ?: return@AnimatedPane,
                         onNavigateBack = navigator::navigateBack,
-                        onAchievementClick = {},
                     )
                 },
             )
