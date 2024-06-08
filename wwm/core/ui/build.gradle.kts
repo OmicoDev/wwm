@@ -9,6 +9,7 @@ kotlin {
                 api(project(":wwm-core-data"))
                 api(project(":wwm-core-resources"))
                 api(project(":wwm-core-ui-foundation"))
+                api(project(":wwm-core-ui-theme"))
             }
         }
     }

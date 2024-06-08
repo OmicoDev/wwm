@@ -20,6 +20,7 @@ internal class AchievementsRepositoryImpl : AchievementsRepository {
     private val wwAchievementCategories: MutableStateFlow<WwAchievementCategories> = MutableStateFlow(emptyList())
     private val wwAchievementGroups: MutableStateFlow<WwAchievementGroups> = MutableStateFlow(emptyList())
     private val wwMultiText: MutableStateFlow<WwMultiText> = MutableStateFlow(emptyList())
+    private val wwLocale: MutableStateFlow<WwLocale> = MutableStateFlow(WwLocale.ZH_HANS)
 
     override val achievements: Flow<WwmAchievements> =
         combine(
@@ -27,6 +28,7 @@ internal class AchievementsRepositoryImpl : AchievementsRepository {
             wwAchievementCategories,
             wwAchievementGroups,
             wwMultiText,
+            wwLocale,
             ::WwmAchievements,
         )
 
@@ -44,5 +46,8 @@ internal class AchievementsRepositoryImpl : AchievementsRepository {
     override suspend fun reloadAchievementGroups(): Unit =
         wwAchievementGroups.emit(WwmResources.loadAchievementGroups())
 
-    override suspend fun reloadMultiText(locale: WwLocale): Unit = wwMultiText.emit(WwmResources.loadMultiText(locale))
+    override suspend fun reloadMultiText(locale: WwLocale) {
+        wwMultiText.emit(WwmResources.loadMultiText(locale))
+        wwLocale.emit(locale)
+    }
 }
