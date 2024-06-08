@@ -17,6 +17,7 @@ kotlin {
                 api(circuit.foundation)
                 api(compose.components.resources)
                 api(compose.material3)
+                api(delusion.compose)
             }
         }
 

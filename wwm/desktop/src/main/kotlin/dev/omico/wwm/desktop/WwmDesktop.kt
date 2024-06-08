@@ -14,6 +14,7 @@ import androidx.compose.ui.window.WindowState
 import androidx.compose.ui.window.application
 import dev.omico.wwm.application.WwmApp
 import dev.omico.wwm.resources.WwmResources
+import me.omico.delusion.compose.ui.window.setMinimumSize
 import org.jetbrains.compose.resources.painterResource
 
 fun main() {
@@ -29,7 +30,13 @@ fun main() {
             ),
             title = "Wuthering Waves Manager",
             icon = painterResource(resource = WwmResources.WutheringWavesIcon),
-            content = { WwmApp() },
+            content = {
+                setMinimumSize(
+                    width = 360.dp,
+                    height = 640.dp,
+                )
+                WwmApp()
+            },
         )
     }
 }
