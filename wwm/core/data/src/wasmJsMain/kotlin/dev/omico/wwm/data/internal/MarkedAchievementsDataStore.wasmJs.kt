@@ -10,7 +10,7 @@ import kotlinx.browser.localStorage
 internal actual class MarkedAchievementsDataStore {
     actual suspend fun load(): WwmMarkedAchievementIds {
         val achievements = localStorage.getItem(ACHIEVEMENTS_KEY) ?: return emptySet()
-        return achievements.split(",").map(String::toInt).toSet()
+        return achievements.split(",").mapNotNull(String::toIntOrNull).toSet()
     }
 
     actual suspend fun save(ids: WwmMarkedAchievementIds): Unit =
