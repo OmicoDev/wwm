@@ -44,7 +44,9 @@ internal fun AchievementsListPaneUi(
                     val countAchievement by remember { derivedStateOf { state.achievements.achievements.count() } }
                     val countMarkedAchievement by remember(markedAchievementIds) {
                         derivedStateOf {
-                            state.achievements.achievements.count { achievement -> achievement.id in markedAchievementIds }
+                            state.achievements.achievements.count { achievement ->
+                                achievement.id in markedAchievementIds
+                            }
                         }
                     }
                     Text("Achievements $countMarkedAchievement/$countAchievement")
