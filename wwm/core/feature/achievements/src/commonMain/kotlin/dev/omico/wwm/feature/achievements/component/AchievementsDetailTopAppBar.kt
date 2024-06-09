@@ -13,6 +13,10 @@ import androidx.compose.material3.TopAppBar
 import androidx.compose.material3.adaptive.navigationsuite.ExperimentalMaterial3AdaptiveNavigationSuiteApi
 import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteType
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
 import dev.omico.wwm.feature.achievements.AchievementsUiState
 import dev.omico.wwm.resources.model.game.WwAchievementGroup
 import dev.omico.wwm.resources.rememberWwText
@@ -30,12 +34,24 @@ internal fun AchievementsDetailTopAppBar(
 ) {
     TopAppBar(
         title = {
-            Text(
-                text = rememberWwText(
-                    multiText = state.achievements.multiText,
-                    name = achievementGroup.name,
-                ),
+            val achievementGroupName = rememberWwText(
+                multiText = state.achievements.multiText,
+                name = achievementGroup.name,
             )
+            val markedAchievementIds by rememberUpdatedState(state.achievements.markedAchievementIds)
+            val countAchievementGroup by remember {
+                derivedStateOf {
+                    state.achievements.achievements.count { achievement -> achievement.groupId == achievementGroup.id }
+                }
+            }
+            val countMarkedAchievementGroup by remember(markedAchievementIds) {
+                derivedStateOf {
+                    state.achievements.achievements.count { achievement ->
+                        achievement.groupId == achievementGroup.id && achievement.id in markedAchievementIds
+                    }
+                }
+            }
+            Text(text = "$achievementGroupName $countMarkedAchievementGroup/$countAchievementGroup")
         },
         navigationIcon = {
             if (LocalNavigationSuiteType.current == NavigationSuiteType.NavigationBar) {

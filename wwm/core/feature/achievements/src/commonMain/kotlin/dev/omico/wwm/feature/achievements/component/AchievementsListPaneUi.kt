@@ -16,7 +16,10 @@ import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.derivedStateOf
+import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import dev.omico.wwm.feature.achievements.AchievementsUiState
@@ -36,7 +39,16 @@ internal fun AchievementsListPaneUi(
     Scaffold(
         topBar = {
             TopAppBar(
-                title = { Text("Achievements") },
+                title = {
+                    val markedAchievementIds by rememberUpdatedState(state.achievements.markedAchievementIds)
+                    val countAchievement by remember { derivedStateOf { state.achievements.achievements.count() } }
+                    val countMarkedAchievement by remember(markedAchievementIds) {
+                        derivedStateOf {
+                            state.achievements.achievements.count { achievement -> achievement.id in markedAchievementIds }
+                        }
+                    }
+                    Text("Achievements $countMarkedAchievement/$countAchievement")
+                },
                 actions = {
                     IconButton(
                         onClick = categoriesToggleState::collapseAll,
