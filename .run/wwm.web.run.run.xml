@@ -10,6 +10,7 @@
       </option>
       <option name="taskNames">
         <list>
+          <option value="spotlessApply" />
           <option value=":wwm-web:wasmJsBrowserRun" />
         </list>
       </option>
