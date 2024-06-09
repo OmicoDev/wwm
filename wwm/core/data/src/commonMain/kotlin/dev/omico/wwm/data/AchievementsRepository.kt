@@ -13,4 +13,6 @@ interface AchievementsRepository {
     suspend fun reloadAchievementCategories()
     suspend fun reloadAchievementGroups()
     suspend fun reloadMultiText(locale: WwLocale)
+    suspend fun markAchievement(achievementId: Int)
+    suspend fun unmarkAchievement(achievementId: Int)
 }

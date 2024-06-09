@@ -12,7 +12,9 @@ import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
+import dev.omico.wwm.feature.achievements.AchievementsUiEvent
 import dev.omico.wwm.feature.achievements.AchievementsUiState
+import dev.omico.wwm.feature.achievements.isAchievementMarked
 import dev.omico.wwm.resources.model.game.WwAchievement
 import dev.omico.wwm.resources.model.game.WwAchievementGroup
 import dev.omico.wwm.resources.rememberWwText
@@ -33,12 +35,19 @@ internal fun AchievementsDetailContent(
         contentPadding = contentPadding,
         content = {
             items(
-                items = achievements,
+                items = achievements.sortedBy(state::isAchievementMarked),
                 key = WwAchievement::id,
                 itemContent = { achievement ->
                     AchievementsDetailItem(
-                        marked = false,
-                        onMarkedChange = {},
+                        marked = state.isAchievementMarked(achievement),
+                        onMarkedChange = { marked ->
+                            state.eventSink(
+                                AchievementsUiEvent.ChangeAchievementMark(
+                                    marked = marked,
+                                    achievementId = achievement.id,
+                                ),
+                            )
+                        },
                         name = rememberWwText(
                             multiText = state.achievements.multiText,
                             name = achievement.name,

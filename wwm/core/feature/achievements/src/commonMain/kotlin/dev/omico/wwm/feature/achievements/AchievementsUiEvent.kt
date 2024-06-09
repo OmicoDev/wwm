@@ -8,4 +8,9 @@ import dev.omico.wwm.resources.model.game.WwLocale
 
 sealed interface AchievementsUiEvent : CircuitUiEvent {
     data class ChangeLocale(val locale: WwLocale) : AchievementsUiEvent
+
+    data class ChangeAchievementMark(
+        val marked: Boolean,
+        val achievementId: Int,
+    ) : AchievementsUiEvent
 }

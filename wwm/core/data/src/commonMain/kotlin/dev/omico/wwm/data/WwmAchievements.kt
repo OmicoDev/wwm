@@ -15,6 +15,7 @@ data class WwmAchievements(
     val achievementGroups: WwAchievementGroups = emptyList(),
     val multiText: WwMultiText = emptyList(),
     val locale: WwLocale = WwLocale.ZH_HANS,
+    val markedAchievementIds: WwmMarkedAchievementIds = emptySet(),
 ) {
     companion object {
         val Empty: WwmAchievements = WwmAchievements()
