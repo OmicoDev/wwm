@@ -1,3 +1,5 @@
+import org.jetbrains.compose.desktop.application.dsl.TargetFormat
+
 plugins {
     id("wwm.desktop.application")
 }
@@ -6,6 +8,13 @@ compose {
     desktop {
         application {
             mainClass = "dev.omico.wwm.desktop.WwmDesktop"
+            nativeDistributions {
+                packageVersion = "1.0.0"
+                targetFormats(TargetFormat.AppImage)
+                windows {
+                    iconFile = file("wwm-windows.ico")
+                }
+            }
         }
     }
 }
