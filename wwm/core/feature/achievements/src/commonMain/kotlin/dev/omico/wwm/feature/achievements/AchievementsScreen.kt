@@ -15,7 +15,7 @@ fun Circuit.Builder.addAchievementsFeature(): Circuit.Builder =
     apply {
         addUi<AchievementsScreen, AchievementsUiState> { state, modifier ->
             WwmTheme(
-                locale = state.achievements.locale,
+                locale = state.locale,
                 content = {
                     AchievementsUi(
                         state = state,

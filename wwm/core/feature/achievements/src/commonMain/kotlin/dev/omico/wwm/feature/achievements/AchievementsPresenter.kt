@@ -11,7 +11,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import com.slack.circuit.retained.collectAsRetainedState
-import dev.omico.wwm.data.WwmAchievements
+import dev.omico.wwm.resources.model.game.WwLocale
 import dev.omico.wwm.ui.WwmUiComponent
 import kotlinx.coroutines.launch
 
@@ -19,21 +19,32 @@ context(WwmUiComponent)
 @Composable
 internal fun produceAchievementsUiState(): AchievementsUiState {
     val scope = rememberCoroutineScope()
-    val achievements by achievementsRepository.achievements.collectAsRetainedState(initial = WwmAchievements.Empty)
-    var locale by remember { mutableStateOf(achievements.locale) }
+    val achievements by achievementsRepository.achievements.collectAsRetainedState(initial = emptyList())
+    val achievementCategories
+        by achievementsRepository.achievementCategories.collectAsRetainedState(initial = emptyList())
+    val achievementGroups
+        by achievementsRepository.achievementGroups.collectAsRetainedState(initial = emptyList())
+    val multiText by achievementsRepository.multiText.collectAsRetainedState(initial = emptyList())
+    val markedAchievementIds by achievementsRepository.markedAchievementIds.collectAsRetainedState(initial = emptySet())
+    var locale by remember { mutableStateOf(WwLocale.ZH_HANS) }
     LaunchedEffect(Unit) { achievementsRepository.load() }
     LaunchedEffect(locale) { achievementsRepository.reloadMultiText(locale) }
     return AchievementsUiState(
         achievements = achievements,
+        achievementCategories = achievementCategories,
+        achievementGroups = achievementGroups,
+        multiText = multiText,
+        locale = locale,
+        markedAchievementIds = markedAchievementIds,
         eventSink = { event ->
             when (event) {
                 is AchievementsUiEvent.ChangeLocale -> locale = event.locale
                 is AchievementsUiEvent.ChangeAchievementMark ->
                     scope.launch {
-                        when {
-                            event.marked -> achievementsRepository.markAchievement(event.achievementId)
-                            else -> achievementsRepository.unmarkAchievement(event.achievementId)
-                        }
+                        achievementsRepository.markAchievement(
+                            marked = event.marked,
+                            achievementId = event.achievementId,
+                        )
                     }
             }
         },

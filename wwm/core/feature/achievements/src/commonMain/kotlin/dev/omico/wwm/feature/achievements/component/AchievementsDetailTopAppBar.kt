@@ -35,18 +35,18 @@ internal fun AchievementsDetailTopAppBar(
     TopAppBar(
         title = {
             val achievementGroupName = rememberWwText(
-                multiText = state.achievements.multiText,
+                multiText = state.multiText,
                 name = achievementGroup.name,
             )
-            val markedAchievementIds by rememberUpdatedState(state.achievements.markedAchievementIds)
+            val markedAchievementIds by rememberUpdatedState(state.markedAchievementIds)
             val countAchievementGroup by remember {
                 derivedStateOf {
-                    state.achievements.achievements.count { achievement -> achievement.groupId == achievementGroup.id }
+                    state.achievements.count { achievement -> achievement.groupId == achievementGroup.id }
                 }
             }
             val countMarkedAchievementGroup by remember(markedAchievementIds) {
                 derivedStateOf {
-                    state.achievements.achievements.count { achievement ->
+                    state.achievements.count { achievement ->
                         achievement.groupId == achievementGroup.id && achievement.id in markedAchievementIds
                     }
                 }

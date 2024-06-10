@@ -14,7 +14,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import dev.omico.wwm.feature.achievements.AchievementsUiEvent
 import dev.omico.wwm.feature.achievements.AchievementsUiState
-import dev.omico.wwm.feature.achievements.isAchievementMarked
 import dev.omico.wwm.resources.model.game.WwAchievement
 import dev.omico.wwm.resources.model.game.WwAchievementGroup
 import dev.omico.wwm.resources.rememberWwText
@@ -28,18 +27,18 @@ internal fun AchievementsDetailContent(
 ) {
     val achievements by remember(achievementGroup.id) {
         derivedStateOf {
-            state.achievements.achievements.filter { achievement -> achievement.groupId == achievementGroup.id }
+            state.achievements.filter { achievement -> achievement.groupId == achievementGroup.id }
         }
     }
     LazyColumn(
         contentPadding = contentPadding,
         content = {
             items(
-                items = achievements.sortedBy(state::isAchievementMarked),
+                items = achievements.sortedBy { achievement -> achievement.id in state.markedAchievementIds },
                 key = WwAchievement::id,
                 itemContent = { achievement ->
                     AchievementsDetailItem(
-                        marked = state.isAchievementMarked(achievement),
+                        marked = achievement.id in state.markedAchievementIds,
                         onMarkedChange = { marked ->
                             state.eventSink(
                                 AchievementsUiEvent.ChangeAchievementMark(
@@ -49,11 +48,11 @@ internal fun AchievementsDetailContent(
                             )
                         },
                         name = rememberWwText(
-                            multiText = state.achievements.multiText,
+                            multiText = state.multiText,
                             name = achievement.name,
                         ),
                         description = rememberWwText(
-                            multiText = state.achievements.multiText,
+                            multiText = state.multiText,
                             name = achievement.desc,
                         ),
                         modifier = Modifier.animateItemPlacement(),

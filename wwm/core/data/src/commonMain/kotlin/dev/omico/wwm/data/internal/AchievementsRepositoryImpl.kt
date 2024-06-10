@@ -4,7 +4,6 @@
 package dev.omico.wwm.data.internal
 
 import dev.omico.wwm.data.AchievementsRepository
-import dev.omico.wwm.data.WwmAchievements
 import dev.omico.wwm.data.WwmMarkedAchievementIds
 import dev.omico.wwm.resources.WwmResources
 import dev.omico.wwm.resources.model.game.WwAchievementCategories
@@ -13,40 +12,28 @@ import dev.omico.wwm.resources.model.game.WwAchievements
 import dev.omico.wwm.resources.model.game.WwLocale
 import dev.omico.wwm.resources.model.game.WwMultiText
 import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.MutableStateFlow
-import kotlinx.coroutines.flow.combine
+import kotlinx.coroutines.flow.asSharedFlow
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
 
 internal class AchievementsRepositoryImpl(
     private val markedAchievementsDataStore: MarkedAchievementsDataStore,
 ) : AchievementsRepository {
-    private val wwAchievements: MutableStateFlow<WwAchievements> = MutableStateFlow(emptyList())
-    private val wwAchievementCategories: MutableStateFlow<WwAchievementCategories> = MutableStateFlow(emptyList())
-    private val wwAchievementGroups: MutableStateFlow<WwAchievementGroups> = MutableStateFlow(emptyList())
-    private val wwMultiText: MutableStateFlow<WwMultiText> = MutableStateFlow(emptyList())
-    private val wwLocale: MutableStateFlow<WwLocale> = MutableStateFlow(WwLocale.ZH_HANS)
-    private val markedAchievementIds: MutableStateFlow<WwmMarkedAchievementIds> = MutableStateFlow(emptySet())
+    private val wwAchievements: MutableSharedFlow<WwAchievements> = MutableSharedFlow(replay = 1)
+    private val wwAchievementCategories: MutableSharedFlow<WwAchievementCategories> = MutableSharedFlow(replay = 1)
+    private val wwAchievementGroups: MutableSharedFlow<WwAchievementGroups> = MutableSharedFlow(replay = 1)
+    private val wwMultiText: MutableSharedFlow<WwMultiText> = MutableSharedFlow(replay = 1)
+    private val wwLocale: MutableSharedFlow<WwLocale> = MutableSharedFlow(replay = 1)
+    private val _markedAchievementIds: MutableStateFlow<WwmMarkedAchievementIds> = MutableStateFlow(value = emptySet())
 
-    @Suppress("UNCHECKED_CAST")
-    override val achievements: Flow<WwmAchievements> =
-        combine(
-            wwAchievements,
-            wwAchievementCategories,
-            wwAchievementGroups,
-            wwMultiText,
-            wwLocale,
-            markedAchievementIds,
-        ) { arguments ->
-            WwmAchievements(
-                achievements = arguments[0] as WwAchievements,
-                achievementCategories = arguments[1] as WwAchievementCategories,
-                achievementGroups = arguments[2] as WwAchievementGroups,
-                multiText = arguments[3] as WwMultiText,
-                locale = arguments[4] as WwLocale,
-                markedAchievementIds = arguments[5] as WwmMarkedAchievementIds,
-            )
-        }
+    override val achievements: Flow<WwAchievements> = wwAchievements.asSharedFlow()
+    override val achievementCategories: Flow<WwAchievementCategories> = wwAchievementCategories.asSharedFlow()
+    override val achievementGroups: Flow<WwAchievementGroups> = wwAchievementGroups.asSharedFlow()
+    override val multiText: Flow<WwMultiText> = wwMultiText.asSharedFlow()
+    override val locale: Flow<WwLocale> = wwLocale.asSharedFlow()
+    override val markedAchievementIds: Flow<WwmMarkedAchievementIds> = _markedAchievementIds.asSharedFlow()
 
     override suspend fun load() {
         reloadAchievements()
@@ -56,7 +43,7 @@ internal class AchievementsRepositoryImpl(
 
     override suspend fun reloadAchievements() {
         wwAchievements.emit(WwmResources.loadAchievements())
-        markedAchievementIds.emit(markedAchievementsDataStore.load())
+        _markedAchievementIds.emit(markedAchievementsDataStore.load())
     }
 
     override suspend fun reloadAchievementCategories(): Unit =
@@ -70,17 +57,15 @@ internal class AchievementsRepositoryImpl(
         wwLocale.emit(locale)
     }
 
-    override suspend fun markAchievement(achievementId: Int): Unit =
-        saveMarkedAchievementIds(markedAchievementIds.value + achievementId)
-
-    override suspend fun unmarkAchievement(achievementId: Int): Unit =
-        saveMarkedAchievementIds(markedAchievementIds.value - achievementId)
-
     private val markedAchievementIdsMutex: Mutex = Mutex()
 
-    private suspend fun saveMarkedAchievementIds(ids: WwmMarkedAchievementIds): Unit =
+    override suspend fun markAchievement(marked: Boolean, achievementId: Int): Unit =
         markedAchievementIdsMutex.withLock {
+            val ids = when {
+                marked -> _markedAchievementIds.value + achievementId
+                else -> _markedAchievementIds.value - achievementId
+            }
             markedAchievementsDataStore.save(ids)
-            markedAchievementIds.emit(ids)
+            _markedAchievementIds.emit(ids)
         }
 }

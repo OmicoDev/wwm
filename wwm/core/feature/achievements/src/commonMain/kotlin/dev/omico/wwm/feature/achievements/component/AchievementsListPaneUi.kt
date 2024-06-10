@@ -40,13 +40,11 @@ internal fun AchievementsListPaneUi(
         topBar = {
             TopAppBar(
                 title = {
-                    val markedAchievementIds by rememberUpdatedState(state.achievements.markedAchievementIds)
-                    val countAchievement by remember { derivedStateOf { state.achievements.achievements.count() } }
+                    val markedAchievementIds by rememberUpdatedState(state.markedAchievementIds)
+                    val countAchievement by remember { derivedStateOf { state.achievements.count() } }
                     val countMarkedAchievement by remember(markedAchievementIds) {
                         derivedStateOf {
-                            state.achievements.achievements.count { achievement ->
-                                achievement.id in markedAchievementIds
-                            }
+                            state.achievements.count { achievement -> achievement.id in markedAchievementIds }
                         }
                     }
                     Text("Achievements $countMarkedAchievement/$countAchievement")
@@ -78,7 +76,7 @@ internal fun AchievementsListPaneUi(
                 verticalArrangement = Arrangement.spacedBy(space = 8.dp),
                 contentPadding = innerPadding,
                 content = {
-                    state.achievements.achievementCategories.forEach { category ->
+                    state.achievementCategories.forEach { category ->
                         achievementsCategoryItem(
                             state = state,
                             category = category,
@@ -104,7 +102,7 @@ private fun LazyListScope.achievementsCategoryItem(
     item {
         AchievementsListItem(
             text = rememberWwText(
-                multiText = state.achievements.multiText,
+                multiText = state.multiText,
                 name = category.name,
             ),
             modifier = Modifier.animateItemPlacement(),
@@ -113,12 +111,12 @@ private fun LazyListScope.achievementsCategoryItem(
     }
     if (isExpanded) {
         items(
-            items = state.achievements.achievementGroups.filter { it.category == category.id },
+            items = state.achievementGroups.filter { it.category == category.id },
             key = WwAchievementGroup::id,
             itemContent = { achievementGroup ->
                 AchievementsListItem(
                     text = rememberWwText(
-                        multiText = state.achievements.multiText,
+                        multiText = state.multiText,
                         name = achievementGroup.name,
                     ),
                     modifier = run {
