@@ -11,6 +11,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberUpdatedState
 import androidx.compose.ui.Modifier
 import dev.omico.wwm.feature.achievements.AchievementsUiEvent
 import dev.omico.wwm.feature.achievements.AchievementsUiState
@@ -25,20 +26,24 @@ internal fun AchievementsDetailContent(
     achievementGroup: WwAchievementGroup,
     contentPadding: PaddingValues,
 ) {
-    val achievements by remember(achievementGroup.id) {
+    val achievementGroupId by rememberUpdatedState(achievementGroup.id)
+    val markedAchievementIds by rememberUpdatedState(state.markedAchievementIds)
+    val achievements by remember(achievementGroupId, markedAchievementIds) {
         derivedStateOf {
-            state.achievements.filter { achievement -> achievement.groupId == achievementGroup.id }
+            state.achievements
+                .filter { achievement -> achievement.groupId == achievementGroupId }
+                .sortedBy { achievement -> achievement.id in markedAchievementIds }
         }
     }
     LazyColumn(
         contentPadding = contentPadding,
         content = {
             items(
-                items = achievements.sortedBy { achievement -> achievement.id in state.markedAchievementIds },
+                items = achievements,
                 key = WwAchievement::id,
                 itemContent = { achievement ->
                     AchievementsDetailItem(
-                        marked = achievement.id in state.markedAchievementIds,
+                        marked = achievement.id in markedAchievementIds,
                         onMarkedChange = { marked ->
                             state.eventSink(
                                 AchievementsUiEvent.ChangeAchievementMark(
