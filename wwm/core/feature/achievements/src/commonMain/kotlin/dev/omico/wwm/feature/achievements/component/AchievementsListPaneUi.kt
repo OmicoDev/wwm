@@ -99,16 +99,19 @@ private fun LazyListScope.achievementsCategoryItem(
     onCategoryItemClick: () -> Unit,
     onGroupItemClick: (WwAchievementGroup) -> Unit,
 ) {
-    item {
-        AchievementsListItem(
-            text = rememberWwText(
-                multiText = state.multiText,
-                name = category.name,
-            ),
-            modifier = Modifier.animateItemPlacement(),
-            onClick = onCategoryItemClick,
-        )
-    }
+    item(
+        key = category.id,
+        content = {
+            AchievementsListItem(
+                text = rememberWwText(
+                    multiText = state.multiText,
+                    name = category.name,
+                ),
+                modifier = Modifier.animateItemPlacement(),
+                onClick = onCategoryItemClick,
+            )
+        },
+    )
     if (isExpanded) {
         items(
             items = state.achievementGroups.filter { it.category == category.id },
