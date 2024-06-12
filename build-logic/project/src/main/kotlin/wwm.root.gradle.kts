@@ -20,3 +20,8 @@ val wrapper: Wrapper by tasks.named<Wrapper>("wrapper") {
     gradleVersion = versions.gradle
     distributionType = Wrapper.DistributionType.BIN
 }
+
+val updateYarnLock by tasks.register("updateYarnLock") {
+    delete("build/js", "kotlin-js-store")
+    finalizedBy(":wwm-web:build")
+}
