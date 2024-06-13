@@ -47,6 +47,10 @@ internal fun produceAchievementsUiState(): AchievementsUiState {
                             achievementId = event.achievementId,
                         )
                     }
+                is AchievementsUiEvent.ExportData ->
+                    scope.launch { event.onExported(achievementsRepository.exportData()) }
+                is AchievementsUiEvent.ImportData ->
+                    scope.launch { achievementsRepository.importData(event.json) }
             }
         },
     )

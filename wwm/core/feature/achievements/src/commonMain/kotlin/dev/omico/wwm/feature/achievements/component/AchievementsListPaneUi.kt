@@ -11,8 +11,6 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.LazyListScope
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.ExperimentalMaterial3Api
-import androidx.compose.material3.Icon
-import androidx.compose.material3.IconButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
@@ -23,11 +21,9 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import dev.omico.wwm.feature.achievements.AchievementsUiState
-import dev.omico.wwm.resources.WwmIcons
 import dev.omico.wwm.resources.model.game.WwAchievementCategory
 import dev.omico.wwm.resources.model.game.WwAchievementGroup
 import dev.omico.wwm.ui.rememberWwText
-import org.jetbrains.compose.resources.painterResource
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -49,23 +45,9 @@ internal fun AchievementsListPaneUi(
                     Text("Achievements $countMarkedAchievement/$countAchievement")
                 },
                 actions = {
-                    IconButton(
-                        onClick = categoriesToggleState::collapseAll,
-                        content = {
-                            Icon(
-                                painter = painterResource(resource = WwmIcons.CollapseAll),
-                                contentDescription = "Collapse all",
-                            )
-                        },
-                    )
-                    IconButton(
-                        onClick = categoriesToggleState::expandAll,
-                        content = {
-                            Icon(
-                                painter = painterResource(resource = WwmIcons.ExpandAll),
-                                contentDescription = "Expand all",
-                            )
-                        },
+                    AchievementsListPaneTopAppBarActions(
+                        state = state,
+                        categoriesToggleState = categoriesToggleState,
                     )
                 },
             )

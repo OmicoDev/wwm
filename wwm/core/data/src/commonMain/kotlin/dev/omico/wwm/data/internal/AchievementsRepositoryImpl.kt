@@ -60,11 +60,27 @@ internal class AchievementsRepositoryImpl(
     private val markedAchievementIdsMutex: Mutex = Mutex()
 
     override suspend fun markAchievement(marked: Boolean, achievementId: Int): Unit =
-        markedAchievementIdsMutex.withLock {
-            val ids = when {
+        saveMarkedAchievements {
+            when {
                 marked -> _markedAchievementIds.value + achievementId
                 else -> _markedAchievementIds.value - achievementId
             }
+        }
+
+    override suspend fun exportData(): String =
+        markedAchievementIdsMutex.withLock {
+            markedAchievementsDataStore.load().toJson()
+        }
+
+    override suspend fun importData(json: String) {
+        if (json.isEmpty()) return
+        runCatching { json.fromJson<WwmMarkedAchievementIds>() }
+            .onSuccess { ids -> saveMarkedAchievements { ids } }
+    }
+
+    private suspend fun saveMarkedAchievements(block: () -> WwmMarkedAchievementIds): Unit =
+        markedAchievementIdsMutex.withLock {
+            val ids = block()
             markedAchievementsDataStore.save(ids)
             _markedAchievementIds.emit(ids)
         }

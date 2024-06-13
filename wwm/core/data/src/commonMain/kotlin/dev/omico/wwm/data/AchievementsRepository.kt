@@ -23,4 +23,6 @@ interface AchievementsRepository {
     suspend fun reloadAchievementGroups()
     suspend fun reloadMultiText(locale: WwLocale)
     suspend fun markAchievement(marked: Boolean, achievementId: Int)
+    suspend fun exportData(): String
+    suspend fun importData(json: String)
 }

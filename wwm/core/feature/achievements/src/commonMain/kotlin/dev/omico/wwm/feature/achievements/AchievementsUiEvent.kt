@@ -13,4 +13,12 @@ sealed interface AchievementsUiEvent : CircuitUiEvent {
         val marked: Boolean,
         val achievementId: Int,
     ) : AchievementsUiEvent
+
+    data class ExportData(
+        val onExported: (json: String) -> Unit,
+    ) : AchievementsUiEvent
+
+    data class ImportData(
+        val json: String,
+    ) : AchievementsUiEvent
 }
