@@ -1081,7 +1081,7 @@
   },
   {
     "Id": "Achievement_300206_Desc",
-    "Content": "敵にダメージが10000以上の一撃を与える"
+    "Content": "敵に10000ダメージの1ヒットを与える"
   },
   {
     "Id": "Achievement_300206_Name",

@@ -641,7 +641,7 @@
   },
   {
     "Id": "Achievement_110103_Desc",
-    "Content": "向陳皮交付120個聲匣。"
+    "Content": "向陳皮交付115個聲匣。"
   },
   {
     "Id": "Achievement_110103_Name",
@@ -653,7 +653,7 @@
   },
   {
     "Id": "Achievement_110105_Name",
-    "Content": "兮曆八方·今州"
+    "Content": "兮歷八方·今州"
   },
   {
     "Id": "Achievement_110106_Desc",
@@ -745,7 +745,7 @@
   },
   {
     "Id": "Achievement_200101_Desc",
-    "Content": "完成「萬象新生」。"
+    "Content": "完成「萬象新聲」。"
   },
   {
     "Id": "Achievement_200101_Name",
@@ -777,7 +777,7 @@
   },
   {
     "Id": "Achievement_200106_Desc",
-    "Content": "完成「撞金止行陣」。"
+    "Content": "完成「奔策候殘星」。"
   },
   {
     "Id": "Achievement_200106_Name",
@@ -881,7 +881,7 @@
   },
   {
     "Id": "Achievement_300101_Desc",
-    "Content": "首次擊敗哀生鷙。"
+    "Content": "首次擊敗哀聲鷙。"
   },
   {
     "Id": "Achievement_300101_Name+H12:I44",

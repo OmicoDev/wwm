@@ -5,7 +5,7 @@
   },
   {
     "Id": "AchievementCategory_2_Name",
-    "Content": "Voyage"
+    "Content": "Exploration"
   },
   {
     "Id": "AchievementCategory_3_Name",
@@ -21,91 +21,91 @@
   },
   {
     "Id": "AchievementGroup_1001_Name",
-    "Content": "Huanglong de SOL3"
+    "Content": "Exploration : Huanglong"
   },
   {
     "Id": "AchievementGroup_1002_Name",
-    "Content": "Les pas de Huanglong-I"
+    "Content": "Huanglong I"
   },
   {
     "Id": "AchievementGroup_1004_Name",
-    "Content": "Appels en pleine nature"
+    "Content": "Les Appels de la Nature"
   },
   {
     "Id": "AchievementGroup_2001_Name",
-    "Content": "L'Odyssée de Nomade"
+    "Content": "Voyage du Nomade"
   },
   {
     "Id": "AchievementGroup_2003_Name",
-    "Content": "Souvenirs du voyage"
+    "Content": "Moments avec Toi"
   },
   {
     "Id": "AchievementGroup_3001_Name",
-    "Content": "Mémoire de la bataille"
+    "Content": "Souvenirs de Bataille"
   },
   {
     "Id": "AchievementGroup_3002_Name",
-    "Content": "Techniques de combat - I"
+    "Content": "Compétences de Combat I"
   },
   {
     "Id": "AchievementGroup_3003_Name",
-    "Content": "Techniques de combat - II"
+    "Content": "Compétences de Combat II"
   },
   {
     "Id": "AchievementGroup_3004_Name",
-    "Content": "Expérience inattendue"
+    "Content": "Expérience Inattendue"
   },
   {
     "Id": "AchievementGroup_3005_Name",
-    "Content": "De la Tour d'abîme: I"
+    "Content": "Depuis la Tour Abyssale I"
   },
   {
     "Id": "AchievementGroup_4001_Name",
-    "Content": "La voie de la croissance"
+    "Content": "Chemin de Croissance"
   },
   {
     "Id": "AchievementGroup_4002_Name",
-    "Content": "Echo collection"
+    "Content": "Collection L'Echo"
   },
   {
     "Id": "AchievementGroup_5001_Name",
-    "Content": "Amitié dans une autre région"
+    "Content": "Amitié d'Autres Royaumes"
   },
   {
     "Id": "Achievement_100101_Desc",
-    "Content": "Prenez la chaise la plus haute de Jinzhou."
+    "Content": "Asseyez-vous sur la chaise la plus haute de Jinzhou."
   },
   {
     "Id": "Achievement_100101_Name",
-    "Content": "POWER!"
+    "Content": "PUISSANCE !"
   },
   {
     "Id": "Achievement_100102_Desc",
-    "Content": "Terminer « Histoire silencieuse »."
+    "Content": "Complétez \"Histoire Silencieuse\"."
   },
   {
     "Id": "Achievement_100102_Name",
-    "Content": "Que le phare éclaire la voie"
+    "Content": "Que les Balises Nous Guident"
   },
   {
     "Id": "Achievement_100103_Desc",
-    "Content": "Résoudre l'énigme des cubes magnétiques une fois."
+    "Content": "Résolvez un puzzle de Cube Magnétique une fois."
   },
   {
     "Id": "Achievement_100103_Name",
-    "Content": "Circulation en sens unique"
+    "Content": "Route à Sens Unique Devant"
   },
   {
     "Id": "Achievement_100104_Desc",
-    "Content": "Décrypter la Zone cryptée une fois"
+    "Content": "Résolvez un puzzle de Bloc de Cryptage une fois."
   },
   {
     "Id": "Achievement_100104_Name",
-    "Content": "Feu d'artifice"
+    "Content": "Lancez les Feux d'Artifice"
   },
   {
     "Id": "Achievement_100105_Desc",
-    "Content": "Terminez 5 Défis des Echos"
+    "Content": "Complétez 5 Défis L'Echo."
   },
   {
     "Id": "Achievement_100105_Name",
@@ -117,11 +117,11 @@
   },
   {
     "Id": "Achievement_100106_Name",
-    "Content": "Légende la plus rapide"
+    "Content": "Légende la Plus Rapide"
   },
   {
     "Id": "Achievement_100107_Desc",
-    "Content": "C'est la première fois que j'utilise \"Perspective Bender\"."
+    "Content": "Complétez \"Déformeur de Perspective\" pour la première fois."
   },
   {
     "Id": "Achievement_100107_Name",
@@ -233,19 +233,19 @@
   },
   {
     "Id": "Achievement_100122_Desc",
-    "Content": "Vaincre le Spectacle de circulation aux Hauts des roches"
+    "Content": "Vaincre le \"Théâtre Illuminator\" aux Hauts des roches."
   },
   {
     "Id": "Achievement_100122_Name",
-    "Content": "La sécurité, c'est la priorité."
+    "Content": "La sécurité avant tout !"
   },
   {
     "Id": "Achievement_100123_Desc",
-    "Content": "Vaincre le Nid du scorpion à la ville de Guixu."
+    "Content": "Vaincre le \"Nid du Scorpion\" au Port de la ville Guixu."
   },
   {
     "Id": "Achievement_100123_Name",
-    "Content": "Nid vide"
+    "Content": "Vider le Nid"
   },
   {
     "Id": "Achievement_100124_Desc",
@@ -273,79 +273,79 @@
   },
   {
     "Id": "Achievement_100201_Desc",
-    "Content": "Complétez « On délivre ! »"
+    "Content": "Terminer \"Nous promettons, nous livrons\"."
   },
   {
     "Id": "Achievement_100201_Name",
-    "Content": "On délivre toujours"
+    "Content": "Honorer mon slogan"
   },
   {
     "Id": "Achievement_100202_Desc",
-    "Content": "Complétez « Elergie de l'autre monde »"
+    "Content": "Terminer \"Lacrimosa stygienne\"."
   },
   {
     "Id": "Achievement_100202_Name",
-    "Content": "Souvenez-vous de moi"
+    "Content": "Souviens-toi de moi"
   },
   {
     "Id": "Achievement_100203_Desc",
-    "Content": "Terminez « L'ombre du passé »."
+    "Content": "Terminer \"Les Ombres du passé\"."
   },
   {
     "Id": "Achievement_100203_Name",
-    "Content": "Le passé, c'est le passé"
+    "Content": "Les jours passés"
   },
   {
     "Id": "Achievement_100204_Desc",
-    "Content": "Terminer « Quand la forêt n'est plus aveuglante »."
+    "Content": "Terminer \"Quand la forêt n'est plus sombre\"."
   },
   {
     "Id": "Achievement_100204_Name",
-    "Content": "Un nœud qui voyage"
+    "Content": "Atom : L'odyssée de la jungle"
   },
   {
     "Id": "Achievement_100205_Desc",
-    "Content": "Compléter « Quand la lune brille dans la forêt »."
+    "Content": "Terminer \"Quand le clair de lune brille dans la forêt\"."
   },
   {
     "Id": "Achievement_100205_Name",
-    "Content": "Quand la forêt n'est plus aveuglante"
+    "Content": "Quand la forêt n'est plus sombre"
   },
   {
     "Id": "Achievement_100206_Desc",
-    "Content": "Terminez « Réactiver le radar »."
+    "Content": "Terminer \"Réactivation du radar\"."
   },
   {
     "Id": "Achievement_100206_Name",
-    "Content": "Le soleil se lève comme d'habitude."
+    "Content": "Le soleil se lève comme d'habitude"
   },
   {
     "Id": "Achievement_100207_Desc",
-    "Content": "Compléter « Le passé est l'avenir »."
+    "Content": "Terminer \"Le passé est le futur\"."
   },
   {
     "Id": "Achievement_100207_Name",
-    "Content": "Demain est arrivé"
+    "Content": "Le futur est ici"
   },
   {
     "Id": "Achievement_100208_Desc",
-    "Content": "Terminer le « Concert éternel »."
+    "Content": "Terminer \"Le concert éternel\"."
   },
   {
     "Id": "Achievement_100208_Name",
-    "Content": "Temps inaccessibles"
+    "Content": "Un temps hors de votre portée"
   },
   {
     "Id": "Achievement_100209_Desc",
-    "Content": "Terminez la « Trace de l'espion »."
+    "Content": "Terminer \"Enquête secrète\"."
   },
   {
     "Id": "Achievement_100209_Name",
-    "Content": "Désolé. Je suis l'ami de justice !"
+    "Content": "Désolé, je suis un patrouilleur"
   },
   {
     "Id": "Achievement_100210_Desc",
-    "Content": "Terminer la « Conviction du gladiateur »."
+    "Content": "Terminer \"La vérité cachée\"."
   },
   {
     "Id": "Achievement_100210_Name",
@@ -353,15 +353,15 @@
   },
   {
     "Id": "Achievement_100211_Desc",
-    "Content": "Terminez la quête : « Le raid »."
+    "Content": "Terminer \"Raid du camp\"."
   },
   {
     "Id": "Achievement_100211_Name",
-    "Content": "L'Ode au courage !"
+    "Content": "Le courage gagne quand les chemins se croisent !"
   },
   {
     "Id": "Achievement_100212_Desc",
-    "Content": "Terminer « Un repas gratuit ? »."
+    "Content": "Terminer \"Un repas gratuit ?\"."
   },
   {
     "Id": "Achievement_100212_Name",
@@ -1641,7 +1641,7 @@
   },
   {
     "Id": "Achievement_400216_Desc",
-    "Content": "Qu'est-ce que c'est que ces choses brillantes..."
+    "Content": "Ce truc brillant est… ?"
   },
   {
     "Id": "Achievement_400216_Name",
@@ -1653,11 +1653,11 @@
   },
   {
     "Id": "Achievement_700102_Desc",
-    "Content": "passer Difficulté IV avec la Tortue clochante"
+    "Content": "Passer Difficulté IV avec la Tortue clochante"
   },
   {
     "Id": "Achievement_700103_Desc",
-    "Content": "passer Difficulté IV avec Chevalier d'Inferno"
+    "Content": "Passer Difficulté IV avec Chevalier d'Inferno"
   },
   {
     "Id": "Achievement_700201_Desc",
@@ -1689,18 +1689,18 @@
   },
   {
     "Id": "Achievement_700403_Desc",
-    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Baizhi"
+    "Content": "Passer le Royaume fantôme avec Baizhi"
   },
   {
     "Id": "Achievement_700404_Desc",
-    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Chixia"
+    "Content": "Passer le Royaume fantôme avec Chixia"
   },
   {
     "Id": "Achievement_700405_Desc",
-    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Jiyan"
+    "Content": "Passer le Royaume fantôme avec Jiyan"
   },
   {
     "Id": "Achievement_700406_Desc",
-    "Content": "Passer le niveau de difficulté de l'Abîme de l'Inconcevable avec Taoqi"
+    "Content": "Passer le Royaume fantôme avec Taoqi"
   }
 ]
