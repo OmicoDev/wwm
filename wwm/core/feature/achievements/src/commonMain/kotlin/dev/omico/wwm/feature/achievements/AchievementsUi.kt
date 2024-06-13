@@ -18,6 +18,7 @@ import androidx.compose.ui.unit.dp
 import dev.omico.wwm.feature.achievements.component.AchievementsDetailPaneUi
 import dev.omico.wwm.feature.achievements.component.AchievementsListPaneUi
 import dev.omico.wwm.resources.model.game.WwAchievementGroup
+import dev.omico.wwm.ui.rememberWwText
 
 @OptIn(ExperimentalMaterial3AdaptiveApi::class)
 @Composable
@@ -47,9 +48,14 @@ internal fun AchievementsUi(
                     AnimatedPane(
                         modifier = Modifier,
                         content = {
+                            val achievementGroup = navigator.currentDestination?.content ?: return@AnimatedPane
                             AchievementsDetailPaneUi(
                                 state = state,
-                                achievementGroup = navigator.currentDestination?.content ?: return@AnimatedPane,
+                                achievementGroupId = achievementGroup.id,
+                                achievementGroupName = rememberWwText(
+                                    multiText = state.multiText,
+                                    name = achievementGroup.name,
+                                ),
                                 onNavigateBack = navigator::navigateBack,
                             )
                         },

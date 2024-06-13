@@ -16,10 +16,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.rememberUpdatedState
 import dev.omico.wwm.feature.achievements.AchievementsUiState
-import dev.omico.wwm.resources.model.game.WwAchievementGroup
-import dev.omico.wwm.resources.rememberWwText
 import dev.omico.wwm.ui.LocalNavigationSuiteType
 
 @OptIn(
@@ -29,26 +26,21 @@ import dev.omico.wwm.ui.LocalNavigationSuiteType
 @Composable
 internal fun AchievementsDetailTopAppBar(
     state: AchievementsUiState,
-    achievementGroup: WwAchievementGroup,
+    achievementGroupId: Int,
+    achievementGroupName: String,
     onNavigateBack: () -> Unit,
 ) {
     TopAppBar(
         title = {
-            val achievementGroupName = rememberWwText(
-                multiText = state.multiText,
-                name = achievementGroup.name,
-            )
-            val markedAchievementIds by rememberUpdatedState(state.markedAchievementIds)
-            val achievementGroupId by rememberUpdatedState(achievementGroup.id)
             val countAchievementGroup by remember(achievementGroupId) {
                 derivedStateOf {
                     state.achievements.count { achievement -> achievement.groupId == achievementGroupId }
                 }
             }
-            val countMarkedAchievementGroup by remember(achievementGroupId, markedAchievementIds) {
+            val countMarkedAchievementGroup by remember(achievementGroupId, state.markedAchievementIds) {
                 derivedStateOf {
                     state.achievements.count { achievement ->
-                        achievement.groupId == achievementGroupId && achievement.id in markedAchievementIds
+                        achievement.groupId == achievementGroupId && achievement.id in state.markedAchievementIds
                     }
                 }
             }

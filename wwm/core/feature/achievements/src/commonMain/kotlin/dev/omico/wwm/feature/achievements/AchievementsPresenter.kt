@@ -13,6 +13,7 @@ import androidx.compose.runtime.setValue
 import com.slack.circuit.retained.collectAsRetainedState
 import dev.omico.wwm.resources.model.game.WwLocale
 import dev.omico.wwm.ui.WwmUiComponent
+import dev.omico.wwm.ui.rememberUpdatedListState
 import kotlinx.coroutines.launch
 
 context(WwmUiComponent)
@@ -30,12 +31,12 @@ internal fun produceAchievementsUiState(): AchievementsUiState {
     LaunchedEffect(Unit) { achievementsRepository.load() }
     LaunchedEffect(locale) { achievementsRepository.reloadMultiText(locale) }
     return AchievementsUiState(
-        achievements = achievements,
-        achievementCategories = achievementCategories,
-        achievementGroups = achievementGroups,
-        multiText = multiText,
+        achievements = rememberUpdatedListState(achievements),
+        achievementCategories = rememberUpdatedListState(achievementCategories),
+        achievementGroups = rememberUpdatedListState(achievementGroups),
+        multiText = rememberUpdatedListState(multiText),
         locale = locale,
-        markedAchievementIds = markedAchievementIds,
+        markedAchievementIds = rememberUpdatedListState(markedAchievementIds),
         eventSink = { event ->
             when (event) {
                 is AchievementsUiEvent.ChangeLocale -> locale = event.locale
