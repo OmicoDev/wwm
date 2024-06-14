@@ -11,6 +11,11 @@ concurrency:
   group: '${{ github.workflow }}-${{ github.ref }}'
   cancel-in-progress: false
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   gradle-build:
     name: Gradle Build
@@ -36,6 +41,14 @@ jobs:
 
       - run: ./gradlew build --no-daemon --stacktrace
 
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./wwm/web/build/dist/wasmJs/productionExecutable
+
   gradle-submit-dependency-graph:
     name: Gradle Submit Dependency Graph
     uses: OmicoDev/gradle-project-initializer-template/.github/workflows/gradle-submit-dependency-graph.yml@main
@@ -43,3 +56,13 @@ jobs:
     needs: gradle-build
     permissions:
       contents: write
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: gradle-build
+    steps:
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
