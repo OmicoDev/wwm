@@ -11,14 +11,10 @@ kotlin {
     jvmToolchain(PROJECT_JAVA_VERSION)
     jvm("desktop")
 
-    js("web") {
-        moduleName = name
-        browser()
-    }
-
     @OptIn(ExperimentalWasmDsl::class)
     wasmJs {
         moduleName = name
+        browser()
     }
 
     @OptIn(ExperimentalKotlinGradlePluginApi::class)
