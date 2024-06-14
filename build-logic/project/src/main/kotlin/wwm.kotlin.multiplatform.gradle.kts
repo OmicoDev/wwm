@@ -20,6 +20,12 @@ kotlin {
     @OptIn(ExperimentalKotlinGradlePluginApi::class)
     applyDefaultHierarchyTemplate {
         common {
+            group("skiko") {
+                withAndroidTarget()
+                withJvm()
+                withJs()
+                withWasmJs()
+            }
             group("jvm") {
                 withAndroidTarget()
                 withJvm()
