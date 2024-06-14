@@ -9,6 +9,7 @@ import dev.omico.wwm.resources.generated.expand_all
 import dev.omico.wwm.resources.generated.export
 import dev.omico.wwm.resources.generated.import
 import dev.omico.wwm.resources.generated.import_export
+import dev.omico.wwm.resources.generated.translate
 import org.jetbrains.compose.resources.DrawableResource
 
 object WwmIcons {
@@ -17,4 +18,5 @@ object WwmIcons {
     val Export: DrawableResource = Res.drawable.export
     val Import: DrawableResource = Res.drawable.import
     val ImportExport: DrawableResource = Res.drawable.import_export
+    val Translate: DrawableResource = Res.drawable.translate
 }
