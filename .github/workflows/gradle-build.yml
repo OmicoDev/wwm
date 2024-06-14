@@ -42,7 +42,7 @@ jobs:
       - run: ./gradlew build --no-daemon --stacktrace
 
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v5
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
