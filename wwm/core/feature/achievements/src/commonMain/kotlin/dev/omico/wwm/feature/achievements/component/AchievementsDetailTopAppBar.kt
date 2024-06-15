@@ -32,19 +32,37 @@ internal fun AchievementsDetailTopAppBar(
 ) {
     TopAppBar(
         title = {
-            val countAchievementGroup by remember(achievementGroupId) {
-                derivedStateOf {
-                    state.achievements.count { achievement -> achievement.groupId == achievementGroupId }
-                }
-            }
-            val countMarkedAchievementGroup by remember(achievementGroupId, state.markedAchievementIds) {
+            val achievementCount by remember(achievementGroupId) {
                 derivedStateOf {
                     state.achievements.count { achievement ->
-                        achievement.groupId == achievementGroupId && achievement.id in state.markedAchievementIds
+                        achievement.groupId == achievementGroupId &&
+                            achievement.hidden.not()
                     }
                 }
             }
-            Text(text = "$achievementGroupName $countMarkedAchievementGroup/$countAchievementGroup")
+            val markedAchievementCount by remember(achievementGroupId, state.markedAchievementIds) {
+                derivedStateOf {
+                    state.achievements.count { achievement ->
+                        achievement.groupId == achievementGroupId &&
+                            achievement.id in state.markedAchievementIds &&
+                            achievement.hidden.not()
+                    }
+                }
+            }
+            val achievementPercentage by remember(achievementCount, markedAchievementCount) {
+                derivedStateOf { markedAchievementCount * 100 / achievementCount }
+            }
+            val title by remember(
+                achievementGroupName,
+                achievementPercentage,
+                markedAchievementCount,
+                achievementCount,
+            ) {
+                derivedStateOf {
+                    "$achievementGroupName $achievementPercentage% ($markedAchievementCount/$achievementCount)"
+                }
+            }
+            Text(text = title)
         },
         navigationIcon = {
             if (LocalNavigationSuiteType.current == NavigationSuiteType.NavigationBar) {
