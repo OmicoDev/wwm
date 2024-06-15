@@ -32,34 +32,19 @@ internal fun AchievementsDetailTopAppBar(
 ) {
     TopAppBar(
         title = {
-            val achievementCount by remember(achievementGroupId) {
+            val groupState = AchievementGroupState(
+                state = state,
+                groupId = achievementGroupId,
+            )
+            val title by remember(achievementGroupName, groupState) {
                 derivedStateOf {
-                    state.achievements.count { achievement ->
-                        achievement.groupId == achievementGroupId &&
-                            achievement.hidden.not()
+                    buildString {
+                        append(achievementGroupName)
+                        append("  ")
+                        append(groupState.achievementPercentage)
+                        append("  ")
+                        append("(${groupState.markedAchievementCount}/${groupState.achievementCount})")
                     }
-                }
-            }
-            val markedAchievementCount by remember(achievementGroupId, state.markedAchievementIds) {
-                derivedStateOf {
-                    state.achievements.count { achievement ->
-                        achievement.groupId == achievementGroupId &&
-                            achievement.id in state.markedAchievementIds &&
-                            achievement.hidden.not()
-                    }
-                }
-            }
-            val achievementPercentage by remember(achievementCount, markedAchievementCount) {
-                derivedStateOf { markedAchievementCount * 100 / achievementCount }
-            }
-            val title by remember(
-                achievementGroupName,
-                achievementPercentage,
-                markedAchievementCount,
-                achievementCount,
-            ) {
-                derivedStateOf {
-                    "$achievementGroupName $achievementPercentage% ($markedAchievementCount/$achievementCount)"
                 }
             }
             Text(text = title)

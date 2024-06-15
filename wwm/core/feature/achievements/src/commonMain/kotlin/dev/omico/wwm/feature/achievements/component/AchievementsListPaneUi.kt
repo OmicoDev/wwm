@@ -105,11 +105,19 @@ private fun LazyListScope.achievementsCategoryItem(
         key = WwAchievementGroup::id,
         contentType = { achievementGroup -> achievementGroup::class },
         itemContent = { achievementGroup ->
+            val achievementGroupName = rememberWwText(
+                multiText = state.multiText,
+                name = achievementGroup.name,
+            )
+            val groupState = AchievementGroupState(
+                state = state,
+                groupId = achievementGroup.id,
+            )
+            val text by remember(achievementGroupName, groupState) {
+                derivedStateOf { "$achievementGroupName  ${groupState.achievementPercentage}" }
+            }
             AchievementsListItem(
-                text = rememberWwText(
-                    multiText = state.multiText,
-                    name = achievementGroup.name,
-                ),
+                text = text,
                 modifier = run {
                     Modifier
                         .padding(start = 16.dp)
