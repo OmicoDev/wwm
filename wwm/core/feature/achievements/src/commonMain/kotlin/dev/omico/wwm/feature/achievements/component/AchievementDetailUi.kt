@@ -12,6 +12,7 @@ internal fun AchievementsDetailPaneUi(
     state: AchievementsUiState,
     achievementGroupId: Int,
     achievementGroupName: String,
+    showNavigationIcon: Boolean,
     onNavigateBack: () -> Unit,
 ) {
     Scaffold(
@@ -20,6 +21,7 @@ internal fun AchievementsDetailPaneUi(
                 state = state,
                 achievementGroupId = achievementGroupId,
                 achievementGroupName = achievementGroupName,
+                showNavigationIcon = showNavigationIcon,
                 onNavigateBack = onNavigateBack,
             )
         },

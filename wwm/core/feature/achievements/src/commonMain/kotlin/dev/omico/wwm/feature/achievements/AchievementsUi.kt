@@ -10,8 +10,11 @@ import androidx.compose.material3.adaptive.ExperimentalMaterial3AdaptiveApi
 import androidx.compose.material3.adaptive.layout.AnimatedPane
 import androidx.compose.material3.adaptive.layout.ListDetailPaneScaffold
 import androidx.compose.material3.adaptive.layout.ListDetailPaneScaffoldRole
+import androidx.compose.material3.adaptive.layout.PaneAdaptedValue
 import androidx.compose.material3.adaptive.navigation.rememberListDetailPaneScaffoldNavigator
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.produceState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
@@ -45,6 +48,11 @@ internal fun AchievementsUi(
                 directive = navigator.scaffoldDirective,
                 value = navigator.scaffoldValue,
                 detailPane = {
+                    val showNavigationIcon by produceState(
+                        initialValue = false,
+                        navigator.scaffoldValue.secondary,
+                        producer = { value = navigator.scaffoldValue.secondary == PaneAdaptedValue.Hidden },
+                    )
                     AnimatedPane(
                         modifier = Modifier,
                         content = {
@@ -56,6 +64,7 @@ internal fun AchievementsUi(
                                     multiText = state.multiText,
                                     name = achievementGroup.name,
                                 ),
+                                showNavigationIcon = showNavigationIcon,
                                 onNavigateBack = navigator::navigateBack,
                             )
                         },

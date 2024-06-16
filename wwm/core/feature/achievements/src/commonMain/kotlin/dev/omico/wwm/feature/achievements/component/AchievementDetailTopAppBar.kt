@@ -10,24 +10,19 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBar
-import androidx.compose.material3.adaptive.navigationsuite.ExperimentalMaterial3AdaptiveNavigationSuiteApi
-import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteType
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.derivedStateOf
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.remember
 import dev.omico.wwm.feature.achievements.AchievementsUiState
-import dev.omico.wwm.ui.LocalNavigationSuiteType
 
-@OptIn(
-    ExperimentalMaterial3AdaptiveNavigationSuiteApi::class,
-    ExperimentalMaterial3Api::class,
-)
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 internal fun AchievementsDetailTopAppBar(
     state: AchievementsUiState,
     achievementGroupId: Int,
     achievementGroupName: String,
+    showNavigationIcon: Boolean,
     onNavigateBack: () -> Unit,
 ) {
     TopAppBar(
@@ -50,7 +45,7 @@ internal fun AchievementsDetailTopAppBar(
             Text(text = title)
         },
         navigationIcon = {
-            if (LocalNavigationSuiteType.current == NavigationSuiteType.NavigationBar) {
+            if (showNavigationIcon) {
                 IconButton(
                     onClick = onNavigateBack,
                     content = {
