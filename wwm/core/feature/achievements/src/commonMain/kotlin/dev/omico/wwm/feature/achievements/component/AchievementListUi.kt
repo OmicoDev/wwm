@@ -27,7 +27,7 @@ import dev.omico.wwm.ui.rememberWwText
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-internal fun AchievementsListPaneUi(
+internal fun AchievementListPaneUi(
     state: AchievementsUiState,
     onGroupItemClick: (WwAchievementGroup) -> Unit,
 ) {
@@ -85,7 +85,7 @@ private fun LazyListScope.achievementsCategoryItem(
         key = category.id,
         contentType = category::class,
         content = {
-            AchievementsListItem(
+            AchievementListItem(
                 text = rememberWwText(
                     multiText = state.multiText,
                     name = category.name,
@@ -116,7 +116,7 @@ private fun LazyListScope.achievementsCategoryItem(
             val text by remember(achievementGroupName, groupState) {
                 derivedStateOf { "$achievementGroupName  ${groupState.achievementPercentage}" }
             }
-            AchievementsListItem(
+            AchievementListItem(
                 text = text,
                 modifier = run {
                     Modifier

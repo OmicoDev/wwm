@@ -18,7 +18,7 @@ import dev.omico.wwm.feature.achievements.AchievementsUiState
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-internal fun AchievementsDetailTopAppBar(
+internal fun AchievementDetailTopAppBar(
     state: AchievementsUiState,
     achievementGroupId: Int,
     achievementGroupName: String,

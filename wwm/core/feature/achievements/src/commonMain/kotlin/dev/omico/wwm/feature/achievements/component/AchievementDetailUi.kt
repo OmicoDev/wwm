@@ -8,7 +8,7 @@ import androidx.compose.runtime.Composable
 import dev.omico.wwm.feature.achievements.AchievementsUiState
 
 @Composable
-internal fun AchievementsDetailPaneUi(
+internal fun AchievementDetailPaneUi(
     state: AchievementsUiState,
     achievementGroupId: Int,
     achievementGroupName: String,
@@ -17,7 +17,7 @@ internal fun AchievementsDetailPaneUi(
 ) {
     Scaffold(
         topBar = {
-            AchievementsDetailTopAppBar(
+            AchievementDetailTopAppBar(
                 state = state,
                 achievementGroupId = achievementGroupId,
                 achievementGroupName = achievementGroupName,
@@ -26,7 +26,7 @@ internal fun AchievementsDetailPaneUi(
             )
         },
         content = { innerPadding ->
-            AchievementsDetailContent(
+            AchievementDetailContent(
                 state = state,
                 achievementGroupId = achievementGroupId,
                 contentPadding = innerPadding,

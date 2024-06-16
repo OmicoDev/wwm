@@ -18,8 +18,8 @@ import androidx.compose.runtime.produceState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import dev.omico.wwm.feature.achievements.component.AchievementsDetailPaneUi
-import dev.omico.wwm.feature.achievements.component.AchievementsListPaneUi
+import dev.omico.wwm.feature.achievements.component.AchievementDetailPaneUi
+import dev.omico.wwm.feature.achievements.component.AchievementListPaneUi
 import dev.omico.wwm.resources.model.game.WwAchievementGroup
 import dev.omico.wwm.ui.rememberWwText
 
@@ -35,7 +35,7 @@ internal fun AchievementsUi(
         content = {
             ListDetailPaneScaffold(
                 listPane = {
-                    AchievementsListPaneUi(
+                    AchievementListPaneUi(
                         state = state,
                         onGroupItemClick = { achievementGroup ->
                             navigator.navigateTo(
@@ -57,7 +57,7 @@ internal fun AchievementsUi(
                         modifier = Modifier,
                         content = {
                             val achievementGroup = navigator.currentDestination?.content ?: return@AnimatedPane
-                            AchievementsDetailPaneUi(
+                            AchievementDetailPaneUi(
                                 state = state,
                                 achievementGroupId = achievementGroup.id,
                                 achievementGroupName = rememberWwText(

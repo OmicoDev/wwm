@@ -19,7 +19,7 @@ import dev.omico.wwm.ui.rememberWwText
 
 @OptIn(ExperimentalFoundationApi::class)
 @Composable
-internal fun AchievementsDetailContent(
+internal fun AchievementDetailContent(
     state: AchievementsUiState,
     achievementGroupId: Int,
     contentPadding: PaddingValues,
@@ -38,7 +38,7 @@ internal fun AchievementsDetailContent(
                 items = achievements,
                 key = WwAchievement::id,
                 itemContent = { achievement ->
-                    AchievementsDetailItem(
+                    AchievementDetailItem(
                         marked = achievement.id in state.markedAchievementIds,
                         onMarkedChange = { marked ->
                             state.eventSink(
