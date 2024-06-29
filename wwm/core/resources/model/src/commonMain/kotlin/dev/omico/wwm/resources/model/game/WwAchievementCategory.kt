@@ -10,6 +10,7 @@ import kotlinx.serialization.Serializable
 data class WwAchievementCategory(
     @SerialName("Id") val id: Int,
     @SerialName("Name") val name: String,
+    @SerialName("FunctionType") val functionType: Int,
     @SerialName("SpritePath") val spritePath: String,
     @SerialName("TexturePath") val texturePath: String,
 )

@@ -28,6 +28,10 @@
     "Content": "Huanglong I"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "Empreintes de Huanglong II"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
     "Content": "Les Appels de la Nature"
   },
@@ -113,7 +117,7 @@
   },
   {
     "Id": "Achievement_100106_Desc",
-    "Content": "Finir le Side-scrolling pour la première fois"
+    "Content": "Terminez \"Perception parallèle\" pour la première fois."
   },
   {
     "Id": "Achievement_100106_Name",
@@ -400,6 +404,158 @@
     "Content": "Le maître du parkour"
   },
   {
+    "Id": "Achievement_100217_Desc",
+    "Content": "Gagne la récompense maximale dans Hologramme tactique : Ski."
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Viens pour toi"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "Profite une fois de la source chaude."
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "Moments apaisants"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "Complète Défi de l'Echo : Ding-dong une fois."
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "Projet Ding-dong"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "Utilise Chrono-tireur une fois."
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "Voyageur téméraire"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "Utiliser une fois le Trampoline."
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "Contrôle de lancement"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "Evacuer une fois l'ennemi dans la « Barrière photon »."
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "Il est temps !"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "Écrase 20 blocs de glace."
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "Anti-stress"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "Complète Vœu ardent en miroir."
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "Fraisier de Duchesne"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "Obtiens le sabre situé sur l'île au milieu d'un lac près de Hongzhen."
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "Ballade du Sabre"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "Rassemble tous les Stabilisateurs du vent dans la zone du Mont. Firmament."
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "Préparer du thé un jour de neige"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "Vaincre l'Ecraseur de lumière qui vit au Mont. Firmament."
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "Attraper le tigre par la queue"
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "Défais le Constructeur : Écailles protectrices errant dans le Mont. Firmament."
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "Bravoure contre « Jiao »"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "Défais la Bête des Champs de glace errant dans le Mont. Firmament."
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "Bête féroce"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "Défais le Ding-dong Frigide errant dans le Mont. Firmament."
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "Ding-dong Brise-glace"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "Vaincre une Gelée cachée"
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "Cauchemar du bug pleurnicheur"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "Vaincre toutes les Gelées cachées."
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "Surmonte les bugs"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "Terminez tous les Défis de l'Écho: Ding-dong."
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "Dernière pièce du puzzle"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "Débloquez les Nexus de Résonance à Hongzhen."
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "Trace neigeuse"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "Débloquez la Petite Balise de Résonance à la tête de dragon de Pic-de-Dragon."
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "Depuis le sommet"
+  },
+  {
     "Id": "Achievement_100401_Desc",
     "Content": "Fabriquer une arme une fois."
   },
@@ -624,6 +780,30 @@
     "Content": "Le jeune pharmaciste I"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "Préparez une potion 100 fois."
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "Prenez vos médicaments !"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "Prenez une photo 10 fois."
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "Continuez à filmer avec la caméra !"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "Préparez un repas 5 fois."
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "La bonne nourriture brille toujours"
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "Donner 30 Boîtes de Sonance à Chenpi."
   },
@@ -670,6 +850,22 @@
   {
     "Id": "Achievement_110107_Name",
     "Content": "Et tout le reste est silence."
+  },
+  {
+    "Id": "Achievement_110108_Desc",
+    "Content": "Interagir avec un animal 1 fois."
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "Où sont les animaux adorables ?"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "Atteindre Explorateur : niveau 10 dans la région de Jinzhou. (incluant le Mont. Firmament)."
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "Histoires hurlantes : Jinzhou"
   },
   {
     "Id": "Achievement_110110_Desc",
@@ -832,6 +1028,22 @@
     "Content": "Des images du cœur"
   },
   {
+    "Id": "Achievement_200116_Desc",
+    "Content": "Compléter « Quand les éons fondent »"
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "Réveil printanier"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "Atteindre Mont. Firmament."
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "Montagne au-delà de la forêt"
+  },
+  {
     "Id": "Achievement_200201_Desc",
     "Content": "Terminez la quête : La franc-tireuse"
   },
@@ -880,8 +1092,16 @@
     "Content": "La lune et le Banyan"
   },
   {
+    "Id": "Achievement_200307_Desc",
+    "Content": "Compléter Brasier immortel."
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "Sentier déserté"
+  },
+  {
     "Id": "Achievement_300101_Desc",
-    "Content": "Vaincre le Vautour plaignant pour la première fois."
+    "Content": "Vainquez le Vautour plaignant pour la première fois."
   },
   {
     "Id": "Achievement_300101_Name+H12:I44",
@@ -929,7 +1149,7 @@
   },
   {
     "Id": "Achievement_300107_Desc",
-    "Content": "Vaincre le Mephis tonerre pour la première fois."
+    "Content": "Vaincre le Mephis éclatant pour la première fois."
   },
   {
     "Id": "Achievement_300107_Name",
@@ -985,7 +1205,7 @@
   },
   {
     "Id": "Achievement_300114_Desc",
-    "Content": "Vaincre le Mephis tonerre 50 fois"
+    "Content": "Vaincre le Mephis éclatant 50 fois"
   },
   {
     "Id": "Achievement_300114_Name",
@@ -1057,7 +1277,7 @@
   },
   {
     "Id": "Achievement_300123_Desc",
-    "Content": "Esquiver parfaitement 50 fois"
+    "Content": "Esquiver 50 fois"
   },
   {
     "Id": "Achievement_300123_Name",
@@ -1070,6 +1290,246 @@
   {
     "Id": "Achievement_300124_Name",
     "Content": "Duang !!!"
+  },
+  {
+    "Id": "Achievement_300146_Desc",
+    "Content": "Vaincre le Sans délire pour la première fois."
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "Le désastre est trop lent."
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Nomade-Spectro 100 fois."
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "Mode silencieux."
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Nomade-Havoc 100 fois."
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "Ombre terne."
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Jianxin 100 fois."
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "Clair comme un miroir."
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Jinhsi 100 fois."
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "« Jiao » est avec moi."
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Chixia 100 fois."
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "Pour un monde meilleur, offrez des flammes."
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Danjin 100 fois."
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "Belle comme le jade"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Sanhua 100 fois."
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "Aujourd'hui, la fleur est comme la neige."
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Taoqi 100 fois."
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "La fleur constante."
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Yangyang 100 fois."
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "Le chant de l'oiseau."
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Yinlin 100 fois."
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "Respirez le tonnerre"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Verina 100 fois."
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "Les fleurs et les étoiles"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "Utiliser la Compétence d'Outro d'Encore 100 fois."
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "Encore se promène dans le pays des merveilles."
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Baizhi 100 fois."
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "Le battement de la vie."
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Lingyang 100 fois."
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "\"Bon coup de chance\"."
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Mortefi 100 fois."
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "Voici le morceau prochain"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "Utiliser la Compétence d'Outro de Yuanwu 100 fois."
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "Quand le tonnerre grondera."
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "Utiliser 100 fois la Compétence d'Outro de Jiyan."
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "Le Dragon azur dans la pluie"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "Utiliser 100 fois la Compétence d'Outro d'Aalto."
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "La fusillade dans la brume"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "Utiliser 100 fois la Compétence d'Outro de Calcharo."
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "Jouer à la boxe avec l'ombre."
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "Utiliser 100 fois la Compétence d'Outro de Changli"
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "Le coup de la divinité !"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "Vaincre « Jiao » pour la première fois."
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "Quand le divin se tait"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "Vaincre « Jiao » 50 fois."
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "Sauroctone !"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "Vaincre le « Sans délire » 50 fois."
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "Ciao, champion !"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "Vaincre le « Golem des écailles » 20 fois."
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "Destructeur du golem"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "Vaincre l' « Insecte-feu » 20 fois."
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "Traitement de la haute température."
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "Vaincre la « Gelée cachée » 20 fois."
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "La protéine ou la gelée ?"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "Battre le « Casoar nain » 20 fois."
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "Qui a tué cet oiseau lent ?"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "Battre le « Casseur de lumière » 20 fois."
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "Le héros du tigre."
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "Battre le « Loup glacier » 20 fois."
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "Awoo --"
   },
   {
     "Id": "Achievement_300205_Desc",
@@ -1190,6 +1650,14 @@
   {
     "Id": "Achievement_300307_Name",
     "Content": "Lumière éteinte"
+  },
+  {
+    "Id": "Achievement_300308_Desc",
+    "Content": "Battre 66 Ding-dongs"
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "Briser les glaces"
   },
   {
     "Id": "Achievement_300309_Desc",
@@ -1408,6 +1876,46 @@
     "Content": "Roi disparu"
   },
   {
+    "Id": "Achievement_300515_Desc",
+    "Content": "Terminer le dernier étage dans la « Tour éprouvante : Zone imprévisible » en moins de 2 minutes."
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "Rapide !"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "Toute l'équipe perd connaissance dans la « Tour éprouvante » 10 fois."
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "Un tour en enfer"
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "Obtenir toutes les marques dans la « Tour éprouvante : Zone imprévisible » pendant 3 cycles consécutifs."
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "Pour les brillants."
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "Terminer le « Le Sans couronne I » dans « Hologramme tactique : Calamité »"
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "Couronné"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "Terminer le « Le Sans couronne I » dans « Hologramme tactique : Calamité »"
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "Impossible n'existe pas dans mon dictionnaire !"
+  },
+  {
     "Id": "Achievement_400101_Desc",
     "Content": "Ascension VI du personnage pour la première fois"
   },
@@ -1518,6 +2026,30 @@
   {
     "Id": "Achievement_400115_Name",
     "Content": "Fragile non plus"
+  },
+  {
+    "Id": "Achievement_400117_Desc",
+    "Content": "Renforcer une arme pour la première fois au Rang 6."
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "Toujours plus forte !"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "Réduire la Phase SOL3 pour la première fois"
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "Prudent malgré forte"
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "Absorber un Echo de Vague ou de Séïsme pour la première fois"
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "« Il faut admettre que vous êtes fort. »"
   },
   {
     "Id": "Achievement_400201_Desc",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "Passer le Royaume fantôme avec Taoqi"
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "Compléter une fois n'importe quelle difficulté du « Consommateur du rêve » avec Sanhua."
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "Compléter une fois n'importe quelle difficulté du « Consommateur du rêve » avec Jianxin."
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "Compléter une fois n'importe quelle difficulté du « Consommateur du rêve » avec Jinhsi."
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "Compléter n'importe quelle difficulté du « Consommateur du rêve » avec environ 3 personnages."
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "Compléter n'importe quelle difficulté du « Consommateur du rêve » avec environ 5 personnages."
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "Terminer une fois n'importe quelle difficulté du « Consommateur du rêve » avec 120% de récompense (ou plus)."
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "Terminer une fois n'importe quelle difficulté du « Consommateur du rêve » avec 150% de récompense (ou plus)."
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "Compléter une fois le « Consommeur du rêve » après avoir activé 4 « Minema tournante »"
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "Compléter une fois le « Consommeur du rêve » après avoir activé 2 « Minema tournante »"
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "Activer « Miroir » et « Lame noire » de « Minema tournante » puis compléter une fois le « Consommeur du rêve »"
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "Atteindre le plus haut Rang Symphonie 5 fois dans un défi du Consommateur du rêve"
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "Activer la quatrième capacité supplémentaire de l'Echo Mephis éclatant"
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "Terminer le Consommateur du rêve IV"
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "Terminer le Consommateur du rêve IV"
   }
 ]

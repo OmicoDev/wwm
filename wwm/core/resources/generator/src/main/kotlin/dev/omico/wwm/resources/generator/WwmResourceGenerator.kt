@@ -51,12 +51,8 @@ private fun WwData.saveAchievementFiles(outputDirectory: Path) {
         .sortedBy(WwAchievement::id)
         .saveToFile(outputDirectory, WwmResourcesPaths.AchievementPath)
     achievementCategories
-        // Hardcoded: Remove the category with ID 7
-        .filterNot { category ->
-            category.id ==
-                @Suppress("MagicNumber")
-                7
-        }
+        // For achievements
+        .filter { category -> category.functionType == 1 }
         .sortedBy(WwAchievementCategory::id)
         .saveToFile(outputDirectory, WwmResourcesPaths.AchievementCategoryPath)
     achievementGroups

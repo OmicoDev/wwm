@@ -28,6 +28,10 @@
     "Content": "Huanglong I"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "Footprints of Huanglong II"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
     "Content": "Wilderness Calls"
   },
@@ -129,7 +133,7 @@
   },
   {
     "Id": "Achievement_100108_Desc",
-    "Content": "Maneuver the dolls through the laser corridor in \"Solitary Crusade\"."
+    "Content": "Maneuver the puppet through the laser corridor in \"Solitary Path\"."
   },
   {
     "Id": "Achievement_100108_Name",
@@ -400,6 +404,158 @@
     "Content": "The Master of Overdashing"
   },
   {
+    "Id": "Achievement_100217_Desc",
+    "Content": "Earn the highest reward in Tactical Hologram: Ski."
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Come for Ya"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "Enjoy the hot spring once."
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "Soothing Moments"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "Complete Echo Challenge: Clang Bang once."
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "Project Clang Bang"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "Use Chronosorter once."
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "Reckless Voyager"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "Use the Leap Device once."
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "Launch Control"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "Release an enemy within the Photon Barrier once."
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "It's About Time!"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "Crush 20 ice blocks."
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "Stress Reliever"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "Complete Mirrored Loong's Pearl."
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "Gemberry"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "Obtain the sword located on the island in the middle of a lake near Hongzhen."
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "Ballad of Sword"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "Gather all Windchimers throughout the Mt. Firmament area."
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "Brewing Tea on a Snowy Day"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "Defeat the Mighty Lightcrusher roaming in Mt. Firmament."
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "Tiger by the Tail"
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "Defeat the Construct: Protective Scales roaming in Mt. Firmament."
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "Brave Against Jué"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "Defeat the Icefield Beast roaming in Mt. Firmament."
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "Ferocious Beast"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "Defeat the Frigid Clang Bang roaming in Mt. Firmament."
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "Clang Bang Ice Crusher"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "Defeat a Frostbug."
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "Wimpy Bug's Nightmare"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "Defeat all Frostbugs."
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "Push Past the Bugs"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "Complete all Echo Challenges: Clang Bang."
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "Last Puzzle Piece"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "Unlock the Resonance Nexuses in Hongzhen."
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "Snowy Trace"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "Unlock the Small Resonance Beacon at the dragon head of Loong's Crest."
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "From the Peak"
+  },
+  {
     "Id": "Achievement_100401_Desc",
     "Content": "Forge any weapon 1 time."
   },
@@ -624,6 +780,30 @@
     "Content": "Pharmacist's Spell II"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "Concoct a potion 100 times."
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "Take Your Medication!"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "Take a picture 10 times."
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "Keep the Camera Rolling!"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "Prepare a meal 5 times."
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "Good Food Always Glow"
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "Deliver 30 Sonance Caskets to Chenpi."
   },
@@ -670,6 +850,22 @@
   {
     "Id": "Achievement_110107_Name",
     "Content": "Only Reverberation Remains"
+  },
+  {
+    "Id": "Achievement_110108_Desc",
+    "Content": "Interact with any animal 1 time."
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "Cute Creatures and Where to Find Them"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "Exploration Progress of Jinzhou (including Mt. Firmament region) reaches Pioneer Level 10."
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "All about Wuthering Waves: Jinzhou"
   },
   {
     "Id": "Achievement_110110_Desc",
@@ -832,8 +1028,24 @@
     "Content": "Captivating You Always"
   },
   {
+    "Id": "Achievement_200116_Desc",
+    "Content": "Complete Thaw of Eons."
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "Spring Awakening"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "Reach Mt. Firmament."
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "Mountain Beyond the Forest"
+  },
+  {
     "Id": "Achievement_200201_Desc",
-    "Content": "Complete \"Solitary Crusade\"."
+    "Content": "Complete \"Solitary Path\"."
   },
   {
     "Id": "Achievement_200201_Name",
@@ -878,6 +1090,14 @@
   {
     "Id": "Achievement_200206_Name",
     "Content": "Crescent Moon on the Banyan Tree"
+  },
+  {
+    "Id": "Achievement_200307_Desc",
+    "Content": "Complete Immortal Blaze."
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "Deserted Trail"
   },
   {
     "Id": "Achievement_300101_Desc",
@@ -929,7 +1149,7 @@
   },
   {
     "Id": "Achievement_300107_Desc",
-    "Content": "Defeat the Tempest Mephis for the first time."
+    "Content": "Defeat the Thundering Mephis for the first time."
   },
   {
     "Id": "Achievement_300107_Name",
@@ -985,7 +1205,7 @@
   },
   {
     "Id": "Achievement_300114_Desc",
-    "Content": "Defeat the Tempest Mephis 50 times."
+    "Content": "Defeat the Thundering Mephis 50 times."
   },
   {
     "Id": "Achievement_300114_Name",
@@ -1045,7 +1265,7 @@
   },
   {
     "Id": "Achievement_300121_Name",
-    "Content": "Recoil: Tempest Mephis"
+    "Content": "Recoil: Thundering Mephis"
   },
   {
     "Id": "Achievement_300122_Desc",
@@ -1065,11 +1285,251 @@
   },
   {
     "Id": "Achievement_300124_Desc",
-    "Content": "Parry enemy's attack 10 times."
+    "Content": "Counter enemy's attack 10 times."
   },
   {
     "Id": "Achievement_300124_Name",
     "Content": "Duang!!!"
+  },
+  {
+    "Id": "Achievement_300146_Desc",
+    "Content": "Defeat Dreamless for the first time."
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "Disaster Is Always One Step Behind"
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "Use Rover: Spectro's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "Silent Mode"
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "Use Rover: Annihilation's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "Dimming Shadows"
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "Use Jianxin's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "Clear as a Mirror"
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "Use Jinhsi's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "Jué Is With Me"
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "Use Chixia's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "A Gift of Flames"
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "Use Danjin's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "Beauty and the Blade"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "Use Sanhua's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "Flurry of Flowers"
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "Use Taoqi's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "Everlasting Blossoms"
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "Use Yangyang's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "Birds' Ballad"
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "Use Yinlin's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "Warm Yet Solitary"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "Use Verina's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "Folded Petals"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "Use Encore's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "Encore's Wonderous Adventures"
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "Use Baizhi's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "Pulse of Life"
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "Use Lingyang's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "Good Omen"
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "Use Mortefi's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "The Next Melody"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "Use Yuanwu's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "Punch It With Leihuangquan!"
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "Use Jiyan's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "Transformation of Rain Loong"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "Use Aalto's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "Veiled Gunfire"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "Use Calcharo's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "Shadow Boxing"
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "Use Changli's Outro Skill 100 times."
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "The Hand of God!"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "Defeat Jué for the first time."
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "The Silent Deity"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "Defeat Jué 50 times."
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "Loong Lineage"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "Defeat Dreamless 50 times."
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "You're the Challenger!"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "Defeat Lumiscale Construct 20 times."
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "20 Constructs"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "Defeat Lava Larva 20 times."
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "Kill It With Heat"
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "Defeat Frostbug 20 times."
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "It's All Protein?"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "Defeat Dwarf Cassowary 20 times."
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "Who Killed the Slow Bird?"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "Defeat Lightcrusher 20 times."
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "Subduer of Tigers"
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "Defeat Glacio Dreadmane 20 times."
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "The Call of the Wild"
   },
   {
     "Id": "Achievement_300205_Desc",
@@ -1190,6 +1650,14 @@
   {
     "Id": "Achievement_300307_Name",
     "Content": "Lights Out..."
+  },
+  {
+    "Id": "Achievement_300308_Desc",
+    "Content": "Defeat 66 Clang Bangs."
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "Clang & Bang"
   },
   {
     "Id": "Achievement_300309_Desc",
@@ -1408,6 +1876,46 @@
     "Content": "No King in Sight"
   },
   {
+    "Id": "Achievement_300515_Desc",
+    "Content": "Clear the final level in any tower of Tower of Adversity: Hazard Zone within 2 minutes."
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "Fast & Adversity"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "The entire team loses consciousness in the Tower of Adversity 10 times."
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "Three Sunsets"
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "Claim all Crests in the Tower of Adversity: Hazard Zone 3 times in a row."
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "To the Glorious Ones"
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "Complete Crownless I in Tactical Hologram: Calamity."
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "The Crownless King"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "Complete Crownless VI in Tactical Hologram: Calamity."
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "Failure Is Not in My Dictionary"
+  },
+  {
     "Id": "Achievement_400101_Desc",
     "Content": "Resonator Ascension reaches Rank 6."
   },
@@ -1489,7 +1997,7 @@
   },
   {
     "Id": "Achievement_400111_Desc",
-    "Content": "Equip one 4-star or above weapon."
+    "Content": "Equip one 4-Star or above weapon."
   },
   {
     "Id": "Achievement_400111_Name",
@@ -1520,8 +2028,32 @@
     "Content": "\"The Fragile Me is Already Dead\""
   },
   {
+    "Id": "Achievement_400117_Desc",
+    "Content": "Reach weapon Breakthrough Rank 6 for the first time."
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "Rank upon Rank"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "Lower SOL3 Phase for the first time."
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "Excessively Cautious"
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "Absorb an Overlord Class or Calamity Class Echo for the first time."
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "I Admit, You Are Strong"
+  },
+  {
     "Id": "Achievement_400201_Desc",
-    "Content": "Absorb a 3-star Echo."
+    "Content": "Absorb a 3-Star Echo."
   },
   {
     "Id": "Achievement_400201_Name",
@@ -1529,7 +2061,7 @@
   },
   {
     "Id": "Achievement_400202_Desc",
-    "Content": "Absorb a 4-star Echo."
+    "Content": "Absorb a 4-Star Echo."
   },
   {
     "Id": "Achievement_400202_Name",
@@ -1537,7 +2069,7 @@
   },
   {
     "Id": "Achievement_400203_Desc",
-    "Content": "Absorb a 5-star Echo."
+    "Content": "Absorb a 5-Star Echo."
   },
   {
     "Id": "Achievement_400203_Name",
@@ -1545,7 +2077,7 @@
   },
   {
     "Id": "Achievement_400204_Desc",
-    "Content": "Absorb 10 5-star Echoes."
+    "Content": "Absorb 10 5-Star Echoes."
   },
   {
     "Id": "Achievement_400204_Name",
@@ -1561,7 +2093,7 @@
   },
   {
     "Id": "Achievement_400206_Desc",
-    "Content": "Upgrade a 5-star Echo to max level."
+    "Content": "Upgrade a 5-Star Echo to max level."
   },
   {
     "Id": "Achievement_400206_Name",
@@ -1617,7 +2149,7 @@
   },
   {
     "Id": "Achievement_400213_Desc",
-    "Content": "Absorb 20 5-star Echoes."
+    "Content": "Absorb 20 5-Star Echoes."
   },
   {
     "Id": "Achievement_400213_Name",
@@ -1625,7 +2157,7 @@
   },
   {
     "Id": "Achievement_400214_Desc",
-    "Content": "Absorb 50 5-star Echoes."
+    "Content": "Absorb 50 5-Star Echoes."
   },
   {
     "Id": "Achievement_400214_Name",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "Complete any difficulty of Depths of Illusive Realm with Taoqi 1 time."
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "Use Sanhua to clear any difficulty of Dreams Ablaze in Darkness once."
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "Use Jianxin to clear any difficulty of Dreams Ablaze in Darkness once."
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "Use Jinhsi to clear any difficulty of Dreams Ablaze in Darkness once."
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "Use 3 Resonators in total to clear any difficulty of Dreams Ablaze in Darkness."
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "Use 5 Resonators in total to clear any difficulty of Dreams Ablaze in Darkness."
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "Clear any difficulty of Dreams Ablaze in Darkness once with a Reward Rate of 120% or higher."
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "Clear any difficulty of Dreams Ablaze in Darkness once with a Reward Rate of 150% or higher."
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "Clear any difficulty of Dreams Ablaze in Darkness once after activating 4 random Memetic Tunings."
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "Clear any difficulty of Dreams Ablaze in Darkness once after activating 2 or more Nightmare Memes."
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "Clear any difficulty of Dreams Ablaze in Darkness once after activating Memetic Tunings: Blackened Blade & Glass Labyrinth."
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "Activate the highest Symphony Rank 5 times in a Dreams Ablaze in Darkness challenge."
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "Activate the Thundering Mephis Echo's 4th Illusification."
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "Clear Dreams Ablaze in Darkness IV."
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "Clear Dreams Ablaze in Darkness V."
   }
 ]

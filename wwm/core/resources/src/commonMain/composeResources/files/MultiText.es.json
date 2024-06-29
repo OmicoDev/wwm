@@ -28,8 +28,12 @@
     "Content": "Huanglong I"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "Huellas de Huanglong II"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
-    "Content": "Llamadas de la Selva"
+    "Content": "Llamadas de la naturaleza"
   },
   {
     "Id": "AchievementGroup_2001_Name",
@@ -41,19 +45,19 @@
   },
   {
     "Id": "AchievementGroup_3001_Name",
-    "Content": "Recuerdos de Batalla"
+    "Content": "Recuerdos de batalla"
   },
   {
     "Id": "AchievementGroup_3002_Name",
-    "Content": "Habilidades de Batalla I"
+    "Content": "Habilidades de batalla I"
   },
   {
     "Id": "AchievementGroup_3003_Name",
-    "Content": "Habilidades de Batalla II"
+    "Content": "Habilidades de batalla II"
   },
   {
     "Id": "AchievementGroup_3004_Name",
-    "Content": "Experiencia Inesperada"
+    "Content": "Experiencia inesperada"
   },
   {
     "Id": "AchievementGroup_3005_Name",
@@ -61,7 +65,7 @@
   },
   {
     "Id": "AchievementGroup_4001_Name",
-    "Content": "Camino de Crecimiento"
+    "Content": "Camino del crecimiento"
   },
   {
     "Id": "AchievementGroup_4002_Name",
@@ -69,7 +73,7 @@
   },
   {
     "Id": "AchievementGroup_5001_Name",
-    "Content": "Amistad de Otros Reinos"
+    "Content": "Amistad de otros reinos"
   },
   {
     "Id": "Achievement_100101_Desc",
@@ -81,11 +85,11 @@
   },
   {
     "Id": "Achievement_100102_Desc",
-    "Content": "Completa «Historia Silenciosa»."
+    "Content": "Completa «Historia silenciosa»."
   },
   {
     "Id": "Achievement_100102_Name",
-    "Content": "Sigue la Luz del Faro"
+    "Content": "Que las balizas nos guíen"
   },
   {
     "Id": "Achievement_100103_Desc",
@@ -257,7 +261,7 @@
   },
   {
     "Id": "Achievement_100125_Desc",
-    "Content": "Derrota a \"Wild Scarlet\" en el Bosque Oscuro"
+    "Content": "Derrota a \"Gorila Salvaje\" en el Bosque Oscuro."
   },
   {
     "Id": "Achievement_100125_Name",
@@ -277,11 +281,11 @@
   },
   {
     "Id": "Achievement_100201_Name",
-    "Content": "Honra Mi Lema"
+    "Content": "Honra mi lema"
   },
   {
     "Id": "Achievement_100202_Desc",
-    "Content": "Completa «Lacrimosa Estigia»."
+    "Content": "Completa «Lacrimosa estigia»."
   },
   {
     "Id": "Achievement_100202_Name",
@@ -289,19 +293,19 @@
   },
   {
     "Id": "Achievement_100203_Desc",
-    "Content": "Completa «Sombras del Pasado»."
+    "Content": "Completa «Sombra del pasado»."
   },
   {
     "Id": "Achievement_100203_Name",
-    "Content": "Días Pasados"
+    "Content": "Días pasados"
   },
   {
     "Id": "Achievement_100204_Desc",
-    "Content": "Completa «Cuando el Bosque ya no Está Oscuro»."
+    "Content": "Completa «Cuando el bosque ya no está oscuro»."
   },
   {
     "Id": "Achievement_100204_Name",
-    "Content": "Átomo: La Odisea de la Jungla"
+    "Content": "Átomo: La ddisea de la jungla"
   },
   {
     "Id": "Achievement_100205_Desc",
@@ -309,7 +313,7 @@
   },
   {
     "Id": "Achievement_100205_Name",
-    "Content": "Cuando el Bosque ya no Está Oscuro"
+    "Content": "Cuando el bosque ya no está oscuro"
   },
   {
     "Id": "Achievement_100206_Desc",
@@ -317,7 +321,7 @@
   },
   {
     "Id": "Achievement_100206_Name",
-    "Content": "El Sol Sale como de Costumbre"
+    "Content": "El sol sale como de costumbre"
   },
   {
     "Id": "Achievement_100207_Desc",
@@ -325,7 +329,7 @@
   },
   {
     "Id": "Achievement_100207_Name",
-    "Content": "El Futuro Está Aquí"
+    "Content": "El futuro está aquí"
   },
   {
     "Id": "Achievement_100208_Desc",
@@ -333,7 +337,7 @@
   },
   {
     "Id": "Achievement_100208_Name",
-    "Content": "Un Tiempo Fuera de tu Alcance"
+    "Content": "Un tiempo fuera de tu alcance"
   },
   {
     "Id": "Achievement_100209_Desc",
@@ -398,6 +402,158 @@
   {
     "Id": "Achievement_100216_Name",
     "Content": "El maestro del Parkour"
+  },
+  {
+    "Id": "Achievement_100217_Desc",
+    "Content": "Obtén la recompensa más alta en Holograma táctico: Esquí."
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Come for Ya"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "Disfruta de las aguas termales una vez."
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "Momentos tranquilizantes"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "Completa el desafío del Eco: Clang Bang una vez."
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "Proyecto Clang Bang"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "Usa el Cronoclasificador una vez."
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "Viajero temerario"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "Usa el Dispositivo de salto una vez."
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "Control de lanzamiento"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "Libera a un enemigo dentro de la Barrera de fotones una vez."
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "¡Es la hora!"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "Rompe 20 bloques de hielo."
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "Alivio del estrés"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "Completa la «Gloriosa Perla de Loong»."
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "Fresa duchesne"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "Obtén la espada que se encuentra en una isla lacustre alrededor de Villarcoíris."
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "Balada de espada"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "Recolecta todas las Campanillas de viento en el área del Monte Firmamento."
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "Preparar té en un día nevado"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "Derrota al Correluces Poderoso que vaga por el Monte Firmamento."
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "Agarrar el toro por los cuernos"
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "Derrota a la Mecánica: Escamas Protectoras que deambula por el Monte Firmamento."
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "Valiente contra Jué"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "Derrota a la Bestia Campo Helado que merodea en el Monte Firmamento."
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "Bestia feroz"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "Derrota al Clang Bang Glacial que deambula por el Monte Firmamento."
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "Rompehielos Clang Bang"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "Derrota a un Bicho Escarchado."
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "La pesadilla del bicho debilucho"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "Derrota a todos los Bichos Escarchados."
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "Superar a los bichos"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "Completa todos los desafíos del Eco: Clang Bang."
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "Última pieza del rompecabezas"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "Desbloquea los Nexos de resonancia en Villarcoíris."
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "Rastro nevado"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "Desbloquea la Baliza de resonancia en la cabeza de dragón del Acantilado Loong."
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "Desde la cima"
   },
   {
     "Id": "Achievement_100401_Desc",
@@ -624,6 +780,30 @@
     "Content": "Hechizo del Farmacéutico II"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "Prepara una poción 100 veces."
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "¡Toma tu medicación!"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "Toma fotos 10 veces."
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "¡Sigue grabando!"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "Prepara una comida 5 veces."
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "La buena comida siempre brilla."
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "Entrega 30 Ataúdes de Sonancia a Chenpi"
   },
@@ -670,6 +850,22 @@
   {
     "Id": "Achievement_110107_Name",
     "Content": "Solo queda la Reverberación"
+  },
+  {
+    "Id": "Achievement_110108_Desc",
+    "Content": "Interactúa con cualquier animal una vez"
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "Criaturas adorables y dónde encontrarlas"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "Progreso de exploración de Jinzhou (incluida la región del Monte Firmamento) alcanza el Nivel Pionero 10."
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "Todo sobre Wuthering Waves: Jinzhou"
   },
   {
     "Id": "Achievement_110110_Desc",
@@ -753,7 +949,7 @@
   },
   {
     "Id": "Achievement_200102_Desc",
-    "Content": "Recibe la Perla de azúcar del Magistrado de Jinzhou"
+    "Content": "Recibe la Perla de azúcar de la Magistrada de Jinzhou."
   },
   {
     "Id": "Achievement_200102_Name",
@@ -765,7 +961,7 @@
   },
   {
     "Id": "Achievement_200103_Name",
-    "Content": "Palabras del Magistrado de Jinzhou: Mensaje Silencioso"
+    "Content": "Así Habló la Magistrada: Mensaje Sin Palabras"
   },
   {
     "Id": "Achievement_200105_Desc",
@@ -773,7 +969,7 @@
   },
   {
     "Id": "Achievement_200105_Name",
-    "Content": "Palabras del Magistrado de Jinzhou: Pronunciamiento del Frente"
+    "Content": "Así Habló la Magistrada: Llamadas del Frente"
   },
   {
     "Id": "Achievement_200106_Desc",
@@ -832,6 +1028,22 @@
     "Content": "Siempre te cautivo"
   },
   {
+    "Id": "Achievement_200116_Desc",
+    "Content": "Completa el «Deshielo de eones»."
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "Despertar de primavera"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "Alcanza el Monte Firmamento."
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "Montaña más allá del bosque"
+  },
+  {
     "Id": "Achievement_200201_Desc",
     "Content": "Completa «Cruzada Solitaria»."
   },
@@ -857,7 +1069,7 @@
   },
   {
     "Id": "Achievement_200204_Desc",
-    "Content": "En \"Regreso del corazón salvaje\", completa \"Rastreo de Sonido\"."
+    "Content": "Completa «Rastreo de huella acústica» en \"Regreso del corazón salvaje\"."
   },
   {
     "Id": "Achievement_200204_Name",
@@ -878,6 +1090,14 @@
   {
     "Id": "Achievement_200206_Name",
     "Content": "Crescente Luna en el Árbol Baniano"
+  },
+  {
+    "Id": "Achievement_200307_Desc",
+    "Content": "Completa el «Resplandor inmortal»."
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "Senda desierta"
   },
   {
     "Id": "Achievement_300101_Desc",
@@ -913,7 +1133,7 @@
   },
   {
     "Id": "Achievement_300105_Desc",
-    "Content": "Derrota al Sin Corona por primera vez"
+    "Content": "Derrota al Destronado por primera vez."
   },
   {
     "Id": "Achievement_300105_Name",
@@ -929,7 +1149,7 @@
   },
   {
     "Id": "Achievement_300107_Desc",
-    "Content": "Derrota a Mephis Tempestad por primera vez."
+    "Content": "Derrota a Mephis Trueno por primera vez."
   },
   {
     "Id": "Achievement_300107_Name",
@@ -977,7 +1197,7 @@
   },
   {
     "Id": "Achievement_300113_Desc",
-    "Content": "Derrota al Sincorona 50 veces"
+    "Content": "Derrota al Destronado 50 veces."
   },
   {
     "Id": "Achievement_300113_Name",
@@ -985,7 +1205,7 @@
   },
   {
     "Id": "Achievement_300114_Desc",
-    "Content": "Derrota a Mephis Tempestad 50 veces"
+    "Content": "Derrota a Mephis Trueno 50 veces."
   },
   {
     "Id": "Achievement_300114_Name",
@@ -993,7 +1213,7 @@
   },
   {
     "Id": "Achievement_300115_Desc",
-    "Content": "Activa la Habilidad de la Intro 20 veces"
+    "Content": "Activa la Habilidad Intro 20 veces."
   },
   {
     "Id": "Achievement_300115_Name",
@@ -1033,11 +1253,11 @@
   },
   {
     "Id": "Achievement_300120_Desc",
-    "Content": "Usa la habilidad Eco de Sincorona para asestar un golpe mortal al Sin Corona."
+    "Content": "Usa la habilidad del Eco de Destronado para asestar un golpe mortal al Destronado."
   },
   {
     "Id": "Achievement_300120_Name",
-    "Content": "Retroceso: Sincorona"
+    "Content": "Retroceso: Destronado"
   },
   {
     "Id": "Achievement_300121_Desc",
@@ -1045,7 +1265,7 @@
   },
   {
     "Id": "Achievement_300121_Name",
-    "Content": "Retroceso: Mephis Tempestad"
+    "Content": "Retroceso: Mephis Trueno"
   },
   {
     "Id": "Achievement_300122_Desc",
@@ -1070,6 +1290,246 @@
   {
     "Id": "Achievement_300124_Name",
     "Content": "¡¡¡Duang!!!"
+  },
+  {
+    "Id": "Achievement_300146_Desc",
+    "Content": "Derrota al Insomne por primera vez."
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "El desastre siempre está a un paso atrás."
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "Usa la habilidad Outro de Errante: Espectro 100 veces."
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "Modo silencioso"
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "Usa la habilidad Outro de Errante: Destrucción 100 veces."
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "Sombras atenuadas"
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "Usa la habilidad Outro de Jianxin 100 veces."
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "Claro como un espejo"
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "Usa la habilidad Outro de Jinhsi 100 veces."
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "Jué está conmigo"
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "Usa la habilidad Outro de Chixia 100 veces."
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "Un regalo de llamas"
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "Usa la habilidad Outro de Danjin 100 veces."
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "La belleza y la espada"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "Usa la habilidad Outro de Sanhua 100 veces."
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "Ráfaga de flores"
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "Usa la habilidad Outro de Taoqi 100 veces."
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "Flores eternas"
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "Usa la habilidad Outro de Yangyang 100 veces."
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "Balada de pájaros"
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "Usa la habilidad Outro de Yinlin 100 veces."
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "Cálido pero solitario"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "Usa la habilidad Outro de Verina 100 veces."
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "Pétalos doblados"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "Usa la habilidad Outro de Encore 100 veces."
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "Las maravillosas aventuras de Encore"
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "Usa la habilidad Outro de Baizhi 100 veces."
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "Pulso de vida"
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "Usa la habilidad Outro de Lingyang 100 veces."
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "Buen augurio"
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "Usa la habilidad Outro de Mortefi 100 veces."
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "La siguiente melodía"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "Usa la habilidad Outro de Yuanwu 100 veces."
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "¡Golpéalo con Leihuangquan!"
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "Usa la habilidad Outro de Jiyan 100 veces."
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "Transformación de Loong de Lluvia"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "Usa la habilidad Outro de Aalto 100 veces."
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "Disparos velados"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "Usa la habilidad Outro de Calcharo 100 veces."
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "Boxeo de sombra"
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "Usa la habilidad Outro de Changli 100 veces."
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "¡La mano de Dios!"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "Derrota a Jué por primera vez."
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "La deidad silenciosa"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "Derrota a Jué 50 veces."
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "Linaje de Loong"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "Derrota al Insomne 50 veces."
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "¡Tú eres el retador!"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "Derrota a la Lumescama Mecánica 20 veces."
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "20 Mecánicas"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "Derrota a Bichofuego 20 veces."
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "Mátalo con calor"
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "Derrota a Bicho Escarchado 20 veces."
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "¿Es todo proteína?"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "Derrota a Casuario Enano 20 veces."
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "¿Quién mató al Pájaro Lento?"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "Derrota al Correluces 20 veces."
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "Conquistador de los tigres"
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "Derrota a Lobo Gélido 20 veces."
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "La llamada de la naturaleza"
   },
   {
     "Id": "Achievement_300205_Desc",
@@ -1190,6 +1650,14 @@
   {
     "Id": "Achievement_300307_Name",
     "Content": "Luces Apagadas..."
+  },
+  {
+    "Id": "Achievement_300308_Desc",
+    "Content": "Derrota a 66 Clang Bangs"
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "Clang y Bang"
   },
   {
     "Id": "Achievement_300309_Desc",
@@ -1369,7 +1837,7 @@
   },
   {
     "Id": "Achievement_300510_Desc",
-    "Content": "Usa el objeto de Renacimiento por primera vez."
+    "Content": "Usa el objeto de regeneración por primera vez."
   },
   {
     "Id": "Achievement_300510_Name",
@@ -1408,6 +1876,46 @@
     "Content": "No hay Rey a la Vista"
   },
   {
+    "Id": "Achievement_300515_Desc",
+    "Content": "Completa el nivel final en cualquier torre de la «Torre de la adversidad: Zona peligrosa» dentro de 2 min."
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "Rápido & Adverso"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "El equipo entero pierde la conciencia en la «Torre de la adversidad» 10 veces."
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "Tres atardeceres"
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "Reclama todas las Huellas en la «Torre de la adversidad: Zona peligrosa» 3 veces seguidas."
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "A los gloriosos"
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Destronado I»."
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "El rey sin corona"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Destronado VI»."
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "El fracaso no está en mi diccionario."
+  },
+  {
     "Id": "Achievement_400101_Desc",
     "Content": "La Ascensión de Resonador alcanza el Rango 6"
   },
@@ -1425,7 +1933,7 @@
   },
   {
     "Id": "Achievement_400103_Desc",
-    "Content": "Obtén el Eco de Sincorona por primera vez"
+    "Content": "Obtén el Eco de Destronado por primera vez."
   },
   {
     "Id": "Achievement_400103_Name",
@@ -1518,6 +2026,30 @@
   {
     "Id": "Achievement_400115_Name",
     "Content": "\"El Frágil Yo ya está Muerto\""
+  },
+  {
+    "Id": "Achievement_400117_Desc",
+    "Content": "Alcanza el rango 6 de Avance de arma por primera vez."
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "Rango tras rango"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "Baja la fase de SOL3 por primera vez."
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "Excesivamente cauteloso."
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "Absorbe un Eco de clase de marea o de tsunami por primera vez."
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "Admito que eres fuerte."
   },
   {
     "Id": "Achievement_400201_Desc",
@@ -1649,7 +2181,7 @@
   },
   {
     "Id": "Achievement_700101_Desc",
-    "Content": "Supera la Dificultad IV con el Eco de Sincorona"
+    "Content": "Completa la Dificultad IV con el Eco de Destronado."
   },
   {
     "Id": "Achievement_700102_Desc",
@@ -1661,7 +2193,7 @@
   },
   {
     "Id": "Achievement_700201_Desc",
-    "Content": "Activa la cuarta habilidad adicional del Eco de Sincorona"
+    "Content": "Activa la cuarta habilidad adicional del Eco de Destronado."
   },
   {
     "Id": "Achievement_700202_Desc",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "Completa cualquier dificultad de las Profundidades del reino ilusorio 1 vez con Taoqi."
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "Usa Sanhua para completar cualquier dificultad de Sueños en llamas oscuras una vez."
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "Usa Jianxin para completar cualquier dificultad de Sueños en llamas oscuras una vez."
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "Usa Jinhsi para completar cualquier dificultad de Sueños en llamas oscuras una vez."
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "Usa un total de 3 Resonadores para completar cualquier dificultad de Sueños en llamas oscuras."
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "Usa un total de 5 Resonadores para completar cualquier dificultad de Sueños en llamas oscuras."
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "Completa cualquier dificultad de Sueños en llamas oscuras una vez con una tasa de Recompensa del 120% o superior."
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "Completa cualquier dificultad de Sueños en llamas oscuras una vez con una tasa de Recompensa del 150% o superior."
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "Completa cualquier dificultad de Sueños en llamas oscuras una vez después de activar 4 Memes de afinación aleatorios."
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "Completa cualquier dificultad de Sueños en llamas oscuras una vez después de activar 2 o más Memes de pesadilla."
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "Completa cualquier dificultad de Sueños en llamas oscuras una vez después de activar los Memes de afinación: Matriz de espejos & Espada ennegrecida."
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "Activa el rango más alto de la Sinfonía 5 veces en un desafío de Sueños en llamas oscuras."
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "Activa la cuarta Ilusificación del Eco del Mephis Trueno."
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "Completa Sueños en llamas oscuras IV."
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "Completa Sueños en llamas oscuras V."
   }
 ]

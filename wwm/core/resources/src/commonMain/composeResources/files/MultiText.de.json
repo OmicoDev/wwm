@@ -28,6 +28,10 @@
     "Content": "Huanglong I"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "Fußabdrücke von Huanglong II"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
     "Content": "Rufe aus der Wildnis"
   },
@@ -400,6 +404,158 @@
     "Content": "Der Meister von Overdashing"
   },
   {
+    "Id": "Achievement_100217_Desc",
+    "Content": "Erreiche die höchste Belohnung in Taktisches Hologramm: Ski."
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Come for Ya"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "Genieße einmal die heiße Quelle."
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "Beruhigende Momente"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "Schließe die Echo-Herausforderung: Clang Bang einmal ab."
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "Projekt Clang Bang"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "Verwende einmal den Chronosorter."
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "Rücksichtsloser Reisender"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "Verwende einmal das Sprunggerät."
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "Abschusskontrolle"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "Befreie einmal einen Feind innerhalb der Photonenbarriere."
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "Es wird Zeit!"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "Zerbrich 20 Eisblöcke."
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "Stressabbau"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "Schließe Glorreiche Loongs Perle ab."
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "Edelbeere"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "Erhalte das Schwert auf der Insel in der Mitte eines Sees in der Nähe von Hongzhen."
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "Ballade des Schwerts"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "Sammle alle Windklinger im Berg Firmament."
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "Teezubereitung an einem verschneiten Tag"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "Besiege den mächtigen Lichtbrecher, der im Berg Firmament umherstreift."
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "Tiger am Schwanz"
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "Besiege das Konstrukt: Schutzschuppen, das im Berg Firmament umherstreift."
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "Mutig gegen Jué"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "Besiege die Eisfeldbestie, die im Berg Firmament umherstreift."
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "Wilde Bestie"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "Besiege den eisigen Clang Bang, der im Berg Firmament umherstreift."
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "Clang Bang Eisbrecher"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "Besiege einen Frostkäfer."
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "Alptraum des schwächlichen Käfers"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "Besiege alle Frostkäfer."
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "Überwinde die Käfer"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "Schließe alle Echo-Herausforderungen: Clang Bang ab."
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "Letztes Puzzleteil"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "Schalte die Resonanznexusse in Hongzhen frei."
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "Verschneite Spur"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "Schalte das kleine Resonanz-Leuchtfeuer am Drachenkopf von Loongs Wappen frei."
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "Vom Gipfel"
+  },
+  {
     "Id": "Achievement_100401_Desc",
     "Content": "Schmiede einmal eine Waffe"
   },
@@ -624,6 +780,30 @@
     "Content": "Apothekers Zauber II"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "Stelle 100 Tränke her."
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "Nimm deine Medizin!"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "Mach 10 Fotos."
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "Halte die Kamera am Laufen!"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "Bereite 5 Mahlzeiten zu."
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "Gutes Essen leuchtet immer"
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "Überreiche 30 Schallkassetten an Chenpi"
   },
@@ -670,6 +850,22 @@
   {
     "Id": "Achievement_110107_Name",
     "Content": "Nur der Nachhall bleibt"
+  },
+  {
+    "Id": "Achievement_110108_Desc",
+    "Content": "Interagiere einmal mit einem Tier"
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "Niedliche Kreaturen und wo sie zu finden sind"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "Erreiche die Pionier-Stufe 10 im Erkundungsfortschritt von Jinzhou (einschließlich der Region Berg Firmament)."
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "Alles über Wuthering Waves: Jinzhou"
   },
   {
     "Id": "Achievement_110110_Desc",
@@ -745,7 +941,7 @@
   },
   {
     "Id": "Achievement_200101_Desc",
-    "Content": "Schließe die Hauptquest „Äußerung von Wundern“ ab."
+    "Content": "Hauptquest abschließen: Äußerung von Wundern."
   },
   {
     "Id": "Achievement_200101_Name",
@@ -832,6 +1028,22 @@
     "Content": "Immer fesselnd"
   },
   {
+    "Id": "Achievement_200116_Desc",
+    "Content": "Schließe das Auftauen der Äonen ab."
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "Frühlingserwachen"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "Erreiche den Berg Firmament."
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "Berg hinter dem Wald"
+  },
+  {
     "Id": "Achievement_200201_Desc",
     "Content": "Schließe „Einsamer Pfad“ ab."
   },
@@ -878,6 +1090,14 @@
   {
     "Id": "Achievement_200206_Name",
     "Content": "Halbmond auf dem Feigenbaum"
+  },
+  {
+    "Id": "Achievement_200307_Desc",
+    "Content": "Schließe Unsterbliches Feuer ab."
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "Verlassener Pfad"
   },
   {
     "Id": "Achievement_300101_Desc",
@@ -1072,6 +1292,246 @@
     "Content": "Duang!!!"
   },
   {
+    "Id": "Achievement_300146_Desc",
+    "Content": "Besiege Traumlose zum ersten Mal."
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "Das Unglück ist immer einen Schritt hinterher"
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "Verwende Rover: Spectros Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "Stiller Modus"
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "Verwende Rover: Chaos Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "Dunkler werdende Schatten"
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "Verwende Jianxins Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "Klar wie ein Spiegel"
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "Verwende Jinhsis Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "Jué ist bei mir"
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "Verwende Chixias Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "Geschenk der Flammen"
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "Verwende Danjins Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "Schönheit und Klinge"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "Verwende Sanhuas Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "Blumensturm"
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "Verwende Taoqis Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "Ewige Blüten"
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "Verwende Yangyangs Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "Ballade der Vögel"
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "Verwende Yinlins Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "Warm und doch einsam"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "Verwende Verinas Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "Gefaltete Blütenblätter"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "Verwende Encores Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "Encores wundersame Abenteuer"
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "Verwende Baizhis Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "Puls des Lebens"
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "Verwende Lingyangs Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "Gutes Omen"
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "Verwende Mortefis Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "Die nächste Melodie"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "Verwende Yuanwus Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "Schlag es mit Leihuang-Faust!"
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "Verwende Jiyans Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "Verwandlung des Regen-Loong"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "Verwende Aaltos Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "Verschleiertes Gewehrfeuer"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "Verwende Calcharos Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "Schattenboxen"
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "Verwende Changlis Outro-Skill 100 Mal."
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "Die Hand Gottes!"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "Besiege Jué zum ersten Mal."
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "Die stille Gottheit"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "Besiege Jué 50 Mal."
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "Loong-Abstammung"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "Besiege Traumlose 50 Mal."
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "Du bist der Herausforderer!"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "Besiege Lumischuppen-Konstrukt 20 Mal."
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "20 Konstrukte"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "Besiege Feuerwanze 20 Mal."
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "Töte es mit Hitze"
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "Besiege Frostkäfer 20 Mal."
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "Alles nur Protein?"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "Besiege Zwergkasuar 20 Mal."
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "Wer hat den langsamen Vogel getötet?"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "Besiege Lichtbrecher 20 Mal."
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "Tigerbezwinger"
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "Besiege Glacio Dreadmane 20 Mal."
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "Der Ruf der Wildnis"
+  },
+  {
     "Id": "Achievement_300205_Desc",
     "Content": "Füge dem Feind mit einem Angriff 1.000 Schaden zu"
   },
@@ -1190,6 +1650,14 @@
   {
     "Id": "Achievement_300307_Name",
     "Content": "Lichter Aus..."
+  },
+  {
+    "Id": "Achievement_300308_Desc",
+    "Content": "Besiege 66 Clang Bangs"
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "Clang & Bang"
   },
   {
     "Id": "Achievement_300309_Desc",
@@ -1408,6 +1876,46 @@
     "Content": "Kein König in Sicht"
   },
   {
+    "Id": "Achievement_300515_Desc",
+    "Content": "Schließt die letzte Stufe in einem Turm der „Turm der Widrigkeiten: Tiefer Bereich“ innerhalb von 2 Minuten ab."
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "Schnell & Widrigkeiten"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "Das gesamte Team verliert im Turm der Widrigkeiten 10 Mal das Bewusstsein."
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "Drei Sonnenuntergänge"
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "Hole dir alle Wappen im „Turm der Widrigkeiten: Tiefer Bereich“ 3 Mal in Folge."
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "Zu den Ruhmreichen"
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "Schließt „Ungekrönte I“ im Taktischen Hologramm: Kalamität ab."
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "Der kronenlose König"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "Schließt „Ungekrönte VI“ im Taktischen Hologramm: Kalamität ab."
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "Scheitern ist nicht in meinem Wörterbuch"
+  },
+  {
     "Id": "Achievement_400101_Desc",
     "Content": "Resonator-Aufstieg erreicht Rang 6."
   },
@@ -1518,6 +2026,30 @@
   {
     "Id": "Achievement_400115_Name",
     "Content": "„Das zerbrechliche Ich ist bereits tot“"
+  },
+  {
+    "Id": "Achievement_400117_Desc",
+    "Content": "Erreiche erstmals Rang 6 im Waffen-Durchbruch."
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "Rang über Rang"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "Senkt erstmals die SOL3-Phase."
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "Übervorsichtig"
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "Absorbiere erstmals ein Echo der Oberherrenklasse oder Kalamitätsklasse."
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "Ich gebe zu, du bist stark"
   },
   {
     "Id": "Achievement_400201_Desc",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "Schließe jede Schwierigkeit von „Tiefen des Illusorischen Reichs“ einmal mit Taoqi ab."
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "Verwende Sanhua, um Träume in dunkler Flamme einmal in beliebiger Schwierigkeit abzuschließen."
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "Verwende Jianxin, um Träume in dunkler Flamme einmal in beliebiger Schwierigkeit abzuschließen."
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "Verwende Jinhsi, um Träume in dunkler Flamme einmal in beliebiger Schwierigkeit abzuschließen."
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "Verwende insgesamt 3 Charaktere, um Träume in dunkler Flamme einmal in beliebiger Schwierigkeit abzuschließen."
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "Verwende insgesamt 5 Charaktere, um Träume in dunkler Flamme einmal in beliebiger Schwierigkeit abzuschließen."
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "Schließe Träume in dunkler Flamme einmal mit einer Belohnungsrate von 120 % oder höher in beliebiger Schwierigkeit ab."
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "Schließe Träume in dunkler Flamme einmal mit einer Belohnungsrate von 150 % oder höher in beliebiger Schwierigkeit ab."
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "Schließe Träume in dunkler Flamme einmal in beliebiger Schwierigkeit ab, nachdem du 4 zufällige Memetische Tuning aktiviert hast."
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "Schließe Träume in dunkler Flamme einmal in beliebiger Schwierigkeit ab, nachdem du 2 oder mehr Albtraum-Memes aktiviert hast."
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "Schließe Träume in dunkler Flamme einmal in beliebiger Schwierigkeit ab, nachdem du Memetisches Tuning: Spiegelarray und Dunkle Klinge aktiviert hast."
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "Aktiviere den höchsten Symphonie-Rang 5 Mal in einer Herausforderung von Träume in dunkler Flamme."
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "Aktiviere Echos 4. Illusionierung vom Donnernden Mephis."
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "Schließe Träume in dunkler Flamme IV ab."
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "Schließe Träume in dunkler Flamme V ab."
   }
 ]

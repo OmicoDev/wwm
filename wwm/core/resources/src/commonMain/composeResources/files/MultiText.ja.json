@@ -28,6 +28,10 @@
     "Content": "瑝瓏走破・一"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "瑝瓏走破・二"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
     "Content": "荒野の呼び声"
   },
@@ -113,7 +117,7 @@
   },
   {
     "Id": "Achievement_100106_Desc",
-    "Content": "初めて横スクロールプラットフォームゲームをクリア"
+    "Content": "「横から見る山々」を初めてクリア。"
   },
   {
     "Id": "Achievement_100106_Name",
@@ -400,6 +404,158 @@
     "Content": "軽功マスター"
   },
   {
+    "Id": "Achievement_100217_Desc",
+    "Content": "「ホロタクティクス・スノーチャレンジ」で最後の報酬を獲得。"
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Come for ya"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "温泉に1回浸る。"
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "「癒やされる」瞬間"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "音骸挑戦・チリンを1回完了。"
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "チリン補完計画"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "「遡流器」を1回使う。"
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "Le Voyageur Imprudent（迂闊な旅行者）"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "「跳躍器」を1回使う。"
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "ローンチコントロール"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "「遮断光幕」にいる敵を1回解放する。"
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "そろそろ時間だ"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "氷を20ブロック砕く。"
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "ストレス解消法"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "「龍を映す珠」をクリア。"
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "「龍に珠を」"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "「虹鎮」の近くにある湖の島である剣を入手。"
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "剣を唄に"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "乗霄山エリアのすべての「風止みの鈴」を収集。"
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "真冬の調べを聞こう"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "乗霄山に出没する光踏の威勢を倒す。"
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "虎穴に入らずんば虎子を得ず"
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "乗霄山に出没する浮遊鱗機・心護を倒す。"
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "逆鱗に触れる"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "乗霄山に出没する雪鬣の双王を倒す。"
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "無情の凶狼"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "乗霄山に出没するチリン・極寒を倒す。"
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "チリンかき氷"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "伏霜虫を1頭倒す。"
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "弱虫の悪夢"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "伏霜虫をすべて倒す。"
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "包囲網を破る"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "音骸挑戦・チリンをすべて完了。"
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "最後のピース"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "「虹鎮」の中枢信号塔を解放。"
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "応に似たるべし　飛鴻の雪泥を踏むに"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "龍纏いの崖の龍の頭にある「小型信号塔」を解放。"
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "一覧すべし衆山の小なるを"
+  },
+  {
     "Id": "Achievement_100401_Desc",
     "Content": "武器製作を1回行う"
   },
@@ -624,6 +780,30 @@
     "Content": "漂泊する薬屋のひとりごと・二"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "薬剤製作を100回行う。"
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "処方された薬は定期的に飲んでね"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "写真の撮影を10回完了。"
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "カメラを止めるな！"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "食材製作を5回完了。"
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "光らない料理はまずいに決まってる！"
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "陳皮に音匣30個を提出"
   },
@@ -670,6 +850,22 @@
   {
     "Id": "Achievement_110107_Name",
     "Content": "残響は消えることがない"
+  },
+  {
+    "Id": "Achievement_110108_Desc",
+    "Content": "任意の動物とじゃれ合う"
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "ファンタスティック・アニマル"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "今州エリア（乗霄山エリアを含む）で先駆者Lv.10に到達"
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "鳴潮の出来事・今州編"
   },
   {
     "Id": "Achievement_110110_Desc",
@@ -832,6 +1028,22 @@
     "Content": "永遠に刻む1ページ"
   },
   {
+    "Id": "Achievement_200116_Desc",
+    "Content": "「春雷明かす乗霄の暗雲」をクリア。"
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "春を告げる雷"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "乗霄山に入る。"
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "水源に尽きて、便ち一山を得たり"
+  },
+  {
     "Id": "Achievement_200201_Desc",
     "Content": "「我だけの道をゆく」をクリア"
   },
@@ -880,8 +1092,16 @@
     "Content": "枝越しの残月"
   },
   {
+    "Id": "Achievement_200307_Desc",
+    "Content": "「盤上に長く灯る離火」をクリア。"
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "古道に通行人なし"
+  },
+  {
     "Id": "Achievement_300101_Desc",
-    "Content": "哀切の凶鳥を初めて倒す"
+    "Content": "哀切の凶鳥を初めて倒す。"
   },
   {
     "Id": "Achievement_300101_Name+H12:I44",
@@ -1057,7 +1277,7 @@
   },
   {
     "Id": "Achievement_300123_Desc",
-    "Content": "ジャスト回避を累計50回行う"
+    "Content": "累計50回回避を成功させる"
   },
   {
     "Id": "Achievement_300123_Name",
@@ -1070,6 +1290,246 @@
   {
     "Id": "Achievement_300124_Name",
     "Content": "キーン～！！！"
+  },
+  {
+    "Id": "Achievement_300146_Desc",
+    "Content": "初めて無妄者を倒す。"
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "災いが、いつも俺には追いつかない"
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "漂泊者・回折の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "マナーモード"
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "漂泊者・消滅の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "薄暗い光と影"
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "鑑心の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "明鏡止水"
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "今汐の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "「角」は余と共にあり"
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "熾霞の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "この素晴らしい世界に焔を"
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "丹瑾の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "主は玉で、剣は虹"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "散華の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "雪のような華"
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "桃祈の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "桃の花は咲いたまま"
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "秧秧の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "鳥の詩"
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "吟霖の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "理想に献身する孤独"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "ヴェリーナの終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "星が織りなした花びら"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "アンコの終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "おとぎの国のアンコ"
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "白芷の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "脈打つ命"
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "凌陽の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "「幸運の兆し」"
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "モルトフィーの終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "次の曲が始まるのです"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "淵武の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "雷煌拳になって"
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "忌炎の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "雨の中を飛ぶ青龍"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "アールトの終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "霧に紛れ込む銃声"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "カカロの終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "まずは影と遊んでみよう"
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "長離の終奏スキルを100回使う。"
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "神の一手"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "初めて「角」を倒す。"
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "神は黙したまま"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "「角」を累計50回倒す。"
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "龍脈は常にここを流れる"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "無妄者を累計50回倒す。"
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "君こそが挑戦者だ！"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "浮遊鱗機を累計20回倒す。"
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "「20」鱗機防衛圏"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "溶岩虫を累計20回倒す。"
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "高温滅菌処理"
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "伏霜虫を累計20回倒す。"
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "タンパク質だらけ"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "地駝鳥を累計20回倒す。"
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "誰が殺したのろまな鳥？"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "光踏獣を累計20回倒す。"
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "虎退治の英雄"
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "雪鬣狼を累計20回倒す。"
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "野性の呼び声"
   },
   {
     "Id": "Achievement_300205_Desc",
@@ -1181,7 +1641,7 @@
   },
   {
     "Id": "Achievement_300306_Name",
-    "Content": "おやすみ、ホロロロ"
+    "Content": "おやすみ、カチャチャ"
   },
   {
     "Id": "Achievement_300307_Desc",
@@ -1190,6 +1650,14 @@
   {
     "Id": "Achievement_300307_Name",
     "Content": "電気を消してくださいね"
+  },
+  {
+    "Id": "Achievement_300308_Desc",
+    "Content": "チリンを66回倒す"
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "かき氷はいかがですか"
   },
   {
     "Id": "Achievement_300309_Desc",
@@ -1205,7 +1673,7 @@
   },
   {
     "Id": "Achievement_300310_Name",
-    "Content": "ふわふわクカカ"
+    "Content": "ふわふわウカカ"
   },
   {
     "Id": "Achievement_300401_Desc",
@@ -1408,6 +1876,46 @@
     "Content": "玉座に王の跡形はなし。"
   },
   {
+    "Id": "Achievement_300515_Desc",
+    "Content": "2分以内で「逆境深塔・深層エリア」の任意の塔の最終階層をクリア。"
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "ワイルド・スピード"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "「逆境深塔」でチーム内全員が10回戦闘不能になる。"
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "落陽を三度迎えても"
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "連続3期で「逆境深塔・深層エリア」のすべてのマークを獲得。"
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "輝けるものたちへ"
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "「ホロタクティクス・強襲」の「無冠者I」をクリア。"
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "王者の冠を以て"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "「ホロタクティクス・強襲」の「無冠者Ⅵ」をクリア。"
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "勝ち目がないなんて、わかりませんよ……"
+  },
+  {
     "Id": "Achievement_400101_Desc",
     "Content": "1人の共鳴者が共鳴階級6階を突破（レベル上限突破）"
   },
@@ -1518,6 +2026,30 @@
   {
     "Id": "Achievement_400115_Name",
     "Content": "「弱い私はもう死んだ」"
+  },
+  {
+    "Id": "Achievement_400117_Desc",
+    "Content": "初めて武器をランク6に突破。"
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "上には上がある"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "初めてソラランクを下げる。"
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "強いくせに慎重すぎる"
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "初めて怒涛級または津波級の残像を吸収。"
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "実力は認めよう"
   },
   {
     "Id": "Achievement_400201_Desc",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "桃祈を使って任意難易度の深層空想秘境をクリア"
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "散華を使って任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "鑑心を使って任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "今汐を使って任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "累計で3人のキャラを使って任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "累計で5人のキャラを使って任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "報酬倍率120%以上で任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "報酬倍率150%以上で任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "任意の夢づくりミームを4個有効にして任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "任意の凶夢ミームを2個以上有効にして任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "夢づくりミームの「鏡陣」と「黒刃」を同時に適用して任意の難易度で夢燃ゆる黒焔を1回クリア。"
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "1回の夢燃ゆる黒焔の挑戦において、激闘評定ランクを5回最大に上げる。"
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "音骸・雲閃のウロコの4つ目の強化効果を解放。"
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "夢燃ゆる黒焔Ⅳをクリア。"
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "夢燃ゆる黒焔Ⅴをクリア。"
   }
 ]

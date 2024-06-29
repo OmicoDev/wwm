@@ -28,6 +28,10 @@
     "Content": "瑝瓏的足跡·一"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "瑝瓏的足跡·二"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
     "Content": "荒野的呼喚"
   },
@@ -113,7 +117,7 @@
   },
   {
     "Id": "Achievement_100106_Desc",
-    "Content": "首次完成橫版跑酷。"
+    "Content": "首次完成「橫覽山嶽」。"
   },
   {
     "Id": "Achievement_100106_Name",
@@ -121,11 +125,11 @@
   },
   {
     "Id": "Achievement_100107_Desc",
-    "Content": "首次通關「天地旋恒」。"
+    "Content": "首次通關「天地旋恆」。"
   },
   {
     "Id": "Achievement_100107_Name",
-    "Content": "天地旋恒"
+    "Content": "天地旋恆"
   },
   {
     "Id": "Achievement_100108_Desc",
@@ -400,6 +404,158 @@
     "Content": "飛簷之主"
   },
   {
+    "Id": "Achievement_100217_Desc",
+    "Content": "在「全像戰畧·競雪」中獲得最高獎勵。"
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Come for ya"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "泡一次溫泉。"
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "被「治癒」的瞬間"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "完成一次聲骸挑戰·叮咚咚。"
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "叮咚咚補完計畫"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "使用一次「溯流儀」。"
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "不小心的旅行者"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "使用一次「躍遷器」。"
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "彈射起步"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "釋放一次「絕緣光幕」內的敵人。"
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "時間差不多囉"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "擊碎二十塊冰塊。"
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "解壓工具"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "完成「照龍映珠」。"
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "「龍銜珠」"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "獲得「虹鎮」旁湖心島中的劍。"
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "彈劍作歌"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "在乘霄山地區收集所有「定風鐸」。"
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "觀風聽雪，寒酥烹泉"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "擊敗乘霄山出沒的踏光之威。"
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "明知山有虎……"
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "擊敗乘霄山出沒的機樞·護心鱗。"
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "抵角而犯鱗"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "擊敗乘霄山出沒的冰原嗥鳴。"
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "龍山狼，無情獸"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "擊敗乘霄山出沒的極寒叮咚咚。"
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "咚咚碎冰機"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "擊敗一隻伏霜蟲。"
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "膽小蟲的噩夢"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "擊敗所有伏霜蟲。"
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "衝出蟲圍"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "完成所有聲骸挑戰·叮咚咚。"
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "最後一塊拼圖"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "解鎖「虹鎮」的中樞信標。"
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "應似飛鴻踏雪泥"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "解鎖盤龍崖龍頭的「小型信標」。"
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "一覽眾山小"
+  },
+  {
     "Id": "Achievement_100401_Desc",
     "Content": "進行1次武器製造。"
   },
@@ -624,6 +780,30 @@
     "Content": "漂泊藥師的呢喃之語·二"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "進行100次藥劑製作。"
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "藥不能停！ 藥不能停！"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "完成10次照片拍攝。"
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "攝影機不要停！"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "完成5次切配製作。"
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "不會發光的料理不是好料理"
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "向陳皮交付30個聲匣。"
   },
@@ -672,6 +852,22 @@
     "Content": "消逝唯餘殘響"
   },
   {
+    "Id": "Achievement_110108_Desc",
+    "Content": "與任意動物交互1次。"
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "神奇萌物在哪里"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "在今州區域（包含乘霄山地區）達到先行者10級。"
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "鳴潮那些事·今州篇"
+  },
+  {
     "Id": "Achievement_110110_Desc",
     "Content": "在今州區域累計獲得20個潮汐之遺。"
   },
@@ -701,7 +897,7 @@
   },
   {
     "Id": "Achievement_110113_Name",
-    "Content": "聲曆其境·今州"
+    "Content": "聲歷其境·今州"
   },
   {
     "Id": "Achievement_110114_Desc",
@@ -793,7 +989,7 @@
   },
   {
     "Id": "Achievement_200108_Desc",
-    "Content": "完成「奔策候殘星」。"
+    "Content": "完成「庭際刀刃鳴」。"
   },
   {
     "Id": "Achievement_200108_Name",
@@ -830,6 +1026,22 @@
   {
     "Id": "Achievement_200115_Name",
     "Content": "影像從心，感動常在"
+  },
+  {
+    "Id": "Achievement_200116_Desc",
+    "Content": "完成「往歲乘霄醒驚蟄」。"
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "啟蟄醒春"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "進入乘霄山。"
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "林盡水源，便得一山"
   },
   {
     "Id": "Achievement_200201_Desc",
@@ -878,6 +1090,14 @@
   {
     "Id": "Achievement_200206_Name",
     "Content": "榕樹上的彎月亮"
+  },
+  {
+    "Id": "Achievement_200307_Desc",
+    "Content": "完成「離火弈長生」。"
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "古路無行客"
   },
   {
     "Id": "Achievement_300101_Desc",
@@ -1057,7 +1277,7 @@
   },
   {
     "Id": "Achievement_300123_Desc",
-    "Content": "累積完美閃避50次。"
+    "Content": "累積成功閃避50次。"
   },
   {
     "Id": "Achievement_300123_Name",
@@ -1070,6 +1290,246 @@
   {
     "Id": "Achievement_300124_Name",
     "Content": "Duang！！！"
+  },
+  {
+    "Id": "Achievement_300146_Desc",
+    "Content": "首次擊敗無妄者。"
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "災難總是慢我一步"
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "使用100次漂泊者·衍射的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "靜音模式"
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "使用100次漂泊者·湮滅的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "黯淡的光影"
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "使用100次鑒心的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "澄如明鏡"
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "使用100次今汐的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "「角」，與我同在"
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "使用100次熾霞的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "為美好的世界獻上火焰"
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "使用100次丹瑾的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "美人如玉，劍如虹"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "使用100次散華的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "今來花似雪"
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "使用100次桃祈的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "桃華依舊"
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "使用100次秧秧的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "鳥之詩"
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "使用100次吟霖的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "暖矣，孤矣"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "使用100次維里奈的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "星星向後折疊的花瓣"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "使用100次安可的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "安可漫遊奇境"
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "使用100次白芷的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "生命的脈動"
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "使用100次凌陽的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "「好彩頭」"
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "使用100次莫特斐的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "下一曲，即將奏響"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "使用100次淵武的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "對它使用雷煌拳吧"
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "使用100次忌炎的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "如今化為雨蒼龍"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "使用100次秋水的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "霧後槍聲"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "使用100次卡卡羅的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "和影子玩拳擊吧"
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "使用100次長離的延奏技能。"
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "神之一手！"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "首次擊敗「角」。"
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "神明，緘口不言"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "累計擊敗50次「角」。"
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "龍脈常流於此"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "累計擊敗50次無妄者。"
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "你才是挑戰者！"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "累計擊敗20次遊鱗機樞。"
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "「二十」機樞防衛圈"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "累計擊敗20次融火蟲。"
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "高溫消殺處理"
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "累計擊敗20次伏霜蟲。"
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "全是蛋白質？"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "累計擊敗20次侏侏鴕。"
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "是誰殺死了愚鳥？"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "累計擊敗20次踏光獸。"
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "打虎英雄"
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "累計擊敗20次雪鬃狼。"
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "野性的呼喚"
   },
   {
     "Id": "Achievement_300205_Desc",
@@ -1157,7 +1617,7 @@
   },
   {
     "Id": "Achievement_300302_Name",
-    "Content": "七步之內，槍又准又快"
+    "Content": "七步之內，槍又準又快"
   },
   {
     "Id": "Achievement_300304_Desc",
@@ -1190,6 +1650,14 @@
   {
     "Id": "Achievement_300307_Name",
     "Content": "關燈後……"
+  },
+  {
+    "Id": "Achievement_300308_Desc",
+    "Content": "擊敗66只叮咚咚。"
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "咚咚碎冰冰"
   },
   {
     "Id": "Achievement_300309_Desc",
@@ -1369,7 +1837,7 @@
   },
   {
     "Id": "Achievement_300510_Desc",
-    "Content": "首次使用復蘇道具。"
+    "Content": "首次使用復甦道具。"
   },
   {
     "Id": "Achievement_300510_Name",
@@ -1406,6 +1874,46 @@
   {
     "Id": "Achievement_300514_Name",
     "Content": "位不見王影"
+  },
+  {
+    "Id": "Achievement_300515_Desc",
+    "Content": "在2分鐘內完成「逆境深塔·深境區」中任意一座塔的最後一層。"
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "速度與激情"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "在「逆境深塔」中全隊失去意識10次。"
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "縱使三度迎來落日"
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "連續3期在「逆境深塔·深境區」中取得所有印記。"
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "致以輝煌的人"
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "完成「全像戰略·強襲」的「無冠者I」。"
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "冠以王者之名"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "完成「全像戰略·強襲」的「無冠者Ⅵ」。"
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "贏不了，我聽不懂……"
   },
   {
     "Id": "Achievement_400101_Desc",
@@ -1518,6 +2026,30 @@
   {
     "Id": "Achievement_400115_Name",
     "Content": "「脆弱的我，已經死去了」"
+  },
+  {
+    "Id": "Achievement_400117_Desc",
+    "Content": "武器首次强化突破到6階。"
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "「一階更比一階强」"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "首次降低索拉等級。"
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "明明超强卻過分謹慎"
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "首次吸收怒濤級或海嘯級聲骸。"
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "「我承認閣下很强」"
   },
   {
     "Id": "Achievement_400201_Desc",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "使用桃祈通關一次任意難度深墜異想奇境"
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "使用散華通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "使用鑒心通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "使用今汐通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "累計使用3名角色通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "累計使用5名角色通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "在獎勵倍率不低於120%時通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "在獎勵倍率不低於150%時通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "啟用四個任意調夢模因後通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "啟用兩個或以上噩夢模因後通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "同時啟用調夢模因鏡陣與黑刃後通關一次任意難度的燃夢的黑炎"
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "在一次燃夢的黑炎挑戰中啟動5次最高激鬥等級"
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "啟用雲閃之鱗聲骸的第四個額外能力"
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "通關燃夢的黑炎Ⅳ"
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "通關燃夢的黑炎Ⅴ"
   }
 ]

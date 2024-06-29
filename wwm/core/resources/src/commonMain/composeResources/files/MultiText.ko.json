@@ -28,6 +28,10 @@
     "Content": "황룡의 발자취 · Ⅰ"
   },
   {
+    "Id": "AchievementGroup_1003_Name",
+    "Content": "황룡의 발자취 · Ⅱ"
+  },
+  {
     "Id": "AchievementGroup_1004_Name",
     "Content": "황야의 부름"
   },
@@ -181,7 +185,7 @@
   },
   {
     "Id": "Achievement_100115_Name",
-    "Content": "돌맹이 따위..."
+    "Content": "돌멩이 따위..."
   },
   {
     "Id": "Achievement_100116_Desc",
@@ -357,11 +361,11 @@
   },
   {
     "Id": "Achievement_100211_Name",
-    "Content": "승리는 결코 용감한 자의 것!"
+    "Content": "용감한 자만이 승리한다!"
   },
   {
     "Id": "Achievement_100212_Desc",
-    "Content": "「하늘에서 떨어진 파이?」 완성"
+    "Content": "「하늘에서 떨어진 파이?」 완료"
   },
   {
     "Id": "Achievement_100212_Name",
@@ -398,6 +402,158 @@
   {
     "Id": "Achievement_100216_Name",
     "Content": "비첨의 왕"
+  },
+  {
+    "Id": "Achievement_100217_Desc",
+    "Content": "「홀로그램 전략 · 스키」에서 최고 보상 획득"
+  },
+  {
+    "Id": "Achievement_100217_Name",
+    "Content": "Come for ya"
+  },
+  {
+    "Id": "Achievement_100218_Desc",
+    "Content": "온천에서 1회 담그기"
+  },
+  {
+    "Id": "Achievement_100218_Name",
+    "Content": "「힐링」되는 순간"
+  },
+  {
+    "Id": "Achievement_100219_Desc",
+    "Content": "에코 도전 · 딩동동 1회 완료"
+  },
+  {
+    "Id": "Achievement_100219_Name",
+    "Content": "딩동동 채우기 프로젝트"
+  },
+  {
+    "Id": "Achievement_100220_Desc",
+    "Content": "「역류계」 1회 사용"
+  },
+  {
+    "Id": "Achievement_100220_Name",
+    "Content": "부주의한 여행자"
+  },
+  {
+    "Id": "Achievement_100222_Desc",
+    "Content": "「도약 장치」 1회 사용"
+  },
+  {
+    "Id": "Achievement_100222_Name",
+    "Content": "빠른 시동"
+  },
+  {
+    "Id": "Achievement_100223_Desc",
+    "Content": "「광선 차단막」 안의 적 1회 해제"
+  },
+  {
+    "Id": "Achievement_100223_Name",
+    "Content": "시간이 거의 다 됐네요"
+  },
+  {
+    "Id": "Achievement_100224_Desc",
+    "Content": "얼음 20개 파괴"
+  },
+  {
+    "Id": "Achievement_100224_Name",
+    "Content": "스트레스 해소 도구"
+  },
+  {
+    "Id": "Achievement_100225_Desc",
+    "Content": "「용을 비추는 구슬」 완료"
+  },
+  {
+    "Id": "Achievement_100225_Name",
+    "Content": "「드래곤베리」"
+  },
+  {
+    "Id": "Achievement_100226_Desc",
+    "Content": "「홍진 마을」 옆 호심섬에 있는 검 획득"
+  },
+  {
+    "Id": "Achievement_100226_Name",
+    "Content": "검으로 연주"
+  },
+  {
+    "Id": "Achievement_100227_Desc",
+    "Content": "승소산 지역의 모든  「정풍의 종」 수집"
+  },
+  {
+    "Id": "Achievement_100227_Name",
+    "Content": "산속에서 눈구경"
+  },
+  {
+    "Id": "Achievement_100228_Desc",
+    "Content": "승소산에 출몰하는 「흑월의 제왕」 격파"
+  },
+  {
+    "Id": "Achievement_100228_Name",
+    "Content": "산에 호랑이가 있다는 걸 알면서도..."
+  },
+  {
+    "Id": "Achievement_100229_Desc",
+    "Content": "승소산에 출몰하는 「기축 · 심장의 비늘」 격파"
+  },
+  {
+    "Id": "Achievement_100229_Name",
+    "Content": "용비늘을 건드렸어요"
+  },
+  {
+    "Id": "Achievement_100230_Desc",
+    "Content": "승소산에 출몰하는 「빙원의 비명」 격파"
+  },
+  {
+    "Id": "Achievement_100230_Name",
+    "Content": "용산의 늑대, 무정한 짐승"
+  },
+  {
+    "Id": "Achievement_100231_Desc",
+    "Content": "승소산에 출몰하는 「극한의 딩동동」 격파"
+  },
+  {
+    "Id": "Achievement_100231_Name",
+    "Content": "동동 얼음 부셔!"
+  },
+  {
+    "Id": "Achievement_100232_Desc",
+    "Content": "서리 벌레 1개 격파"
+  },
+  {
+    "Id": "Achievement_100232_Name",
+    "Content": "겁쟁이의 악몽"
+  },
+  {
+    "Id": "Achievement_100233_Desc",
+    "Content": "모든 서리 벌레 격파"
+  },
+  {
+    "Id": "Achievement_100233_Name",
+    "Content": "벌레 떼를 뚫고 나가라"
+  },
+  {
+    "Id": "Achievement_100234_Desc",
+    "Content": "모든 에코 도전 · 딩동동 완료"
+  },
+  {
+    "Id": "Achievement_100234_Name",
+    "Content": "마지막 퍼즐 조각"
+  },
+  {
+    "Id": "Achievement_100235_Desc",
+    "Content": "「홍진 마을」에 위치한 중추 비콘 활성화"
+  },
+  {
+    "Id": "Achievement_100235_Name",
+    "Content": "기러기가 눈에 남겨놓은 발자국 같다네"
+  },
+  {
+    "Id": "Achievement_100236_Desc",
+    "Content": "용의 절벽의 용 머리에 위치한 「소형 비콘」 활성화"
+  },
+  {
+    "Id": "Achievement_100236_Name",
+    "Content": "뭇산이 작게 보이리라"
   },
   {
     "Id": "Achievement_100401_Desc",
@@ -624,6 +780,30 @@
     "Content": "방랑 약사의 속삭임 · II"
   },
   {
+    "Id": "Achievement_100432_Desc",
+    "Content": "약제 제작 100회 완료"
+  },
+  {
+    "Id": "Achievement_100432_Name",
+    "Content": "약이 필수템이지!"
+  },
+  {
+    "Id": "Achievement_100433_Desc",
+    "Content": "사진 촬영 10회 완료"
+  },
+  {
+    "Id": "Achievement_100433_Name",
+    "Content": "카메라를 내리지마!"
+  },
+  {
+    "Id": "Achievement_100434_Desc",
+    "Content": "식자재 가공 5회 완료"
+  },
+  {
+    "Id": "Achievement_100434_Name",
+    "Content": "빛나지 않는 요리는 좋은 요리가 아니야!"
+  },
+  {
     "Id": "Achievement_110101_Desc",
     "Content": "진피에게 사운드박스 30개 제출"
   },
@@ -670,6 +850,22 @@
   {
     "Id": "Achievement_110107_Name",
     "Content": "사라지지 않은 잔향"
+  },
+  {
+    "Id": "Achievement_110108_Desc",
+    "Content": "임의 동물과 1회 상호 작용"
+  },
+  {
+    "Id": "Achievement_110108_Name",
+    "Content": "신비한 귀염뽀짝 동물사전"
+  },
+  {
+    "Id": "Achievement_110109_Desc",
+    "Content": "금주 지역(승소산 지역 포함) 선행자 Lv.10 달성"
+  },
+  {
+    "Id": "Achievement_110109_Name",
+    "Content": "명조의 이야기들 · 금주 편"
   },
   {
     "Id": "Achievement_110110_Desc",
@@ -745,7 +941,7 @@
   },
   {
     "Id": "Achievement_200101_Desc",
-    "Content": "「새로운 소리」 완성"
+    "Content": "「새로운 소리」 완료"
   },
   {
     "Id": "Achievement_200101_Name",
@@ -801,7 +997,7 @@
   },
   {
     "Id": "Achievement_200109_Desc",
-    "Content": "「곧 내리는 비」 완성"
+    "Content": "「곧 내리는 비」 완료"
   },
   {
     "Id": "Achievement_200109_Name",
@@ -830,6 +1026,22 @@
   {
     "Id": "Achievement_200115_Name",
     "Content": "감동이 깃든 사진"
+  },
+  {
+    "Id": "Achievement_200116_Desc",
+    "Content": "「승소산에서 울렸던 경칩 소리」 완료"
+  },
+  {
+    "Id": "Achievement_200116_Name",
+    "Content": "찾아오는 봄"
+  },
+  {
+    "Id": "Achievement_200117_Desc",
+    "Content": "승소산 진입하기"
+  },
+  {
+    "Id": "Achievement_200117_Name",
+    "Content": "숲 끝의 호수 옆엔 산이 있다"
   },
   {
     "Id": "Achievement_200201_Desc",
@@ -873,11 +1085,19 @@
   },
   {
     "Id": "Achievement_200206_Desc",
-    "Content": "「용수나무 위의 초승달」 완료"
+    "Content": "「반얀나무 위의 초승달」 완료"
   },
   {
     "Id": "Achievement_200206_Name",
-    "Content": "용수나무 위의 초승달"
+    "Content": "반얀나무 위의 초승달"
+  },
+  {
+    "Id": "Achievement_200307_Desc",
+    "Content": "「이화로부터 벗어난 장생」 완료"
+  },
+  {
+    "Id": "Achievement_200307_Name",
+    "Content": "행객 없은 옛길"
   },
   {
     "Id": "Achievement_300101_Desc",
@@ -1057,7 +1277,7 @@
   },
   {
     "Id": "Achievement_300123_Desc",
-    "Content": "저스트 회피 누적 50회"
+    "Content": "회피 성공 누적 50회"
   },
   {
     "Id": "Achievement_300123_Name",
@@ -1070,6 +1290,246 @@
   {
     "Id": "Achievement_300124_Name",
     "Content": "Duang!!!"
+  },
+  {
+    "Id": "Achievement_300146_Desc",
+    "Content": "무망자 첫 격파"
+  },
+  {
+    "Id": "Achievement_300146_Name",
+    "Content": "재난은 언제나 한발 늦다"
+  },
+  {
+    "Id": "Achievement_300147_Desc",
+    "Content": "방랑자 · 회절 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300147_Name",
+    "Content": "무음 모드"
+  },
+  {
+    "Id": "Achievement_300148_Desc",
+    "Content": "방랑자 · 인멸 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300148_Name",
+    "Content": "어두움 빛의 그림자"
+  },
+  {
+    "Id": "Achievement_300149_Desc",
+    "Content": "감심 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300149_Name",
+    "Content": "맑고 깨끗한 거울"
+  },
+  {
+    "Id": "Achievement_300150_Desc",
+    "Content": "금희 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300150_Name",
+    "Content": "「용의 별자리」, 언제나 함께"
+  },
+  {
+    "Id": "Achievement_300151_Desc",
+    "Content": "치샤 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300151_Name",
+    "Content": "아름다운 세상을 향해 불꽃을 바쳐라"
+  },
+  {
+    "Id": "Achievement_300152_Desc",
+    "Content": "단근 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300152_Name",
+    "Content": "고결한 옥패, 정의로운 칼날"
+  },
+  {
+    "Id": "Achievement_300153_Desc",
+    "Content": "산화 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300153_Name",
+    "Content": "눈처럼 내린 꽃"
+  },
+  {
+    "Id": "Achievement_300154_Desc",
+    "Content": "도기 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300154_Name",
+    "Content": "그대로 있는 도화"
+  },
+  {
+    "Id": "Achievement_300155_Desc",
+    "Content": "양양 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300155_Name",
+    "Content": "종달새의 시"
+  },
+  {
+    "Id": "Achievement_300156_Desc",
+    "Content": "음림 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300156_Name",
+    "Content": "따뜻함과 외로움"
+  },
+  {
+    "Id": "Achievement_300157_Desc",
+    "Content": "벨리나 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300157_Name",
+    "Content": "별이 뒤로 접히는 꽃잎"
+  },
+  {
+    "Id": "Achievement_300158_Desc",
+    "Content": "앙코 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300158_Name",
+    "Content": "앙코의 비경 여행"
+  },
+  {
+    "Id": "Achievement_300159_Desc",
+    "Content": "설지 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300159_Name",
+    "Content": "생명의 메아리"
+  },
+  {
+    "Id": "Achievement_300160_Desc",
+    "Content": "능양 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300160_Name",
+    "Content": "「럭키」"
+  },
+  {
+    "Id": "Achievement_300161_Desc",
+    "Content": "모르테피 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300161_Name",
+    "Content": "다음 곡, 곧 시작하겠습니다"
+  },
+  {
+    "Id": "Achievement_300162_Desc",
+    "Content": "연무 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300162_Name",
+    "Content": "뇌황권으로 때려주마"
+  },
+  {
+    "Id": "Achievement_300163_Desc",
+    "Content": "기염 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300163_Name",
+    "Content": "비 속의 청룡을 되어라"
+  },
+  {
+    "Id": "Achievement_300164_Desc",
+    "Content": "알토 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300164_Name",
+    "Content": "안개 속의 총소리"
+  },
+  {
+    "Id": "Achievement_300165_Desc",
+    "Content": "카카루 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300165_Name",
+    "Content": "그림자와 격투해보자"
+  },
+  {
+    "Id": "Achievement_300167_Desc",
+    "Content": "장리 반주 스킬 100회 사용"
+  },
+  {
+    "Id": "Achievement_300167_Name",
+    "Content": "신의 한수!"
+  },
+  {
+    "Id": "Achievement_300168_Desc",
+    "Content": "「용의 별자리」 첫 처치"
+  },
+  {
+    "Id": "Achievement_300168_Name",
+    "Content": "신명, 묵비권을 행사하겠습니다"
+  },
+  {
+    "Id": "Achievement_300169_Desc",
+    "Content": "「용의 별자리」 50회 격파"
+  },
+  {
+    "Id": "Achievement_300169_Name",
+    "Content": "용의 명맥, 여기에 있다"
+  },
+  {
+    "Id": "Achievement_300170_Desc",
+    "Content": "「무망자」 50회 격파"
+  },
+  {
+    "Id": "Achievement_300170_Name",
+    "Content": "너야 말로 도전자!"
+  },
+  {
+    "Id": "Achievement_300171_Desc",
+    "Content": "용비늘의 기축 20회 격파"
+  },
+  {
+    "Id": "Achievement_300171_Name",
+    "Content": "「20」기축 방어 구역"
+  },
+  {
+    "Id": "Achievement_300172_Desc",
+    "Content": "용암 벌레 20회 누적 격파"
+  },
+  {
+    "Id": "Achievement_300172_Name",
+    "Content": "초고온 살균 처리"
+  },
+  {
+    "Id": "Achievement_300173_Desc",
+    "Content": "서리 벌레 누적 20회 처치"
+  },
+  {
+    "Id": "Achievement_300173_Name",
+    "Content": "다 단백질이단 말이야?"
+  },
+  {
+    "Id": "Achievement_300174_Desc",
+    "Content": "피그미타조 누적 20회 처치"
+  },
+  {
+    "Id": "Achievement_300174_Name",
+    "Content": "피그미타조를 죽인 사람은 누구?"
+  },
+  {
+    "Id": "Achievement_300175_Desc",
+    "Content": "흑월의 야수 누적 20회 처치"
+  },
+  {
+    "Id": "Achievement_300175_Name",
+    "Content": "호랑이를 죽인 영웅!"
+  },
+  {
+    "Id": "Achievement_300176_Desc",
+    "Content": "갈기늑대 · 눈꽃 누적 20회 처치"
+  },
+  {
+    "Id": "Achievement_300176_Name",
+    "Content": "야생의 부름"
   },
   {
     "Id": "Achievement_300205_Desc",
@@ -1192,6 +1652,14 @@
     "Content": "불을 끈 후.."
   },
   {
+    "Id": "Achievement_300308_Desc",
+    "Content": "딩동동 66개 격파"
+  },
+  {
+    "Id": "Achievement_300308_Name",
+    "Content": "딩동동의 얼음 부수기"
+  },
+  {
     "Id": "Achievement_300309_Desc",
     "Content": "후슈슈 66개 격파"
   },
@@ -1213,7 +1681,7 @@
   },
   {
     "Id": "Achievement_300401_Name",
-    "Content": "포옹? 폭발!"
+    "Content": "포옹? 펑!"
   },
   {
     "Id": "Achievement_300402_Desc",
@@ -1237,7 +1705,7 @@
   },
   {
     "Id": "Achievement_300404_Name",
-    "Content": "귀업다고 방심하지마라"
+    "Content": "귀엽다고 방심하지마라"
   },
   {
     "Id": "Achievement_300405_Desc",
@@ -1408,6 +1876,46 @@
     "Content": "보이지 않는 왕의 그림자"
   },
   {
+    "Id": "Achievement_300515_Desc",
+    "Content": "2분 이내에 「역경의 탑 · 심경 구역」에서 임의 탑의 마지막 층 클리어"
+  },
+  {
+    "Id": "Achievement_300515_Name",
+    "Content": "분노의 질주"
+  },
+  {
+    "Id": "Achievement_300517_Desc",
+    "Content": "「역경의 탑 」에서 파티원 10회 전멸"
+  },
+  {
+    "Id": "Achievement_300517_Name",
+    "Content": "어둠이 찾아와도..."
+  },
+  {
+    "Id": "Achievement_300518_Desc",
+    "Content": "3시즌 연속 「역경의 탑 · 심경 구역」의 모든 인장 획득"
+  },
+  {
+    "Id": "Achievement_300518_Name",
+    "Content": "영광스러운 자에게"
+  },
+  {
+    "Id": "Achievement_300519_Desc",
+    "Content": "「홀로그램 전략 · 강습」의 「크라운리스 I」 완료"
+  },
+  {
+    "Id": "Achievement_300519_Name",
+    "Content": "강자로 임명해야지"
+  },
+  {
+    "Id": "Achievement_300520_Desc",
+    "Content": "「홀로그램 전략 · 강습」의 「크라운리스 Ⅵ」 완료"
+  },
+  {
+    "Id": "Achievement_300520_Name",
+    "Content": "못 이겨요, 뭐라고 말하는지..."
+  },
+  {
     "Id": "Achievement_400101_Desc",
     "Content": "공명자의 공명 랭크 Rank.6 첫 달성"
   },
@@ -1465,7 +1973,7 @@
   },
   {
     "Id": "Achievement_400108_Desc",
-    "Content": "일일 임무 누적 10회 완성"
+    "Content": "일일 임무 누적 10회 완료"
   },
   {
     "Id": "Achievement_400108_Name",
@@ -1473,7 +1981,7 @@
   },
   {
     "Id": "Achievement_400109_Desc",
-    "Content": "일일 임무 누적 30회 완성"
+    "Content": "일일 임무 누적 30회 완료"
   },
   {
     "Id": "Achievement_400109_Name",
@@ -1481,7 +1989,7 @@
   },
   {
     "Id": "Achievement_400110_Desc",
-    "Content": "일일 임무 누적 50회 완성"
+    "Content": "일일 임무 누적 50회 완료"
   },
   {
     "Id": "Achievement_400110_Name",
@@ -1520,6 +2028,30 @@
     "Content": "「연약한 나는 이미 죽었다」"
   },
   {
+    "Id": "Achievement_400117_Desc",
+    "Content": "무기 강화 Rank.6까지 첫 돌파"
+  },
+  {
+    "Id": "Achievement_400117_Name",
+    "Content": "「돌파야말로 진리이다」"
+  },
+  {
+    "Id": "Achievement_400118_Desc",
+    "Content": "솔라리스 랭크 첫 다운"
+  },
+  {
+    "Id": "Achievement_400118_Name",
+    "Content": "소심한 강자였군!"
+  },
+  {
+    "Id": "Achievement_400119_Desc",
+    "Content": "노도급 또는 해일급 에코 첫 흡수"
+  },
+  {
+    "Id": "Achievement_400119_Name",
+    "Content": "「역시 강자는 강하다!」"
+  },
+  {
     "Id": "Achievement_400201_Desc",
     "Content": "3성 에코 1개 흡수"
   },
@@ -1541,7 +2073,7 @@
   },
   {
     "Id": "Achievement_400203_Name",
-    "Content": "너가 나의 「Servant」야?"
+    "Content": "그대가 나의 「Servant」인가?"
   },
   {
     "Id": "Achievement_400204_Desc",
@@ -1702,5 +2234,61 @@
   {
     "Id": "Achievement_700406_Desc",
     "Content": "도기를 사용하여 임의 난이도의 신비한 경지 도전 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700507_Desc",
+    "Content": "산화를 사용하여 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700508_Desc",
+    "Content": "감심을 사용하여 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700509_Desc",
+    "Content": "금희를 사용하여 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700511_Desc",
+    "Content": "누적 3명의 캐릭터를 사용하여 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700512_Desc",
+    "Content": "누적 5명의 캐릭터를 사용하여 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700607_Desc",
+    "Content": "보상 배율 120% 이상일 경우 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700608_Desc",
+    "Content": "보상 배율 150% 이상일 경우 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700609_Desc",
+    "Content": "임의 「꿈 속의 밈」 4개 활성화 후 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700610_Desc",
+    "Content": "2개 또는 그 이상의 「꿈 속의 밈」 활성화 후 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700611_Desc",
+    "Content": "꿈 속의 밈 「경진」 및 「흑날」 활성화 후 임의 난이도의 요원의 암흑 불길 1회 클리어"
+  },
+  {
+    "Id": "Achievement_700704_Desc",
+    "Content": "요원의 암흑 불길 도전에서 최고 격투 레벨 5회 활성화"
+  },
+  {
+    "Id": "Achievement_700705_Desc",
+    "Content": "뇌운의 비늘 에코의 4번째 추가 능력 활성화"
+  },
+  {
+    "Id": "Achievement_700706_Desc",
+    "Content": "요원의 암흑 불길 Ⅳ 클리어"
+  },
+  {
+    "Id": "Achievement_700707_Desc",
+    "Content": "요원의 암흑 불길 Ⅴ 클리어"
   }
 ]
