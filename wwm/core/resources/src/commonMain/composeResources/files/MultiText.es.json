@@ -37,7 +37,7 @@
   },
   {
     "Id": "AchievementGroup_2001_Name",
-    "Content": "Viaje del Errante"
+    "Content": "Viaje de Errante"
   },
   {
     "Id": "AchievementGroup_2003_Name",
@@ -997,7 +997,7 @@
   },
   {
     "Id": "Achievement_200109_Desc",
-    "Content": "Completa «Rebobinando gotas de lluvia»."
+    "Content": "Completa «Lluvia invertida»."
   },
   {
     "Id": "Achievement_200109_Name",
