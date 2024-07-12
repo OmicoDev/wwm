@@ -1,5 +1,5 @@
 /*
- * Copyright 2023 The Android Open Source Project
+ * Copyright 2024 The Android Open Source Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,20 +17,8 @@
 package androidx.compose.material3.adaptive.layout
 
 import androidx.compose.material3.adaptive.ExperimentalMaterial3AdaptiveApi
-import kotlin.jvm.JvmInline
 
-/**
- * The adapted state of a pane. It gives clues to pane scaffolds about if a certain pane should be
- * composed and how.
- */
 @ExperimentalMaterial3AdaptiveApi
-@JvmInline
-value class PaneAdaptedValue private constructor(private val description: String) {
-    companion object {
-        /** Denotes that the associated pane should be displayed in its full width and height. */
-        val Expanded = PaneAdaptedValue("Expanded")
-
-        /** Denotes that the associated pane should be hidden. */
-        val Hidden = PaneAdaptedValue("Hidden")
-    }
+internal interface PaneScaffoldValue<T> {
+    operator fun get(role: T): PaneAdaptedValue
 }

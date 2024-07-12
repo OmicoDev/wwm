@@ -3,9 +3,7 @@
  */
 package dev.omico.wwm.ui
 
-import androidx.compose.material3.adaptive.ExperimentalMaterial3AdaptiveApi
 import androidx.compose.material3.adaptive.currentWindowAdaptiveInfo
-import androidx.compose.material3.adaptive.navigationsuite.ExperimentalMaterial3AdaptiveNavigationSuiteApi
 import androidx.compose.material3.adaptive.navigationsuite.NavigationSuiteScaffoldDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
@@ -17,10 +15,6 @@ import com.slack.circuit.retained.LocalRetainedStateRegistry
 import com.slack.circuit.retained.continuityRetainedStateRegistry
 import com.slack.circuit.runtime.screen.Screen
 
-@OptIn(
-    ExperimentalMaterial3AdaptiveApi::class,
-    ExperimentalMaterial3AdaptiveNavigationSuiteApi::class,
-)
 @Composable
 fun WwmContainer(
     component: WwmUiComponent,

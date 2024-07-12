@@ -1,6 +1,9 @@
 versions:
   circuit: "0.22.2"
-  compose.multiplatform: "1.6.11"
+  compose:
+    annotation: "1.7.0-alpha01"
+    collection: "1.7.0-alpha01"
+    multiplatform: "1.7.0-dev1727"
   consensus: "0.10.0"
   delusion: "0.9.0"
   gradle: "8.8"
@@ -39,6 +42,14 @@ dependencies:
       circuit-foundation:
         alias: circuit.foundation
         version: ${versions.circuit}
+    org.jetbrains.compose.annotation-internal:
+      annotation:
+        alias: jetbrains.compose.annotation
+        version: ${versions.compose.annotation}
+    org.jetbrains.compose.collection-internal:
+      collection:
+        alias: jetbrains.compose.collection
+        version: ${versions.compose.collection}
     org.jetbrains.kotlin:
       kotlin-gradle-plugin:
         alias: kotlinGradlePlugin

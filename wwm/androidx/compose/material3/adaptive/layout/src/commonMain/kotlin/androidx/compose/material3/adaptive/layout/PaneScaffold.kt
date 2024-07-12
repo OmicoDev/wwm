@@ -16,7 +16,6 @@
 
 package androidx.compose.material3.adaptive.layout
 
-import androidx.compose.material3.adaptive.ExperimentalMaterial3AdaptiveApi
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.node.ModifierNodeElement
 import androidx.compose.ui.node.ParentDataModifierNode
@@ -26,21 +25,20 @@ import androidx.compose.ui.unit.Density
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 
-/**
- * Scope for the panes of pane scaffolds.
- */
-@ExperimentalMaterial3AdaptiveApi
-interface PaneScaffoldScope {
+/** Scope for the panes of pane scaffolds. */
+sealed interface PaneScaffoldScope {
     /**
      * This modifier specifies the preferred width for a pane, and the pane scaffold implementation
-     * will respect this width whenever possible. In case the modifier is not set or set to
-     * [Dp.Unspecified], the default preferred widths of the respective scaffold implementation will
-     * be used.
+     * will try its best to respect this width when the associated pane is rendered as a fixed pane,
+     * i.e., a pane that are not stretching to fill the remaining spaces. In case the modifier is
+     * not set or set to [Dp.Unspecified], the default preferred widths provided by
+     * [PaneScaffoldDirective] are supposed to be used.
+     *
+     * @see PaneScaffoldDirective.defaultPanePreferredWidth
      */
     fun Modifier.preferredWidth(width: Dp): Modifier
 }
 
-@OptIn(ExperimentalMaterial3AdaptiveApi::class)
 internal abstract class PaneScaffoldScopeImpl : PaneScaffoldScope {
     override fun Modifier.preferredWidth(width: Dp): Modifier {
         require(width == Dp.Unspecified || width > 0.dp) { "invalid width" }
@@ -100,8 +98,7 @@ private object AnimatedPaneElement : ModifierNodeElement<AnimatedPaneNode>() {
         return AnimatedPaneNode()
     }
 
-    override fun update(node: AnimatedPaneNode) {
-    }
+    override fun update(node: AnimatedPaneNode) {}
 
     override fun InspectorInfo.inspectableProperties() {
         inspectorInfo()

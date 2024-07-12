@@ -90,7 +90,7 @@ private fun LazyListScope.achievementsCategoryItem(
                     multiText = state.multiText,
                     name = category.name,
                 ),
-                modifier = Modifier.animateItemPlacement(),
+                modifier = Modifier.animateItem(),
                 onClick = onCategoryItemClick,
             )
         },
@@ -121,7 +121,7 @@ private fun LazyListScope.achievementsCategoryItem(
                 modifier = run {
                     Modifier
                         .padding(start = 16.dp)
-                        .animateItemPlacement()
+                        .animateItem()
                 },
                 onClick = { onGroupItemClick(achievementGroup) },
             )
