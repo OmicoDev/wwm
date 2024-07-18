@@ -14,6 +14,9 @@ compose {
                 windows {
                     iconFile = file("wwm-windows.ico")
                 }
+                macOS {
+                    targetFormats(TargetFormat.Dmg)
+                }
             }
         }
     }
