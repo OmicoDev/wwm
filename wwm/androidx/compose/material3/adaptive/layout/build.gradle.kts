@@ -16,6 +16,9 @@ kotlin {
             }
             dependencies {
                 implementation(compose.animation)
+                implementation(compose.foundation)
+                implementation(jetbrains.compose.annotation)
+                implementation(jetbrains.compose.collection)
             }
         }
     }

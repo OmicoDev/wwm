@@ -30,7 +30,6 @@ import androidx.window.core.layout.WindowSizeClass
  *
  * @return [WindowAdaptiveInfo] of the provided context
  */
-@ExperimentalMaterial3AdaptiveApi
 @Composable
 fun currentWindowAdaptiveInfo(): WindowAdaptiveInfo {
     val windowSize = with(LocalDensity.current) {
@@ -46,16 +45,12 @@ fun currentWindowAdaptiveInfo(): WindowAdaptiveInfo {
  * This class collects window info that affects adaptation decisions. An adaptive layout is supposed
  * to use the info from this class to decide how the layout is supposed to be adapted.
  *
- * @constructor create an instance of [WindowAdaptiveInfo]
  * @param windowSizeClass [WindowSizeClass] of the current window.
  * @param windowPosture [Posture] of the current window.
+ * @constructor create an instance of [WindowAdaptiveInfo]
  */
-@ExperimentalMaterial3AdaptiveApi
 @Immutable
-class WindowAdaptiveInfo(
-    val windowSizeClass: WindowSizeClass,
-    val windowPosture: Posture,
-) {
+class WindowAdaptiveInfo(val windowSizeClass: WindowSizeClass, val windowPosture: Posture) {
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
         if (other !is WindowAdaptiveInfo) return false
@@ -78,6 +73,5 @@ class WindowAdaptiveInfo(
 @Composable
 internal expect fun currentWindowSize(): IntSize
 
-@OptIn(ExperimentalMaterial3AdaptiveApi::class)
 @Composable
 internal expect fun calculatePosture(): Posture

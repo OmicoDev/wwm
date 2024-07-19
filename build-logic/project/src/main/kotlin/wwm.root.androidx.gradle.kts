@@ -9,8 +9,8 @@ val fetchAndroidx: FetchAndroidx by tasks.register<FetchAndroidx>("fetchAndroidx
     val androidxDirectory = rootProject.consensus.localProperties.getOrNull<File>("ANDROIDX_DIRECTORY")
     enabled = androidxDirectory != null
     androidxDirectoryProperty.set(androidxDirectory)
-    // https://developer.android.com/jetpack/androidx/releases/compose-material3-adaptive#1.0.0-alpha08
-    commitIdProperty.set("638a8d3a474af45f6ad5fdc3d6d1836ea42d1778")
+    // https://developer.android.com/jetpack/androidx/releases/compose-material3-adaptive#1.0.0-beta04
+    commitIdProperty.set("967bd940b24778daf0ac5f9661bc881f4d0487c1")
 }
 
 val syncAndroidx: SyncAndroidx by tasks.register<SyncAndroidx>("syncAndroidx") {

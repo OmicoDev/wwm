@@ -3,7 +3,6 @@
  */
 package dev.omico.wwm.feature.achievements.component
 
-import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
@@ -17,7 +16,6 @@ import dev.omico.wwm.feature.achievements.AchievementsUiState
 import dev.omico.wwm.resources.model.game.WwAchievement
 import dev.omico.wwm.ui.rememberWwText
 
-@OptIn(ExperimentalFoundationApi::class)
 @Composable
 internal fun AchievementDetailContent(
     state: AchievementsUiState,
@@ -56,7 +54,7 @@ internal fun AchievementDetailContent(
                             multiText = state.multiText,
                             name = achievement.desc,
                         ),
-                        modifier = Modifier.animateItemPlacement(),
+                        modifier = Modifier.animateItem(),
                     )
                 },
             )

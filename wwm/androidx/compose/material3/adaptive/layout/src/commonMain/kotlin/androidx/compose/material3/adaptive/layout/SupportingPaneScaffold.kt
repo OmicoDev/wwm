@@ -16,13 +16,8 @@
 
 package androidx.compose.material3.adaptive.layout
 
-import androidx.compose.foundation.layout.WindowInsets
-import androidx.compose.foundation.layout.displayCutout
 import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.systemBars
-import androidx.compose.foundation.layout.union
 import androidx.compose.material3.adaptive.ExperimentalMaterial3AdaptiveApi
-import androidx.compose.material3.adaptive.currentWindowAdaptiveInfo
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 
@@ -30,56 +25,43 @@ import androidx.compose.ui.Modifier
  * A Material opinionated implementation of [ThreePaneScaffold] that will display the provided three
  * panes in a canonical supporting-pane layout.
  *
- * @param supportingPane the supporting pane of the scaffold.
- *        See [SupportingPaneScaffoldRole.Supporting].
- * @param modifier [Modifier] of the scaffold layout.
  * @param directive The top-level directives about how the scaffold should arrange its panes.
- * @param value The current adapted value of the scaffold, which indicates how each pane of
- *        the scaffold is adapted.
- * @param windowInsets window insets that the scaffold will respect.
- * @param extraPane the extra pane of the scaffold. See [SupportingPaneScaffoldRole.Extra].
- * @param mainPane the main pane of the scaffold. See [SupportingPaneScaffoldRole.Main].
+ * @param value The current adapted value of the scaffold, which indicates how each pane of the
+ *   scaffold is adapted.
+ * @param mainPane the main pane of the scaffold, which is supposed to hold the major content of an
+ *   app, for example, the editing screen of a doc app. See [SupportingPaneScaffoldRole.Main].
+ * @param supportingPane the supporting pane of the scaffold, which is supposed to hold the support
+ *   content of an app, for example, the comment list of a doc app. See
+ *   [SupportingPaneScaffoldRole.Supporting].
+ * @param modifier [Modifier] of the scaffold layout.
+ * @param extraPane the extra pane of the scaffold, which is supposed to hold any additional content
+ *   besides the main and the supporting panes, for example, a styling panel in a doc app. See
+ *   [SupportingPaneScaffoldRole.Extra].
  */
 @ExperimentalMaterial3AdaptiveApi
 @Composable
 fun SupportingPaneScaffold(
+    directive: PaneScaffoldDirective,
+    value: ThreePaneScaffoldValue,
+    mainPane: @Composable ThreePaneScaffoldScope.() -> Unit,
     supportingPane: @Composable ThreePaneScaffoldScope.() -> Unit,
     modifier: Modifier = Modifier,
-    directive: PaneScaffoldDirective =
-        calculateStandardPaneScaffoldDirective(currentWindowAdaptiveInfo()),
-    value: ThreePaneScaffoldValue = calculateThreePaneScaffoldValue(
-        directive.maxHorizontalPartitions,
-        SupportingPaneScaffoldDefaults.adaptStrategies(),
-        ThreePaneScaffoldDestinationItem<Nothing>(SupportingPaneScaffoldRole.Main)
-    ),
-    windowInsets: WindowInsets = SupportingPaneScaffoldDefaults.windowInsets,
     extraPane: (@Composable ThreePaneScaffoldScope.() -> Unit)? = null,
-    mainPane: @Composable ThreePaneScaffoldScope.() -> Unit,
 ) {
     ThreePaneScaffold(
         modifier = modifier.fillMaxSize(),
         scaffoldDirective = directive,
         scaffoldValue = value,
-        paneOrder = ThreePaneScaffoldDefaults.SupportingPaneLayoutPaneOrder,
-        windowInsets = windowInsets,
+        paneOrder = SupportingPaneScaffoldDefaults.PaneOrder,
         secondaryPane = supportingPane,
         tertiaryPane = extraPane,
         primaryPane = mainPane
     )
 }
 
-/**
- * Provides default values of [SupportingPaneScaffold].
- */
+/** Provides default values of [SupportingPaneScaffold]. */
 @ExperimentalMaterial3AdaptiveApi
 object SupportingPaneScaffoldDefaults {
-    /**
-     * Default insets that will be used and consumed by [SupportingPaneScaffold]. By default it will
-     * be the union of [WindowInsets.Companion.systemBars] and
-     * [WindowInsets.Companion.displayCutout].
-     */
-    val windowInsets @Composable get() = WindowInsets.systemBars.union(WindowInsets.displayCutout)
-
     /**
      * Creates a default [ThreePaneScaffoldAdaptStrategies] for [SupportingPaneScaffold].
      *
@@ -97,31 +79,46 @@ object SupportingPaneScaffoldDefaults {
             supportingPaneAdaptStrategy,
             extraPaneAdaptStrategy
         )
+
+    /**
+     * Denotes [ThreePaneScaffold] to use the supporting-pane pane-order to arrange its panes
+     * horizontally, which allocates panes in the order of primary, secondary, and tertiary from
+     * start to end.
+     */
+    internal val PaneOrder =
+        ThreePaneScaffoldHorizontalOrder(
+            ThreePaneScaffoldRole.Primary,
+            ThreePaneScaffoldRole.Secondary,
+            ThreePaneScaffoldRole.Tertiary
+        )
 }
 
 /**
- * The set of the available pane roles of [SupportingPaneScaffold]. Basically those values are
- * aliases of [ThreePaneScaffoldRole]. We suggest you to use the values defined here instead of
- * the raw [ThreePaneScaffoldRole] under the context of [SupportingPaneScaffold] for better
- * code clarity.
+ * The set of the available pane roles of [SupportingPaneScaffold]. Those roles map to their
+ * corresponding [ThreePaneScaffoldRole], which is a generic role definition across all types of
+ * three pane scaffolds. We suggest you to use the values defined here instead of the raw
+ * [ThreePaneScaffoldRole] under the context of [SupportingPaneScaffold] for better code clarity.
  */
 @ExperimentalMaterial3AdaptiveApi
 object SupportingPaneScaffoldRole {
     /**
-     * The main pane of [SupportingPaneScaffold]. It is an alias of
+     * The main pane of [SupportingPaneScaffold], which is supposed to hold the major content of an
+     * app, for example, the editing screen of a doc app. It maps to
      * [ThreePaneScaffoldRole.Primary].
      */
     val Main = ThreePaneScaffoldRole.Primary
 
     /**
-     * The supporting pane of [SupportingPaneScaffold]. It is an alias of
+     * The supporting pane of [SupportingPaneScaffold], which is supposed to hold the support
+     * content of an app, for example, the comment list of a doc app. It maps to
      * [ThreePaneScaffoldRole.Secondary].
      */
     val Supporting = ThreePaneScaffoldRole.Secondary
 
     /**
-     * The extra pane of [SupportingPaneScaffold]. It is an alias of
-     * [ThreePaneScaffoldRole.Tertiary].
+     * The extra pane of [SupportingPaneScaffold], which is supposed to hold any additional content
+     * besides the main and the supporting panes, for example, a styling panel in a doc app. It maps
+     * to [ThreePaneScaffoldRole.Tertiary].
      */
     val Extra = ThreePaneScaffoldRole.Tertiary
 }
