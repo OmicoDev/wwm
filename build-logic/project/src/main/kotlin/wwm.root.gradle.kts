@@ -21,7 +21,8 @@ val wrapper: Wrapper by tasks.named<Wrapper>("wrapper") {
     distributionType = Wrapper.DistributionType.BIN
 }
 
-val updateYarnLock by tasks.register("updateYarnLock") {
-    delete("build/js", "kotlin-js-store")
-    finalizedBy(":wwm-web:build")
+val updateYarnLock by tasks.register<Delete>("updateYarnLock") {
+    notCompatibleWithConfigurationCache("Updating yarn.lock is not compatible with configuration cache.")
+    doFirst { delete("build/js/yarn.lock", "kotlin-js-store/yarn.lock") }
+    finalizedBy(":wwm-web:assemble")
 }
