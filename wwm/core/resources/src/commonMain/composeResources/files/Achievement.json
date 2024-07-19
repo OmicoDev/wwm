@@ -1254,6 +1254,13 @@
     "Desc": "Achievement_300165_Desc"
   },
   {
+    "Id": 300166,
+    "GroupId": 3001,
+    "Level": 1,
+    "Name": "Achievement_300166_Name",
+    "Desc": "Achievement_300166_Desc"
+  },
+  {
     "Id": 300167,
     "GroupId": 3001,
     "Level": 1,
@@ -1525,6 +1532,13 @@
     "Level": 1,
     "Name": "Achievement_300411_Name",
     "Desc": "Achievement_300411_Desc"
+  },
+  {
+    "Id": 300412,
+    "GroupId": 3004,
+    "Level": 1,
+    "Name": "Achievement_300412_Name",
+    "Desc": "Achievement_300412_Desc"
   },
   {
     "Id": 300501,

@@ -133,7 +133,7 @@
   },
   {
     "Id": "Achievement_100108_Desc",
-    "Content": "Maneuver the puppet through the laser corridor in \"Solitary Path\"."
+    "Content": "Maneuver the dolls through the laser corridor in \"Solitary Crusade\"."
   },
   {
     "Id": "Achievement_100108_Name",
@@ -437,7 +437,7 @@
   },
   {
     "Id": "Achievement_100222_Desc",
-    "Content": "Use the Leap Device once."
+    "Content": "Use Leap Device once."
   },
   {
     "Id": "Achievement_100222_Name",
@@ -1045,7 +1045,7 @@
   },
   {
     "Id": "Achievement_200201_Desc",
-    "Content": "Complete \"Solitary Path\"."
+    "Content": "Complete \"Solitary Crusade\"."
   },
   {
     "Id": "Achievement_200201_Name",
@@ -1452,6 +1452,14 @@
     "Content": "Shadow Boxing"
   },
   {
+    "Id": "Achievement_300166_Desc",
+    "Content": "Use Changli's Outro Skill 10 times."
+  },
+  {
+    "Id": "Achievement_300166_Name",
+    "Content": "Eternal Flame"
+  },
+  {
     "Id": "Achievement_300167_Desc",
     "Content": "Use Changli's Outro Skill 100 times."
   },
@@ -1493,7 +1501,7 @@
   },
   {
     "Id": "Achievement_300172_Desc",
-    "Content": "Defeat Lava Larva 20 times."
+    "Content": "Defeat Firebug 20 times."
   },
   {
     "Id": "Achievement_300172_Name",
@@ -1762,6 +1770,14 @@
   {
     "Id": "Achievement_300411_Name",
     "Content": "Close Your Eyes when it's Dark"
+  },
+  {
+    "Id": "Achievement_300412_Desc",
+    "Content": "Resonator loses consciousness 10 times due to Hoartoise's explosive attacks."
+  },
+  {
+    "Id": "Achievement_300412_Name",
+    "Content": "Chain Reaction"
   },
   {
     "Id": "Achievement_300501_Desc",
