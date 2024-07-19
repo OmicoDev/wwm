@@ -1,5 +1,5 @@
-import me.omico.consensus.dsl.consensus
-import me.omico.consensus.dsl.requireRootProject
+import me.omico.consensus.api.dsl.consensus
+import me.omico.consensus.api.dsl.requireRootProject
 import me.omico.gradle.project.task.FetchAndroidx
 import me.omico.gradle.project.task.SyncAndroidx
 
