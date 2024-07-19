@@ -341,7 +341,7 @@
   },
   {
     "Id": "Achievement_100209_Desc",
-    "Content": "Terminez la « Trace de l'espion »."
+    "Content": "Terminer \"Enquête secrète\"."
   },
   {
     "Id": "Achievement_100209_Name",
@@ -485,7 +485,7 @@
   },
   {
     "Id": "Achievement_100228_Desc",
-    "Content": "Vaincre l'Ecraseur de lumière qui vit au Mont. Firmament."
+    "Content": "Vaincre l'Ecraseur du jour qui vit au Mont. Firmament."
   },
   {
     "Id": "Achievement_100228_Name",
@@ -517,7 +517,7 @@
   },
   {
     "Id": "Achievement_100232_Desc",
-    "Content": "Vaincre une Gelée cachée"
+    "Content": "Défais un Gelébête."
   },
   {
     "Id": "Achievement_100232_Name",
@@ -525,7 +525,7 @@
   },
   {
     "Id": "Achievement_100233_Desc",
-    "Content": "Vaincre toutes les Gelées cachées."
+    "Content": "Défais toutes les Gelébêtes."
   },
   {
     "Id": "Achievement_100233_Name",
@@ -1093,7 +1093,7 @@
   },
   {
     "Id": "Achievement_200307_Desc",
-    "Content": "Compléter Feu d'adieu."
+    "Content": "Compléter Brasier immortel."
   },
   {
     "Id": "Achievement_200307_Name",
@@ -1452,6 +1452,14 @@
     "Content": "Jouer à la boxe avec l'ombre."
   },
   {
+    "Id": "Achievement_300166_Desc",
+    "Content": "Utiliser 10 fois la Compétence d'Outro de Changli"
+  },
+  {
+    "Id": "Achievement_300166_Name",
+    "Content": "Le feu éternel"
+  },
+  {
     "Id": "Achievement_300167_Desc",
     "Content": "Utiliser 100 fois la Compétence d'Outro de Changli"
   },
@@ -1501,7 +1509,7 @@
   },
   {
     "Id": "Achievement_300173_Desc",
-    "Content": "Vaincre la « Gelée cachée » 20 fois."
+    "Content": "Battre la « Gelée cachée » 20 fois."
   },
   {
     "Id": "Achievement_300173_Name",
@@ -1517,7 +1525,7 @@
   },
   {
     "Id": "Achievement_300175_Desc",
-    "Content": "Battre le « Casseur de lumière » 20 fois."
+    "Content": "Battre le « Casseur du lumière » 20 fois."
   },
   {
     "Id": "Achievement_300175_Name",
@@ -1762,6 +1770,14 @@
   {
     "Id": "Achievement_300411_Name",
     "Content": "Fermer les yeux dans la nuit"
+  },
+  {
+    "Id": "Achievement_300412_Desc",
+    "Content": "Perdre la conscience 10 fois à cause de l'attaque explosive de la « Torturoid »."
+  },
+  {
+    "Id": "Achievement_300412_Name",
+    "Content": "Réaction en chaîne."
   },
   {
     "Id": "Achievement_300501_Desc",
@@ -2237,39 +2253,39 @@
   },
   {
     "Id": "Achievement_700507_Desc",
-    "Content": "Compléter une fois n'importe quelle difficulté du « Consommateur du rêve » avec Sanhua."
+    "Content": "Utilisez Sanhua pour vaincre Les Rêves enflammés dans les Courants sombres une fois dans n'importe quelle difficulté."
   },
   {
     "Id": "Achievement_700508_Desc",
-    "Content": "Compléter une fois n'importe quelle difficulté du « Consommateur du rêve » avec Jianxin."
+    "Content": "Utilisez Jianxin pour vaincre Les Rêves enflammés dans les Courants sombres une fois dans n'importe quelle difficulté."
   },
   {
     "Id": "Achievement_700509_Desc",
-    "Content": "Compléter une fois n'importe quelle difficulté du « Consommateur du rêve » avec Jinhsi."
+    "Content": "Utilisez Jinhsi pour vaincre Les Rêves enflammés dans les Courants sombres une fois dans n'importe quelle difficulté."
   },
   {
     "Id": "Achievement_700511_Desc",
-    "Content": "Compléter n'importe quelle difficulté du « Consommateur du rêve » avec environ 3 personnages."
+    "Content": "Utilisez un total de 3 personnages pour vaincre Les Rêves enflammés dans les Courants sombres une fois dans n'importe quelle difficulté."
   },
   {
     "Id": "Achievement_700512_Desc",
-    "Content": "Compléter n'importe quelle difficulté du « Consommateur du rêve » avec environ 5 personnages."
+    "Content": "Utilisez un total de 5 personnages pour terminer une fois les Rêves ardents dans les Courants sombres à n'importe quelle difficulté."
   },
   {
     "Id": "Achievement_700607_Desc",
-    "Content": "Terminer une fois n'importe quelle difficulté du « Consommateur du rêve » avec 120% de récompense (ou plus)."
+    "Content": ""
   },
   {
     "Id": "Achievement_700608_Desc",
-    "Content": "Terminer une fois n'importe quelle difficulté du « Consommateur du rêve » avec 150% de récompense (ou plus)."
+    "Content": ""
   },
   {
     "Id": "Achievement_700609_Desc",
-    "Content": "Compléter une fois le « Consommeur du rêve » après avoir activé 4 « Minema tournante »"
+    "Content": "Compléter une fois le « Consommeur du rêve » après avoir activé quatre « Minema tournante »"
   },
   {
     "Id": "Achievement_700610_Desc",
-    "Content": "Compléter une fois le « Consommeur du rêve » après avoir activé 2 « Minema tournante »"
+    "Content": ""
   },
   {
     "Id": "Achievement_700611_Desc",
@@ -2277,7 +2293,7 @@
   },
   {
     "Id": "Achievement_700704_Desc",
-    "Content": "Atteindre le plus haut Rang Symphonie 5 fois dans un défi du Consommateur du rêve"
+    "Content": ""
   },
   {
     "Id": "Achievement_700705_Desc",
@@ -2285,10 +2301,10 @@
   },
   {
     "Id": "Achievement_700706_Desc",
-    "Content": "Terminer le Consommateur du rêve IV"
+    "Content": ""
   },
   {
     "Id": "Achievement_700707_Desc",
-    "Content": "Terminer le Consommateur du rêve IV"
+    "Content": ""
   }
 ]
