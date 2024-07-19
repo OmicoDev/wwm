@@ -3,4 +3,4 @@
  */
 package me.omico.gradle.project
 
-internal const val PROJECT_JAVA_VERSION: Int = 17
+internal const val PROJECT_JAVA_VERSION: Int = 21
