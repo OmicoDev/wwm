@@ -54,7 +54,11 @@ internal fun AchievementListPaneUi(
         },
         content = { innerPadding ->
             LazyColumn(
-                modifier = Modifier.fillMaxSize(),
+                modifier = run {
+                    Modifier
+                        .fillMaxSize()
+                        .padding(horizontal = 16.dp)
+                },
                 verticalArrangement = Arrangement.spacedBy(space = 8.dp),
                 contentPadding = innerPadding,
                 content = {
