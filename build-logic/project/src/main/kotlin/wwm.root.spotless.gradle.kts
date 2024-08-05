@@ -21,7 +21,7 @@ consensus {
                 excludeTargets = setOf(
                     "src/*/kotlin/androidx/**/*.kt",
                 ),
-                licenseHeaderFile = rootProject.file("spotless/copyright.kt"),
+                licenseHeaderFile = rootProject.file("spotless/copyright.kt").takeIf(File::exists),
             )
             kotlinGradle()
         }

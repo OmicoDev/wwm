@@ -4,7 +4,7 @@ versions:
     annotation: "1.7.0-alpha01"
     collection: "1.7.0-alpha01"
     multiplatform: "1.7.0-dev1727"
-  consensus: "0.10.0"
+  consensus: "0.13.0"
   delusion: "0.9.0"
   gradle: "8.9"
   kotlin: "2.0.10-RC"
@@ -13,7 +13,7 @@ versions:
     serialization: "1.7.1"
   okio: "3.9.0"
   plugins:
-    develocity: "3.17.5"
+    develocity: "3.17.6"
     spotless: "7.0.0.BETA1"
 
 repositories:
@@ -31,10 +31,6 @@ plugins:
     org.jetbrains.compose: ${versions.compose.multiplatform}
     org.jetbrains.kotlin.plugin.compose: ${versions.kotlin}
     org.jetbrains.kotlin.plugin.serialization: ${versions.kotlin}
-  omico:
-    me.omico.consensus.api: ${versions.consensus}
-    me.omico.consensus.git: ${versions.consensus}
-    me.omico.consensus.spotless: ${versions.consensus}
 
 dependencies:
   mavenCentral:
@@ -68,6 +64,10 @@ dependencies:
         alias: kotlinx.serialization.json
         version: ${versions.kotlinx.serialization}
   omico:
+    me.omico.consensus:
+      consensus-gradle-plugins:
+        alias: consensusGradlePlugins
+        version: ${versions.consensus}
     me.omico.delusion:
       delusion-compose:
         alias: delusion.compose
