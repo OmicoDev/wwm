@@ -6,7 +6,7 @@ versions:
     multiplatform: "1.7.0-dev1727"
   consensus: "0.10.0"
   delusion: "0.9.0"
-  gradle: "8.8"
+  gradle: "8.9"
   kotlin: "2.0.10-RC"
   kotlinx:
     coroutines: "1.8.1"
