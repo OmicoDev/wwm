@@ -3,11 +3,11 @@ versions:
   compose:
     annotation: "1.7.0-alpha02"
     collection: "1.7.0-alpha02"
-    multiplatform: "1.7.0-dev1727"
+    multiplatform: "1.7.0-dev1756"
   consensus: "0.13.0"
   delusion: "0.9.0"
   gradle: "8.9"
-  kotlin: "2.0.10-RC"
+  kotlin: "2.0.10"
   kotlinx:
     coroutines: "1.8.1"
     serialization: "1.7.1"
