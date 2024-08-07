@@ -35,10 +35,6 @@ kotlin {
                 withAndroidTarget()
                 withJvm()
             }
-            group("js") {
-                withJs()
-                withWasmJs()
-            }
         }
     }
 
