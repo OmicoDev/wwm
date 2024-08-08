@@ -461,7 +461,7 @@
   },
   {
     "Id": "Achievement_100225_Desc",
-    "Content": "「龍を映す珠」を完了。"
+    "Content": "「龍を映す珠」をクリア。"
   },
   {
     "Id": "Achievement_100225_Name",
@@ -1029,7 +1029,7 @@
   },
   {
     "Id": "Achievement_200116_Desc",
-    "Content": "「春雷明かす乗霄の暗雲」を完了。"
+    "Content": "「春雷明かす乗霄の暗雲」をクリア。"
   },
   {
     "Id": "Achievement_200116_Name",
@@ -1093,7 +1093,7 @@
   },
   {
     "Id": "Achievement_200307_Desc",
-    "Content": "「盤上に長く灯る離火」を完了。"
+    "Content": "「盤上に長く灯る離火」をクリア。"
   },
   {
     "Id": "Achievement_200307_Name",
@@ -1452,14 +1452,6 @@
     "Content": "まずは影と遊んでみよう"
   },
   {
-    "Id": "Achievement_300166_Desc",
-    "Content": "長離の終奏スキルを10回使う。"
-  },
-  {
-    "Id": "Achievement_300166_Name",
-    "Content": "消えぬ離火"
-  },
-  {
     "Id": "Achievement_300167_Desc",
     "Content": "長離の終奏スキルを100回使う。"
   },
@@ -1509,7 +1501,7 @@
   },
   {
     "Id": "Achievement_300173_Desc",
-    "Content": "伏霜虫を累計20回倒す。"
+    "Content": "溶岩虫を累計50回倒す。"
   },
   {
     "Id": "Achievement_300173_Name",
@@ -1709,7 +1701,7 @@
   },
   {
     "Id": "Achievement_300404_Desc",
-    "Content": "グルッポの飛び攻撃で共鳴者が戦闘不能になる。"
+    "Content": "グルッポに飛ばされる攻撃で共鳴者が戦闘不能になる。"
   },
   {
     "Id": "Achievement_300404_Name",
@@ -1770,14 +1762,6 @@
   {
     "Id": "Achievement_300411_Name",
     "Content": "真っ暗な世界"
-  },
-  {
-    "Id": "Achievement_300412_Desc",
-    "Content": "寒霜亀の爆発で共鳴者が累計10回戦闘不能になる。"
-  },
-  {
-    "Id": "Achievement_300412_Name",
-    "Content": "連鎖反応"
   },
   {
     "Id": "Achievement_300501_Desc",

@@ -1452,14 +1452,6 @@
     "Content": "和影子玩拳击吧"
   },
   {
-    "Id": "Achievement_300166_Desc",
-    "Content": "使用10次长离的延奏技能。"
-  },
-  {
-    "Id": "Achievement_300166_Name",
-    "Content": "离火不灭"
-  },
-  {
     "Id": "Achievement_300167_Desc",
     "Content": "使用100次长离的延奏技能。"
   },
@@ -1770,14 +1762,6 @@
   {
     "Id": "Achievement_300411_Name",
     "Content": "天黑请闭眼"
-  },
-  {
-    "Id": "Achievement_300412_Desc",
-    "Content": "共鸣者因寒霜陆龟的爆炸攻击失去10次意识。"
-  },
-  {
-    "Id": "Achievement_300412_Name",
-    "Content": "链式反应"
   },
   {
     "Id": "Achievement_300501_Desc",
