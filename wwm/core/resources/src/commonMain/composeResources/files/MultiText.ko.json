@@ -185,7 +185,7 @@
   },
   {
     "Id": "Achievement_100115_Name",
-    "Content": "돌맹이 따위..."
+    "Content": "돌멩이 따위..."
   },
   {
     "Id": "Achievement_100116_Desc",
@@ -361,11 +361,11 @@
   },
   {
     "Id": "Achievement_100211_Name",
-    "Content": "승리는 결코 용감한 자의 것!"
+    "Content": "용감한 자만이 승리한다!"
   },
   {
     "Id": "Achievement_100212_Desc",
-    "Content": "「하늘에서 떨어진 파이?」 완성"
+    "Content": "「하늘에서 떨어진 파이?」 완료"
   },
   {
     "Id": "Achievement_100212_Name",
@@ -485,7 +485,7 @@
   },
   {
     "Id": "Achievement_100228_Desc",
-    "Content": "승소산에 출몰하는 「아미너스 타이거킹」 격파"
+    "Content": "승소산에 출몰하는 「흑월의 제왕」 격파"
   },
   {
     "Id": "Achievement_100228_Name",
@@ -941,7 +941,7 @@
   },
   {
     "Id": "Achievement_200101_Desc",
-    "Content": "「새로운 소리」 완성"
+    "Content": "「새로운 소리」 완료"
   },
   {
     "Id": "Achievement_200101_Name",
@@ -997,7 +997,7 @@
   },
   {
     "Id": "Achievement_200109_Desc",
-    "Content": "「곧 내리는 비」 완성"
+    "Content": "「곧 내리는 비」 완료"
   },
   {
     "Id": "Achievement_200109_Name",
@@ -1085,11 +1085,11 @@
   },
   {
     "Id": "Achievement_200206_Desc",
-    "Content": "「용수나무 위의 초승달」 완료"
+    "Content": "「반얀나무 위의 초승달」 완료"
   },
   {
     "Id": "Achievement_200206_Name",
-    "Content": "용수나무 위의 초승달"
+    "Content": "반얀나무 위의 초승달"
   },
   {
     "Id": "Achievement_200307_Desc",
@@ -1452,14 +1452,6 @@
     "Content": "그림자와 격투해보자"
   },
   {
-    "Id": "Achievement_300166_Desc",
-    "Content": "장리 반주 스킬 10회 사용"
-  },
-  {
-    "Id": "Achievement_300166_Name",
-    "Content": "꺼지지 않는 이화"
-  },
-  {
     "Id": "Achievement_300167_Desc",
     "Content": "장리 반주 스킬 100회 사용"
   },
@@ -1501,7 +1493,7 @@
   },
   {
     "Id": "Achievement_300172_Desc",
-    "Content": "용암 벌레 20회 격파"
+    "Content": "용암 벌레 20회 누적 격파"
   },
   {
     "Id": "Achievement_300172_Name",
@@ -1509,7 +1501,7 @@
   },
   {
     "Id": "Achievement_300173_Desc",
-    "Content": "서리 벌레 누적 20회 처치"
+    "Content": "용암 벌레 누적 50회 처치"
   },
   {
     "Id": "Achievement_300173_Name",
@@ -1525,7 +1517,7 @@
   },
   {
     "Id": "Achievement_300175_Desc",
-    "Content": "아미너스 타이거 누적 20회 처치"
+    "Content": "흑월의 야수 누적 20회 처치"
   },
   {
     "Id": "Achievement_300175_Name",
@@ -1689,7 +1681,7 @@
   },
   {
     "Id": "Achievement_300401_Name",
-    "Content": "포옹? 폭발!"
+    "Content": "포옹? 펑!"
   },
   {
     "Id": "Achievement_300402_Desc",
@@ -1713,7 +1705,7 @@
   },
   {
     "Id": "Achievement_300404_Name",
-    "Content": "귀업다고 방심하지마라"
+    "Content": "귀엽다고 방심하지마라"
   },
   {
     "Id": "Achievement_300405_Desc",
@@ -1770,14 +1762,6 @@
   {
     "Id": "Achievement_300411_Name",
     "Content": "밤입니다, 눈을 감으세요"
-  },
-  {
-    "Id": "Achievement_300412_Desc",
-    "Content": "서릿땅거북의 폭발 공격에 10회 사망"
-  },
-  {
-    "Id": "Achievement_300412_Name",
-    "Content": "연쇄 반응"
   },
   {
     "Id": "Achievement_300501_Desc",
@@ -1989,7 +1973,7 @@
   },
   {
     "Id": "Achievement_400108_Desc",
-    "Content": "일일 임무 누적 10회 완성"
+    "Content": "일일 임무 누적 10회 완료"
   },
   {
     "Id": "Achievement_400108_Name",
@@ -1997,7 +1981,7 @@
   },
   {
     "Id": "Achievement_400109_Desc",
-    "Content": "일일 임무 누적 30회 완성"
+    "Content": "일일 임무 누적 30회 완료"
   },
   {
     "Id": "Achievement_400109_Name",
@@ -2005,7 +1989,7 @@
   },
   {
     "Id": "Achievement_400110_Desc",
-    "Content": "일일 임무 누적 50회 완성"
+    "Content": "일일 임무 누적 50회 완료"
   },
   {
     "Id": "Achievement_400110_Name",
@@ -2089,7 +2073,7 @@
   },
   {
     "Id": "Achievement_400203_Name",
-    "Content": "너가 나의 「Servant」야?"
+    "Content": "그대가 나의 「Servant」인가?"
   },
   {
     "Id": "Achievement_400204_Desc",

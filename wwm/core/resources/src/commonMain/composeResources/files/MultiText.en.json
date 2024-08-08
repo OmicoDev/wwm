@@ -133,7 +133,7 @@
   },
   {
     "Id": "Achievement_100108_Desc",
-    "Content": "Maneuver the dolls through the laser corridor in \"Solitary Crusade\"."
+    "Content": "Maneuver the puppet through the laser corridor in \"Solitary Path\"."
   },
   {
     "Id": "Achievement_100108_Name",
@@ -437,7 +437,7 @@
   },
   {
     "Id": "Achievement_100222_Desc",
-    "Content": "Use Leap Device once."
+    "Content": "Use the Leap Device once."
   },
   {
     "Id": "Achievement_100222_Name",
@@ -461,7 +461,7 @@
   },
   {
     "Id": "Achievement_100225_Desc",
-    "Content": "Complete Mirrored Loong's Pearl."
+    "Content": "Complete Glorious Loong's Pearl."
   },
   {
     "Id": "Achievement_100225_Name",
@@ -497,7 +497,7 @@
   },
   {
     "Id": "Achievement_100229_Name",
-    "Content": "Brave Against Jué"
+    "Content": "Tearing Down the Scale"
   },
   {
     "Id": "Achievement_100230_Desc",
@@ -1045,7 +1045,7 @@
   },
   {
     "Id": "Achievement_200201_Desc",
-    "Content": "Complete \"Solitary Crusade\"."
+    "Content": "Complete \"Solitary Path\"."
   },
   {
     "Id": "Achievement_200201_Name",
@@ -1452,14 +1452,6 @@
     "Content": "Shadow Boxing"
   },
   {
-    "Id": "Achievement_300166_Desc",
-    "Content": "Use Changli's Outro Skill 10 times."
-  },
-  {
-    "Id": "Achievement_300166_Name",
-    "Content": "Eternal Flame"
-  },
-  {
     "Id": "Achievement_300167_Desc",
     "Content": "Use Changli's Outro Skill 100 times."
   },
@@ -1501,7 +1493,7 @@
   },
   {
     "Id": "Achievement_300172_Desc",
-    "Content": "Defeat Firebug 20 times."
+    "Content": "Defeat Lava Larva 20 times."
   },
   {
     "Id": "Achievement_300172_Name",
@@ -1509,7 +1501,7 @@
   },
   {
     "Id": "Achievement_300173_Desc",
-    "Content": "Defeat Frostbug 20 times."
+    "Content": "Defeat Lava Larva 50 times."
   },
   {
     "Id": "Achievement_300173_Name",
@@ -1685,7 +1677,7 @@
   },
   {
     "Id": "Achievement_300401_Desc",
-    "Content": "A Resonator becomes incapacitated by the explosive attacks of the Zig Zags."
+    "Content": "A Resonator is knocked out by the explosive attacks of the Zig Zags."
   },
   {
     "Id": "Achievement_300401_Name",
@@ -1693,7 +1685,7 @@
   },
   {
     "Id": "Achievement_300402_Desc",
-    "Content": "A Resonator becomes incapacitated by the Excarats' attacks."
+    "Content": "A Resonator is knocked out by the Excarats' attacks."
   },
   {
     "Id": "Achievement_300402_Name",
@@ -1701,7 +1693,7 @@
   },
   {
     "Id": "Achievement_300403_Desc",
-    "Content": "A Resonator becomes incapacitated after being bumped by the Inferno Rider."
+    "Content": "A Resonator is knocked out after colliding with the Inferno Rider."
   },
   {
     "Id": "Achievement_300403_Name",
@@ -1709,7 +1701,7 @@
   },
   {
     "Id": "Achievement_300404_Desc",
-    "Content": "A Resonator becomes incapacitated after being juggled by the Gulpuffs."
+    "Content": "A Resonator is knocked out after being juggled by the Gulpuffs."
   },
   {
     "Id": "Achievement_300404_Name",
@@ -1717,7 +1709,7 @@
   },
   {
     "Id": "Achievement_300405_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow when HP is above 95%."
+    "Content": "A Resonator is knocked out by a fatal blow when HP is above 95%."
   },
   {
     "Id": "Achievement_300405_Name",
@@ -1725,7 +1717,7 @@
   },
   {
     "Id": "Achievement_300406_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow of Glacio DMG when HP is above 50%."
+    "Content": "A Resonator is knocked out by a fatal blow of Glacio DMG when HP is above 50%."
   },
   {
     "Id": "Achievement_300406_Name",
@@ -1733,7 +1725,7 @@
   },
   {
     "Id": "Achievement_300407_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow of Fusion DMG when HP is above 50%."
+    "Content": "A Resonator is knocked out by a fatal blow of Fusion DMG when HP is above 50%."
   },
   {
     "Id": "Achievement_300407_Name",
@@ -1741,7 +1733,7 @@
   },
   {
     "Id": "Achievement_300408_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow of Electro DMG when HP is above 50%."
+    "Content": "A Resonator is knocked out by a fatal blow of Electro DMG when HP is above 50%."
   },
   {
     "Id": "Achievement_300408_Name",
@@ -1749,7 +1741,7 @@
   },
   {
     "Id": "Achievement_300409_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow of Aero DMG when HP is above 50%."
+    "Content": "A Resonator is knocked out by a fatal blow of Aero DMG when HP is above 50%."
   },
   {
     "Id": "Achievement_300409_Name",
@@ -1757,7 +1749,7 @@
   },
   {
     "Id": "Achievement_300410_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow of Spectro DMG when HP is above 50%."
+    "Content": "A Resonator is knocked out by a fatal blow of Spectro DMG when HP is above 50%."
   },
   {
     "Id": "Achievement_300410_Name",
@@ -1765,19 +1757,11 @@
   },
   {
     "Id": "Achievement_300411_Desc",
-    "Content": "A Resonator becomes incapacitated by a fatal blow of Havoc DMG when HP is above 50%."
+    "Content": "A Resonator is knocked out by a fatal blow of Havoc DMG when HP is above 50%."
   },
   {
     "Id": "Achievement_300411_Name",
     "Content": "Close Your Eyes when it's Dark"
-  },
-  {
-    "Id": "Achievement_300412_Desc",
-    "Content": "Resonator loses consciousness 10 times due to Hoartoise's explosive attacks."
-  },
-  {
-    "Id": "Achievement_300412_Name",
-    "Content": "Chain Reaction"
   },
   {
     "Id": "Achievement_300501_Desc",
@@ -1901,7 +1885,7 @@
   },
   {
     "Id": "Achievement_300517_Desc",
-    "Content": "The entire team loses consciousness in the Tower of Adversity 10 times."
+    "Content": "The entire team is defeated in the Tower of Adversity 10 times."
   },
   {
     "Id": "Achievement_300517_Name",
@@ -2209,15 +2193,15 @@
   },
   {
     "Id": "Achievement_700201_Desc",
-    "Content": "Activate the Crownless Echo's fourth additional ability."
+    "Content": "Activate the Crownless Echo's fourth Illusification."
   },
   {
     "Id": "Achievement_700202_Desc",
-    "Content": "Activate the Inferno Rider Echo's fourth additional ability."
+    "Content": "Activate the Inferno Rider Echo's fourth Illusification."
   },
   {
     "Id": "Achievement_700203_Desc",
-    "Content": "Activate the Bell-Borne Geochelone Echo's fourth additional ability."
+    "Content": "Activate the Bell-Borne Geochelone Eco's fourth Illusification."
   },
   {
     "Id": "Achievement_700204_Desc",
@@ -2297,7 +2281,7 @@
   },
   {
     "Id": "Achievement_700705_Desc",
-    "Content": "Activate the Thundering Mephis Echo's 4th Illusification."
+    "Content": "Activate the Thundering Mephis Echo's fourth Illusification."
   },
   {
     "Id": "Achievement_700706_Desc",

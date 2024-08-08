@@ -33,11 +33,11 @@
   },
   {
     "Id": "AchievementGroup_1004_Name",
-    "Content": "Llamadas de la Naturaleza"
+    "Content": "Llamadas de la naturaleza"
   },
   {
     "Id": "AchievementGroup_2001_Name",
-    "Content": "Viaje del Errante"
+    "Content": "Viaje de Errante"
   },
   {
     "Id": "AchievementGroup_2003_Name",
@@ -45,39 +45,39 @@
   },
   {
     "Id": "AchievementGroup_3001_Name",
-    "Content": "Recuerdos de Batalla"
+    "Content": "Recuerdos de batalla"
   },
   {
     "Id": "AchievementGroup_3002_Name",
-    "Content": "Habilidades de Batalla I"
+    "Content": "Habilidades de batalla I"
   },
   {
     "Id": "AchievementGroup_3003_Name",
-    "Content": "Habilidades de Batalla II"
+    "Content": "Habilidades de batalla II"
   },
   {
     "Id": "AchievementGroup_3004_Name",
-    "Content": "Experiencia Inesperada"
+    "Content": "Experiencia inesperada"
   },
   {
     "Id": "AchievementGroup_3005_Name",
-    "Content": "Desde la Torre Abismal I"
+    "Content": "Desde la Torre Abisal I"
   },
   {
     "Id": "AchievementGroup_4001_Name",
-    "Content": "Camino del Crecimiento"
+    "Content": "Camino del crecimiento"
   },
   {
     "Id": "AchievementGroup_4002_Name",
-    "Content": "Colección de Ecos"
+    "Content": "Colección de Eco"
   },
   {
     "Id": "AchievementGroup_5001_Name",
-    "Content": "Amistad de Otras Realidades"
+    "Content": "Amistad de otros reinos"
   },
   {
     "Id": "Achievement_100101_Desc",
-    "Content": "Siéntate en la silla más alta de Jinzhou."
+    "Content": "Siéntate en la silla más alta en Jinzhou"
   },
   {
     "Id": "Achievement_100101_Name",
@@ -85,19 +85,19 @@
   },
   {
     "Id": "Achievement_100102_Desc",
-    "Content": "Completa \"Historia Silenciosa\"."
+    "Content": "Completa «Historia silenciosa»."
   },
   {
     "Id": "Achievement_100102_Name",
-    "Content": "Que las Balizas Nos Guíen"
+    "Content": "Que las balizas nos guíen"
   },
   {
     "Id": "Achievement_100103_Desc",
-    "Content": "Resuelve un rompecabezas de Cubo Magnético 1 vez."
+    "Content": "Resuelve un rompecabezas del Cubo magnético 1 vez"
   },
   {
     "Id": "Achievement_100103_Name",
-    "Content": "Camino Sin Retorno Adelante"
+    "Content": "Camino unidireccional adelante"
   },
   {
     "Id": "Achievement_100104_Desc",
@@ -197,7 +197,7 @@
   },
   {
     "Id": "Achievement_100117_Desc",
-    "Content": "Derrota a \"Carapace: Engine Zero\" en las Llanuras Centrales."
+    "Content": "Derrota al \"Caparazón: Motor Cero\" en las Llanuras Centrales"
   },
   {
     "Id": "Achievement_100117_Name",
@@ -205,7 +205,7 @@
   },
   {
     "Id": "Achievement_100118_Desc",
-    "Content": "Derrota a \"Young Murmullo\" en el Bosque Oscuro."
+    "Content": "Derrota al \"Joven Murmullo\" en el Bosque Oscuro"
   },
   {
     "Id": "Achievement_100118_Name",
@@ -213,43 +213,43 @@
   },
   {
     "Id": "Achievement_100119_Desc",
-    "Content": "Derrota a \"Prism Heart\" en el Bosque Oscuro."
+    "Content": "Derrota al \"Corazón de Prisma\" en el Bosque Oscuro"
   },
   {
     "Id": "Achievement_100119_Name",
-    "Content": "Fiesta Prisma"
+    "Content": "Fiesta de Prisma"
   },
   {
     "Id": "Achievement_100120_Desc",
-    "Content": "Derrota a \"Fractsidus Follower\" en la Ciudad Portuaria de Guixu."
+    "Content": "Derrota al \"Seguidor de Fractsidus\" en la Ciudad portuaria de Guixu"
   },
   {
     "Id": "Achievement_100120_Name",
-    "Content": "¡Proyecto debut de los tres grandes!"
+    "Content": "¡Proyecto de debut de los tres grandes!"
   },
   {
     "Id": "Achievement_100121_Desc",
-    "Content": "Derrota a \"Autopuppet Scout-01\" en las Llanuras Centrales."
+    "Content": "Derrota al \"Explorador Autómata #01\" en las Llanuras Centrales"
   },
   {
     "Id": "Achievement_100121_Name",
-    "Content": "¡Protocolo 3. A-atacar!"
+    "Content": "Protocolo 3. ¡A-ataque!"
   },
   {
     "Id": "Achievement_100122_Desc",
-    "Content": "Derrota a \"Illuminator Theater\" en las Tierras altas de Desorock."
+    "Content": "Derrota al \"Teatro del Iluminador\" en las Tierras altas de Desoroca"
   },
   {
     "Id": "Achievement_100122_Name",
-    "Content": "¡Seguridad ante todo!"
+    "Content": "¡Seguridad primero!"
   },
   {
     "Id": "Achievement_100123_Desc",
-    "Content": "Derrota a \"Scorpion's Nest\" en la Ciudad Portuaria de Guixu."
+    "Content": "Derrota al \"Nido de Escorpión\" en la Ciudad portuaria de Guixu"
   },
   {
     "Id": "Achievement_100123_Name",
-    "Content": "Vaciar el nido"
+    "Content": "Vacía el nido"
   },
   {
     "Id": "Achievement_100124_Desc",
@@ -261,7 +261,7 @@
   },
   {
     "Id": "Achievement_100125_Desc",
-    "Content": "Derrota a \"Wild Scarlet\" en el Bosque Oscuro"
+    "Content": "Derrota a \"Gorila Salvaje\" en el Bosque Oscuro."
   },
   {
     "Id": "Achievement_100125_Name",
@@ -277,7 +277,7 @@
   },
   {
     "Id": "Achievement_100201_Desc",
-    "Content": "Completa \"We Promise, We Deliver\"."
+    "Content": "Completa «Lo prometido es deuda»."
   },
   {
     "Id": "Achievement_100201_Name",
@@ -285,7 +285,7 @@
   },
   {
     "Id": "Achievement_100202_Desc",
-    "Content": "Completa \"Stygian Lacrimosa\"."
+    "Content": "Completa «Lacrimosa estigia»."
   },
   {
     "Id": "Achievement_100202_Name",
@@ -293,7 +293,7 @@
   },
   {
     "Id": "Achievement_100203_Desc",
-    "Content": "Completa \"Shadows of the Past\"."
+    "Content": "Completa «Sombra del pasado»."
   },
   {
     "Id": "Achievement_100203_Name",
@@ -301,15 +301,15 @@
   },
   {
     "Id": "Achievement_100204_Desc",
-    "Content": "Completa \"When the Forest is No Longer Dim\"."
+    "Content": "Completa «Cuando el bosque ya no está oscuro»."
   },
   {
     "Id": "Achievement_100204_Name",
-    "Content": "Átomo: Odisea en la jungla"
+    "Content": "Átomo: La ddisea de la jungla"
   },
   {
     "Id": "Achievement_100205_Desc",
-    "Content": "Completa \"When Moonlight Shines in the Forest\"."
+    "Content": "Completa «Cuando la Luz de la Luna Brilla en el Bosque»."
   },
   {
     "Id": "Achievement_100205_Name",
@@ -317,23 +317,23 @@
   },
   {
     "Id": "Achievement_100206_Desc",
-    "Content": "Completa \"Reactivación del radar\"."
+    "Content": "Completa «Reactivación de Radar»."
   },
   {
     "Id": "Achievement_100206_Name",
-    "Content": "El sol sale como siempre"
+    "Content": "El sol sale como de costumbre"
   },
   {
     "Id": "Achievement_100207_Desc",
-    "Content": "Completa \"El pasado es el futuro\"."
+    "Content": "Completa «El Pasado es el Futuro»."
   },
   {
     "Id": "Achievement_100207_Name",
-    "Content": "El futuro es aquí"
+    "Content": "El futuro está aquí"
   },
   {
     "Id": "Achievement_100208_Desc",
-    "Content": "Completa \"El concierto eterno\"."
+    "Content": "Completa «El Concierto Eterno»."
   },
   {
     "Id": "Achievement_100208_Name",
@@ -341,7 +341,7 @@
   },
   {
     "Id": "Achievement_100209_Desc",
-    "Content": "Completa \"Investigación secreta\"."
+    "Content": "Completa «Investigación Secreta»."
   },
   {
     "Id": "Achievement_100209_Name",
@@ -349,7 +349,7 @@
   },
   {
     "Id": "Achievement_100210_Desc",
-    "Content": "Completa \"Un verdadero campeón de la arena\"."
+    "Content": "Completa «La verdad oculta»."
   },
   {
     "Id": "Achievement_100210_Name",
@@ -357,7 +357,7 @@
   },
   {
     "Id": "Achievement_100211_Desc",
-    "Content": "Completa \"Asalto al campamento\"."
+    "Content": "Completa «Incursión al campamento»."
   },
   {
     "Id": "Achievement_100211_Name",
@@ -365,7 +365,7 @@
   },
   {
     "Id": "Achievement_100212_Desc",
-    "Content": "Completa \"¿Una comida gratis?\"."
+    "Content": "Completa «¿Una comida gratis?»."
   },
   {
     "Id": "Achievement_100212_Name",
@@ -373,7 +373,7 @@
   },
   {
     "Id": "Achievement_100213_Desc",
-    "Content": "Completa \"La legendaria mecánica del cubo magnético\"."
+    "Content": "Completa «La legendaria mecánica del cubo magnético»."
   },
   {
     "Id": "Achievement_100213_Name",
@@ -381,23 +381,23 @@
   },
   {
     "Id": "Achievement_100214_Desc",
-    "Content": "Completa \"Viajar en Jinzhou: Gulpuffs\"."
+    "Content": "Completa «Viajar en Jinzhou: Burbujines»."
   },
   {
     "Id": "Achievement_100214_Name",
-    "Content": "Nadando hasta que el mar se vuelva azul"
+    "Content": "Nadando hasta que el mar se vuelve azul"
   },
   {
     "Id": "Achievement_100215_Desc",
-    "Content": "Completa \"Práctica de la Danza del león\"."
+    "Content": "Completa «La práctica del bailarín»."
   },
   {
     "Id": "Achievement_100215_Name",
-    "Content": "Casa llena"
+    "Content": "Lleno total"
   },
   {
     "Id": "Achievement_100216_Desc",
-    "Content": "Completa \"Héroe del salto\"."
+    "Content": "Completa «Héroe del salto»."
   },
   {
     "Id": "Achievement_100216_Name",
@@ -465,7 +465,7 @@
   },
   {
     "Id": "Achievement_100225_Name",
-    "Content": "Fresa duchesne"
+    "Content": "Bayagema"
   },
   {
     "Id": "Achievement_100226_Desc",
@@ -485,7 +485,7 @@
   },
   {
     "Id": "Achievement_100228_Desc",
-    "Content": "Derrota al Correluces Poderoso que vaga por el Mt. Firmamento."
+    "Content": "Derrota al Correluces Poderoso que vaga por el Monte Firmamento."
   },
   {
     "Id": "Achievement_100228_Name",
@@ -493,7 +493,7 @@
   },
   {
     "Id": "Achievement_100229_Desc",
-    "Content": "Derrota a la Mecánica: Escamas Protectoras que deambula por el Mt. Firmamento."
+    "Content": "Derrota a la Mecánica: Escamas Protectoras que deambula por el Monte Firmamento."
   },
   {
     "Id": "Achievement_100229_Name",
@@ -501,7 +501,7 @@
   },
   {
     "Id": "Achievement_100230_Desc",
-    "Content": "Derrota a la Howlers in the Icefield que merodea en el Monte Firmamento."
+    "Content": "Derrota a la Bestia Campo Helado que merodea en el Monte Firmamento."
   },
   {
     "Id": "Achievement_100230_Name",
@@ -557,7 +557,7 @@
   },
   {
     "Id": "Achievement_100401_Desc",
-    "Content": "Forja cualquier arma 1 vez."
+    "Content": "Forja un arma una vez"
   },
   {
     "Id": "Achievement_100401_Name",
@@ -573,99 +573,99 @@
   },
   {
     "Id": "Achievement_100403_Desc",
-    "Content": "Atrapa 100 pescados."
+    "Content": "Captura 100 peces"
   },
   {
     "Id": "Achievement_100403_Name",
-    "Content": "Fishing Master II"
+    "Content": "Maestro de la pesca II"
   },
   {
     "Id": "Achievement_100404_Desc",
-    "Content": "Obtén 50 piezas de Aves."
+    "Content": "Obtén 50 de Carne de ave."
   },
   {
     "Id": "Achievement_100404_Name",
-    "Content": "Hunting Master I"
+    "Content": "Maestro de la Caza I"
   },
   {
     "Id": "Achievement_100405_Desc",
-    "Content": "Obtén 100 piezas de Aves."
+    "Content": "Obtén 100 de Carne de ave."
   },
   {
     "Id": "Achievement_100405_Name",
-    "Content": "Hunting Master II"
+    "Content": "Maestro de la Caza II"
   },
   {
     "Id": "Achievement_100406_Desc",
-    "Content": "Obtén 50 piezas de Carne cruda."
+    "Content": "Obtén 50 piezas de Carne cruda"
   },
   {
     "Id": "Achievement_100406_Name",
-    "Content": "Wild Hunter I"
+    "Content": "Cazador Salvaje I"
   },
   {
     "Id": "Achievement_100407_Desc",
-    "Content": "Obtén 100 piezas de Carne cruda."
+    "Content": "Obtén 100 piezas de Carne cruda"
   },
   {
     "Id": "Achievement_100407_Name",
-    "Content": "Wild Hunter II"
+    "Content": "Cazador Salvaje II"
   },
   {
     "Id": "Achievement_100408_Desc",
-    "Content": "Recolecta minerales 50 veces."
+    "Content": "Recolecta minerales 50 veces"
   },
   {
     "Id": "Achievement_100408_Name",
-    "Content": "Gold Miner I"
+    "Content": "Minero de Oro I"
   },
   {
     "Id": "Achievement_100409_Desc",
-    "Content": "Recolecta minerales 100 veces."
+    "Content": "Recolecta minerales 100 veces"
   },
   {
     "Id": "Achievement_100409_Name",
-    "Content": "Gold Miner II"
+    "Content": "Minero de Oro II"
   },
   {
     "Id": "Achievement_100410_Desc",
-    "Content": "Prepara 1 Pollo desmenuzado picante."
+    "Content": "Prepara 1 Pollo desmenuzado picante"
   },
   {
     "Id": "Achievement_100410_Name",
-    "Content": "Winner Winner Chicken Dinner"
+    "Content": "Cena de Pollo Ganador"
   },
   {
     "Id": "Achievement_100411_Desc",
-    "Content": "Atrapa 200 pescados."
+    "Content": "Captura 200 Pescado"
   },
   {
     "Id": "Achievement_100411_Name",
-    "Content": "Fishing Master III"
+    "Content": "Maestro de la Pesca III"
   },
   {
     "Id": "Achievement_100412_Desc",
-    "Content": "Obtén 200 piezas de Aves."
+    "Content": "Obtén 200 de Carne de ave."
   },
   {
     "Id": "Achievement_100412_Name",
-    "Content": "Hunting Master III"
+    "Content": "Maestro de la Caza III"
   },
   {
     "Id": "Achievement_100413_Desc",
-    "Content": "Obtén 200 piezas de Carne cruda."
+    "Content": "Obtén 200 piezas de Carne cruda"
   },
   {
     "Id": "Achievement_100413_Name",
-    "Content": "Wild Hunter III"
+    "Content": "Cazador Salvaje III"
   },
   {
     "Id": "Achievement_100414_Desc",
-    "Content": "Recolecta minerales 200 veces."
+    "Content": "Recolecta minerales 200 veces"
   },
   {
     "Id": "Achievement_100414_Name",
-    "Content": "Gold Miner III"
+    "Content": "Minero de Oro III"
   },
   {
     "Id": "Achievement_100416_Desc",
@@ -673,11 +673,11 @@
   },
   {
     "Id": "Achievement_100416_Name",
-    "Content": "Sigue el Mapa"
+    "Content": "Sigue el mapa"
   },
   {
     "Id": "Achievement_100417_Desc",
-    "Content": "Usa poción 20 veces."
+    "Content": "Usa poción 20 veces"
   },
   {
     "Id": "Achievement_100417_Name",
@@ -685,7 +685,7 @@
   },
   {
     "Id": "Achievement_100418_Desc",
-    "Content": "Usa poción 50 veces."
+    "Content": "Usa poción 50 veces"
   },
   {
     "Id": "Achievement_100418_Name",
@@ -693,7 +693,7 @@
   },
   {
     "Id": "Achievement_100419_Desc",
-    "Content": "Usa poción 100 veces."
+    "Content": "Usa poción 100 veces"
   },
   {
     "Id": "Achievement_100419_Name",
@@ -701,31 +701,31 @@
   },
   {
     "Id": "Achievement_100420_Desc",
-    "Content": "Consume Platos 20 veces."
+    "Content": "Consume Platos 20 veces"
   },
   {
     "Id": "Achievement_100420_Name",
-    "Content": "Alegría Saboreada I"
+    "Content": "Sabor de la Alegría I"
   },
   {
     "Id": "Achievement_100421_Desc",
-    "Content": "Consume Platos 50 veces."
+    "Content": "Consume Platos 50 veces"
   },
   {
     "Id": "Achievement_100421_Name",
-    "Content": "Alegría Saboreada II"
+    "Content": "Sabor de la Alegría II"
   },
   {
     "Id": "Achievement_100422_Desc",
-    "Content": "Consume Platos 100 veces."
+    "Content": "Consume Platos 100 veces"
   },
   {
     "Id": "Achievement_100422_Name",
-    "Content": "Alegría Saboreada III"
+    "Content": "Sabor de la Alegría III"
   },
   {
     "Id": "Achievement_100423_Desc",
-    "Content": "Usa el Sintetizador 20 veces."
+    "Content": "Realiza Síntesis 20 veces"
   },
   {
     "Id": "Achievement_100423_Name",
@@ -733,7 +733,7 @@
   },
   {
     "Id": "Achievement_100424_Desc",
-    "Content": "Usa el Sintetizador 50 veces."
+    "Content": "Realiza Síntesis 50 veces"
   },
   {
     "Id": "Achievement_100424_Name",
@@ -741,7 +741,7 @@
   },
   {
     "Id": "Achievement_100425_Desc",
-    "Content": "Usa el Sintetizador 100 veces."
+    "Content": "Realiza Síntesis 100 veces"
   },
   {
     "Id": "Achievement_100425_Name",
@@ -749,23 +749,23 @@
   },
   {
     "Id": "Achievement_100426_Desc",
-    "Content": "Alcanza el Nivel de Chef 2."
+    "Content": "Alcanza el Nivel 2 de Chef"
   },
   {
     "Id": "Achievement_100426_Name",
-    "Content": "Chef Mochelin 1 Estrella"
+    "Content": "Mochelin Chef de 1 Estrella"
   },
   {
     "Id": "Achievement_100427_Desc",
-    "Content": "Alcanza el Nivel de Chef 5."
+    "Content": "Alcanza el Nivel 5 de Chef"
   },
   {
     "Id": "Achievement_100427_Name",
-    "Content": "Chef Mochelin 2 Estrellas"
+    "Content": "Mochelin Chef de 2 estrellas"
   },
   {
     "Id": "Achievement_100429_Desc",
-    "Content": "Alcanza el Nivel de Síntesis 2."
+    "Content": "Alcanza el Nivel 2 de Síntesis"
   },
   {
     "Id": "Achievement_100429_Name",
@@ -885,31 +885,31 @@
   },
   {
     "Id": "Achievement_110112_Desc",
-    "Content": "Obtén 80 Herencias de Mareas en Jinzhou."
+    "Content": "Obtén 80 Patrimonios de las mareas en Jinzhou"
   },
   {
     "Id": "Achievement_110112_Name",
-    "Content": "Sintonización de Cremación III"
+    "Content": "Afinación de la Cremación III"
   },
   {
     "Id": "Achievement_110113_Desc",
-    "Content": "Activa todos los marcadores en el mapa de Jinzhou."
+    "Content": "Activa todos los marcadores en el mapa de Jinzhou"
   },
   {
     "Id": "Achievement_110113_Name",
-    "Content": "Montar la Marea: Jinzhou"
+    "Content": "Monta la marea: Jinzhou"
   },
   {
     "Id": "Achievement_110114_Desc",
-    "Content": "Recolecta 20 Mariposas Murmurantes en Jinzhou."
+    "Content": "Recolecta 20 Mutterflies en Jinzhou"
   },
   {
     "Id": "Achievement_110114_Name",
-    "Content": "Sonido del Retorno"
+    "Content": "El sonido del retorno"
   },
   {
     "Id": "Achievement_110115_Desc",
-    "Content": "Alcanza el Pionero Legendario en Jinzhou."
+    "Content": "Alcanza el rango de Pionero Legendario en Jinzhou"
   },
   {
     "Id": "Achievement_110115_Name",
@@ -917,7 +917,7 @@
   },
   {
     "Id": "Achievement_110116_Desc",
-    "Content": "Abre 100 Cofres de Suministros en Jinzhou."
+    "Content": "Abre 100 Cofres de suministros en Jinzhou"
   },
   {
     "Id": "Achievement_110116_Name",
@@ -925,7 +925,7 @@
   },
   {
     "Id": "Achievement_110117_Desc",
-    "Content": "Abre 200 Cofres de Suministros en Jinzhou."
+    "Content": "Abre 200 Cofres de suministros en Jinzhou"
   },
   {
     "Id": "Achievement_110117_Name",
@@ -933,7 +933,7 @@
   },
   {
     "Id": "Achievement_110118_Desc",
-    "Content": "Abre 350 Cofres de Suministros en Jinzhou."
+    "Content": "Abre 350 Cofres de suministros en Jinzhou"
   },
   {
     "Id": "Achievement_110118_Name",
@@ -945,67 +945,67 @@
   },
   {
     "Id": "Achievement_200101_Name",
-    "Content": "Del Nuevo Mundo"
+    "Content": "Desde el Nuevo Mundo"
   },
   {
     "Id": "Achievement_200102_Desc",
-    "Content": "Recibe la Perla de azúcar del Magistrado de Jinzhou."
+    "Content": "Recibe la Perla de azúcar de la Magistrada de Jinzhou."
   },
   {
     "Id": "Achievement_200102_Name",
-    "Content": "Adivinanza de Hechizos Dulces"
+    "Content": "El enigma de los hechizos de caramelo"
   },
   {
     "Id": "Achievement_200103_Desc",
-    "Content": "Completa \"Primera Resonancia\"."
+    "Content": "Completa «Primera resonancia»."
   },
   {
     "Id": "Achievement_200103_Name",
-    "Content": "Así Habló el Magistrado: Mensaje Sin Palabras"
+    "Content": "Así Habló la Magistrada: Mensaje Sin Palabras"
   },
   {
     "Id": "Achievement_200105_Desc",
-    "Content": "Completa \"Marcha Resonante\"."
+    "Content": "Completa «Formación de eco»."
   },
   {
     "Id": "Achievement_200105_Name",
-    "Content": "Así Habló el Magistrado: Llamadas del Frente"
+    "Content": "Así Habló la Magistrada: Llamadas del Frente"
   },
   {
     "Id": "Achievement_200106_Desc",
-    "Content": "Completa \"Estrella Ominosa\"."
+    "Content": "Completa «Verdad eterna»."
   },
   {
     "Id": "Achievement_200106_Name",
-    "Content": "Juego del Pastor"
+    "Content": "El juego del Pastor"
   },
   {
     "Id": "Achievement_200107_Desc",
-    "Content": "Inspecciona el melocotonero en la Aldea Qichi."
+    "Content": "Inspecciona el árbol de melocotón en la Aldea Qichi"
   },
   {
     "Id": "Achievement_200107_Name",
-    "Content": "\"Enterrado bajo el Árbol de Flor de Durazno...\""
+    "Content": "\"Lo que yace bajo el árbol de melocotón...\""
   },
   {
     "Id": "Achievement_200108_Desc",
-    "Content": "Completa \"Cuchillas en Confrontación\"."
+    "Content": "Completa «Espadas tintineantes»."
   },
   {
     "Id": "Achievement_200108_Name",
-    "Content": "Una Melodía Cuchicheante"
+    "Content": "Una Melodía de Cuchicheo"
   },
   {
     "Id": "Achievement_200109_Desc",
-    "Content": "Completa \"Gotas de Lluvia Rebobinadas\"."
+    "Content": "Completa «Lluvia invertida»."
   },
   {
     "Id": "Achievement_200109_Name",
-    "Content": "Si la Melodía Suena Verdadera"
+    "Content": "Si la Melodía es Verdadera"
   },
   {
     "Id": "Achievement_200110_Desc",
-    "Content": "Recupera los 5 Sonodiscos perdidos."
+    "Content": "Recupera los 5 Sonodisks perdidos."
   },
   {
     "Id": "Achievement_200110_Name",
@@ -1013,7 +1013,7 @@
   },
   {
     "Id": "Achievement_200111_Desc",
-    "Content": "Completa todas las misiones de \"¿Salvar el Mundo? ¡Salvar al Gato!\"."
+    "Content": "Completa todas las misiones «¿¿Salvar el mundo? ¡Salva al gato!»."
   },
   {
     "Id": "Achievement_200111_Name",
@@ -1021,11 +1021,11 @@
   },
   {
     "Id": "Achievement_200115_Desc",
-    "Content": "Captura tu primera foto en \"Fotos de Jinzhou\"."
+    "Content": "Captura tu primera foto en \"Fotos de Jinzhou\""
   },
   {
     "Id": "Achievement_200115_Name",
-    "Content": "Cautivándote Siempre"
+    "Content": "Siempre te cautivo"
   },
   {
     "Id": "Achievement_200116_Desc",
@@ -1037,7 +1037,7 @@
   },
   {
     "Id": "Achievement_200117_Desc",
-    "Content": "Alcanza el Mt. Firmamento."
+    "Content": "Alcanza el Monte Firmamento."
   },
   {
     "Id": "Achievement_200117_Name",
@@ -1045,7 +1045,7 @@
   },
   {
     "Id": "Achievement_200201_Desc",
-    "Content": "Completa \"Cruzada Solitaria\"."
+    "Content": "Completa «Cruzada Solitaria»."
   },
   {
     "Id": "Achievement_200201_Name",
@@ -1053,7 +1053,7 @@
   },
   {
     "Id": "Achievement_200202_Desc",
-    "Content": "Participa en el \"Relevo de Gulpuff\" en \"Amanecer en el Este\"."
+    "Content": "Participa en \"Relevo de Burbujín\" en \"Por fin amanece\"."
   },
   {
     "Id": "Achievement_200202_Name",
@@ -1061,7 +1061,7 @@
   },
   {
     "Id": "Achievement_200203_Desc",
-    "Content": "Completa \"Amanecer en el Este\"."
+    "Content": "Termina \"Por fin amanece\"."
   },
   {
     "Id": "Achievement_200203_Name",
@@ -1069,15 +1069,15 @@
   },
   {
     "Id": "Achievement_200204_Desc",
-    "Content": "Completa \"Trazado de Sonido\" en \"El Regreso del Corazón Salvaje\"."
+    "Content": "Completa «Rastreo de huella acústica» en \"Regreso del corazón salvaje\"."
   },
   {
     "Id": "Achievement_200204_Name",
-    "Content": "Cascabeles"
+    "Content": "Campanas Sonando"
   },
   {
     "Id": "Achievement_200205_Desc",
-    "Content": "Completa \"El Regreso del Corazón Salvaje\"."
+    "Content": "Completa «Regreso del corazón salvaje»."
   },
   {
     "Id": "Achievement_200205_Name",
@@ -1085,11 +1085,11 @@
   },
   {
     "Id": "Achievement_200206_Desc",
-    "Content": "Completa \"Bajo el Banyan Iluminado por la Luna\"."
+    "Content": "Completa «Bajo el Baniano a la Luz de la Luna»."
   },
   {
     "Id": "Achievement_200206_Name",
-    "Content": "Luna Creciente en el Banyan"
+    "Content": "Crescente Luna en el Árbol Baniano"
   },
   {
     "Id": "Achievement_200307_Desc",
@@ -1109,7 +1109,7 @@
   },
   {
     "Id": "Achievement_300102_Desc",
-    "Content": "Derrota al Feilian Beringal por primera vez."
+    "Content": "Derrota a Beringal del Bosque por primera vez."
   },
   {
     "Id": "Achievement_300102_Name",
@@ -1117,23 +1117,23 @@
   },
   {
     "Id": "Achievement_300103_Desc",
-    "Content": "Derrota al Lampylumen innumerables por primera vez."
+    "Content": "Derrota a \"Engendro de Lampilumen\" por primera vez."
   },
   {
     "Id": "Achievement_300103_Name",
-    "Content": "Cruza la Niebla Infinita"
+    "Content": "Cruza la Niebla Sin Límites"
   },
   {
     "Id": "Achievement_300104_Desc",
-    "Content": "Derrota al Jinete del infierno por primera vez."
+    "Content": "Derrota al \"Jinete Infiernal\" por primera vez."
   },
   {
     "Id": "Achievement_300104_Name",
-    "Content": "Cabalgando el Infierno"
+    "Content": "Monta el Infierno"
   },
   {
     "Id": "Achievement_300105_Desc",
-    "Content": "Derrota al Sin Corona por primera vez."
+    "Content": "Derrota al Destronado por primera vez."
   },
   {
     "Id": "Achievement_300105_Name",
@@ -1141,19 +1141,19 @@
   },
   {
     "Id": "Achievement_300106_Desc",
-    "Content": "Derrota al Geochelón de campana por primera vez."
+    "Content": "Derrota a la Geochelone Portacampana por primera vez."
   },
   {
     "Id": "Achievement_300106_Name",
-    "Content": "Solo Suena la Campana"
+    "Content": "Sólo la Campana Dobla"
   },
   {
     "Id": "Achievement_300107_Desc",
-    "Content": "Derrota al Mephis atronador por primera vez."
+    "Content": "Derrota a Mephis Trueno por primera vez."
   },
   {
     "Id": "Achievement_300107_Name",
-    "Content": "Destello Danzante"
+    "Content": "Danza de Destellos"
   },
   {
     "Id": "Achievement_300108_Desc",
@@ -1161,27 +1161,27 @@
   },
   {
     "Id": "Achievement_300108_Name",
-    "Content": "Despierta, Despierta!"
+    "Content": "¡Despierta, Despierta!"
   },
   {
     "Id": "Achievement_300109_Desc",
-    "Content": "Derrota al Aix de luto 50 veces."
+    "Content": "Derrota a Aix del Lamento 50 veces."
   },
   {
     "Id": "Achievement_300109_Name",
-    "Content": "No Liz, Pero Pájaros Extraños"
+    "Content": "No Liz, Pero Aves Extrañas"
   },
   {
     "Id": "Achievement_300110_Desc",
-    "Content": "Derrota al Feilian Beringal 50 veces."
+    "Content": "Derrota a Beringal del Bosque 50 veces"
   },
   {
     "Id": "Achievement_300110_Name",
-    "Content": "Domina el Bosque"
+    "Content": "Regla del Bosque"
   },
   {
     "Id": "Achievement_300111_Desc",
-    "Content": "Derrota al Lampylumen innumerables 50 veces."
+    "Content": "Derrota a Engendro de Lampilumen 50 veces"
   },
   {
     "Id": "Achievement_300111_Name",
@@ -1189,7 +1189,7 @@
   },
   {
     "Id": "Achievement_300112_Desc",
-    "Content": "Derrota al Jinete del infierno 50 veces."
+    "Content": "Derrota al Jinete Infiernal 50 veces"
   },
   {
     "Id": "Achievement_300112_Name",
@@ -1197,7 +1197,7 @@
   },
   {
     "Id": "Achievement_300113_Desc",
-    "Content": "Derrota al Sin Corona 50 veces."
+    "Content": "Derrota al Destronado 50 veces."
   },
   {
     "Id": "Achievement_300113_Name",
@@ -1205,59 +1205,59 @@
   },
   {
     "Id": "Achievement_300114_Desc",
-    "Content": "Derrota al Mephis atronador 50 veces."
+    "Content": "Derrota a Mephis Trueno 50 veces."
   },
   {
     "Id": "Achievement_300114_Name",
-    "Content": "Kombate Mephis"
+    "Content": "Combate Mephis"
   },
   {
     "Id": "Achievement_300115_Desc",
-    "Content": "Activa la habilidad inicial 20 veces."
+    "Content": "Activa la Habilidad Intro 20 veces."
   },
   {
     "Id": "Achievement_300115_Name",
-    "Content": "Golpe Letal"
+    "Content": "Golpe Fatal"
   },
   {
     "Id": "Achievement_300116_Desc",
-    "Content": "Usa la habilidad de Eco del Geochelón de campana para dar un golpe fatal al Geochelón de campana."
+    "Content": "Usa la Habilidad de Eco de la Campana-Borne Geochelone para asestar un golpe mortal a la Campana-Borne Geochelone"
   },
   {
     "Id": "Achievement_300116_Name",
-    "Content": "Retroceso: Geochelón de campana"
+    "Content": "Rebote: Campana-Borne Geochelone"
   },
   {
     "Id": "Achievement_300117_Desc",
-    "Content": "Usa la habilidad de Eco del Jinete del infierno para dar un golpe fatal al Jinete del infierno."
+    "Content": "Usa la Habilidad de Eco del Jinete Infiernal para asestar un golpe mortal al Jinete Infiernal"
   },
   {
     "Id": "Achievement_300117_Name",
-    "Content": "Retroceso: Jinete del infierno"
+    "Content": "Rebote: Jinete Infiernal"
   },
   {
     "Id": "Achievement_300118_Desc",
-    "Content": "Ese último rugido de trueno... ¿De dónde viene?"
+    "Content": "Ese último rugido del trueno... ¿De dónde viene?"
   },
   {
     "Id": "Achievement_300118_Name",
-    "Content": "Tempestad Desvanecida"
+    "Content": "Tempestad desvanecida"
   },
   {
     "Id": "Achievement_300119_Desc",
-    "Content": "Usa la habilidad de Eco del Aix de luto para dar un golpe fatal al Aix de luto."
+    "Content": "Usa la Habilidad de Eco de Aix del Lamento para asestar un golpe mortal a Aix del Lamento"
   },
   {
     "Id": "Achievement_300119_Name",
-    "Content": "Retroceso: Aix de luto"
+    "Content": "Rebote: Aix del Lamento"
   },
   {
     "Id": "Achievement_300120_Desc",
-    "Content": "Usa la habilidad de Eco del Sin Corona para dar un golpe fatal al Sin Corona."
+    "Content": "Usa la habilidad del Eco de Destronado para asestar un golpe mortal al Destronado."
   },
   {
     "Id": "Achievement_300120_Name",
-    "Content": "Retroceso: El Sin Corona"
+    "Content": "Retroceso: Destronado"
   },
   {
     "Id": "Achievement_300121_Desc",
@@ -1293,7 +1293,7 @@
   },
   {
     "Id": "Achievement_300146_Desc",
-    "Content": "Derrota al Sinsueño por primera vez."
+    "Content": "Derrota al Insomne por primera vez."
   },
   {
     "Id": "Achievement_300146_Name",
@@ -1301,7 +1301,7 @@
   },
   {
     "Id": "Achievement_300147_Desc",
-    "Content": "Usa la Habilidad final de Errante: Espectro 100 veces."
+    "Content": "Usa la habilidad Outro de Errante: Espectro 100 veces."
   },
   {
     "Id": "Achievement_300147_Name",
@@ -1309,7 +1309,7 @@
   },
   {
     "Id": "Achievement_300148_Desc",
-    "Content": "Usa la Habilidad final de Errante: Destrucción 100 veces."
+    "Content": "Usa la habilidad Outro de Errante: Destrucción 100 veces."
   },
   {
     "Id": "Achievement_300148_Name",
@@ -1317,7 +1317,7 @@
   },
   {
     "Id": "Achievement_300149_Desc",
-    "Content": "Usa la Habilidad final de Jianxin 100 veces."
+    "Content": "Usa la habilidad Outro de Jianxin 100 veces."
   },
   {
     "Id": "Achievement_300149_Name",
@@ -1325,7 +1325,7 @@
   },
   {
     "Id": "Achievement_300150_Desc",
-    "Content": "Usa la Habilidad final de Jinhsi 100 veces."
+    "Content": "Usa la habilidad Outro de Jinhsi 100 veces."
   },
   {
     "Id": "Achievement_300150_Name",
@@ -1333,7 +1333,7 @@
   },
   {
     "Id": "Achievement_300151_Desc",
-    "Content": "Usa la Habilidad final de Chixia 100 veces."
+    "Content": "Usa la habilidad Outro de Chixia 100 veces."
   },
   {
     "Id": "Achievement_300151_Name",
@@ -1341,7 +1341,7 @@
   },
   {
     "Id": "Achievement_300152_Desc",
-    "Content": "Usa la Habilidad final de Danjin 100 veces."
+    "Content": "Usa la habilidad Outro de Danjin 100 veces."
   },
   {
     "Id": "Achievement_300152_Name",
@@ -1349,7 +1349,7 @@
   },
   {
     "Id": "Achievement_300153_Desc",
-    "Content": "Usa la Habilidad final de Sanhua 100 veces."
+    "Content": "Usa la habilidad Outro de Sanhua 100 veces."
   },
   {
     "Id": "Achievement_300153_Name",
@@ -1357,7 +1357,7 @@
   },
   {
     "Id": "Achievement_300154_Desc",
-    "Content": "Usa la Habilidad final de Taoqi 100 veces."
+    "Content": "Usa la habilidad Outro de Taoqi 100 veces."
   },
   {
     "Id": "Achievement_300154_Name",
@@ -1365,7 +1365,7 @@
   },
   {
     "Id": "Achievement_300155_Desc",
-    "Content": "Usa la Habilidad final de Yangyang 100 veces."
+    "Content": "Usa la habilidad Outro de Yangyang 100 veces."
   },
   {
     "Id": "Achievement_300155_Name",
@@ -1373,7 +1373,7 @@
   },
   {
     "Id": "Achievement_300156_Desc",
-    "Content": "Usa la Habilidad final de Yinlin 100 veces."
+    "Content": "Usa la habilidad Outro de Yinlin 100 veces."
   },
   {
     "Id": "Achievement_300156_Name",
@@ -1381,7 +1381,7 @@
   },
   {
     "Id": "Achievement_300157_Desc",
-    "Content": "Usa la Habilidad final de Verina 100 veces."
+    "Content": "Usa la habilidad Outro de Verina 100 veces."
   },
   {
     "Id": "Achievement_300157_Name",
@@ -1389,7 +1389,7 @@
   },
   {
     "Id": "Achievement_300158_Desc",
-    "Content": "Usa la Habilidad final de Encore 100 veces."
+    "Content": "Usa la habilidad Outro de Encore 100 veces."
   },
   {
     "Id": "Achievement_300158_Name",
@@ -1397,7 +1397,7 @@
   },
   {
     "Id": "Achievement_300159_Desc",
-    "Content": "Usa la Habilidad final de Baizhi 100 veces."
+    "Content": "Usa la habilidad Outro de Baizhi 100 veces."
   },
   {
     "Id": "Achievement_300159_Name",
@@ -1405,7 +1405,7 @@
   },
   {
     "Id": "Achievement_300160_Desc",
-    "Content": "Usa la Habilidad final de Lingyang 100 veces."
+    "Content": "Usa la habilidad Outro de Lingyang 100 veces."
   },
   {
     "Id": "Achievement_300160_Name",
@@ -1413,7 +1413,7 @@
   },
   {
     "Id": "Achievement_300161_Desc",
-    "Content": "Usa la Habilidad final de Mortefi 100 veces."
+    "Content": "Usa la habilidad Outro de Mortefi 100 veces."
   },
   {
     "Id": "Achievement_300161_Name",
@@ -1421,7 +1421,7 @@
   },
   {
     "Id": "Achievement_300162_Desc",
-    "Content": "Usa la Habilidad final de Yuanwu 100 veces."
+    "Content": "Usa la habilidad Outro de Yuanwu 100 veces."
   },
   {
     "Id": "Achievement_300162_Name",
@@ -1429,7 +1429,7 @@
   },
   {
     "Id": "Achievement_300163_Desc",
-    "Content": "Usa la Habilidad final de Jiyan 100 veces."
+    "Content": "Usa la habilidad Outro de Jiyan 100 veces."
   },
   {
     "Id": "Achievement_300163_Name",
@@ -1437,7 +1437,7 @@
   },
   {
     "Id": "Achievement_300164_Desc",
-    "Content": "Usa la Habilidad final de Aalto 100 veces."
+    "Content": "Usa la habilidad Outro de Aalto 100 veces."
   },
   {
     "Id": "Achievement_300164_Name",
@@ -1445,23 +1445,15 @@
   },
   {
     "Id": "Achievement_300165_Desc",
-    "Content": "Usa la Habilidad final de Calcharo 100 veces."
+    "Content": "Usa la habilidad Outro de Calcharo 100 veces."
   },
   {
     "Id": "Achievement_300165_Name",
     "Content": "Boxeo de sombra"
   },
   {
-    "Id": "Achievement_300166_Desc",
-    "Content": "Usa la Habilidad final de Changli 10 veces."
-  },
-  {
-    "Id": "Achievement_300166_Name",
-    "Content": "Llama eterna"
-  },
-  {
     "Id": "Achievement_300167_Desc",
-    "Content": "Usa la Habilidad final de Changli 100 veces."
+    "Content": "Usa la habilidad Outro de Changli 100 veces."
   },
   {
     "Id": "Achievement_300167_Name",
@@ -1485,7 +1477,7 @@
   },
   {
     "Id": "Achievement_300170_Desc",
-    "Content": "Derrota a Sinsueño 50 veces."
+    "Content": "Derrota al Insomne 50 veces."
   },
   {
     "Id": "Achievement_300170_Name",
@@ -1509,7 +1501,7 @@
   },
   {
     "Id": "Achievement_300173_Desc",
-    "Content": "Derrota a Bicho Escarchado 20 veces."
+    "Content": "Derrota a Bichofuego 50 veces."
   },
   {
     "Id": "Achievement_300173_Name",
@@ -1517,7 +1509,7 @@
   },
   {
     "Id": "Achievement_300174_Desc",
-    "Content": "Derrota a Casuario enano 20 veces."
+    "Content": "Derrota a Casuario Enano 20 veces."
   },
   {
     "Id": "Achievement_300174_Name",
@@ -1772,14 +1764,6 @@
     "Content": "Cierra tus ojos cuando está oscuro"
   },
   {
-    "Id": "Achievement_300412_Desc",
-    "Content": "El personaje pierde el conocimiento 10 veces debido a los ataques explosivos de Escartuga."
-  },
-  {
-    "Id": "Achievement_300412_Name",
-    "Content": "Reacción en cadena"
-  },
-  {
     "Id": "Achievement_300501_Desc",
     "Content": "Desbloquea \"Torre de la adversidad: Zona peligrosa\"."
   },
@@ -1853,7 +1837,7 @@
   },
   {
     "Id": "Achievement_300510_Desc",
-    "Content": "Usa el objeto de Renacimiento por primera vez."
+    "Content": "Usa el objeto de regeneración por primera vez."
   },
   {
     "Id": "Achievement_300510_Name",
@@ -1917,15 +1901,15 @@
   },
   {
     "Id": "Achievement_300519_Desc",
-    "Content": "Completa «Holograma Táctico: Calamidad» - «Sincorona I»."
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Destronado I»."
   },
   {
     "Id": "Achievement_300519_Name",
-    "Content": "El rey de sincorona"
+    "Content": "El rey sin corona"
   },
   {
     "Id": "Achievement_300520_Desc",
-    "Content": "Completa «Holograma Táctico: Calamidad» - «Sincorona VI»."
+    "Content": "Completa «Holograma Táctico: Calamidad» - «Destronado VI»."
   },
   {
     "Id": "Achievement_300520_Name",
@@ -1949,7 +1933,7 @@
   },
   {
     "Id": "Achievement_400103_Desc",
-    "Content": "Obtén el Eco de Sincorona por primera vez"
+    "Content": "Obtén el Eco de Destronado por primera vez."
   },
   {
     "Id": "Achievement_400103_Name",
@@ -2197,19 +2181,19 @@
   },
   {
     "Id": "Achievement_700101_Desc",
-    "Content": "Supera la Dificultad IV con el Eco de Sincorona"
+    "Content": "Completa la Dificultad IV con el Eco de Destronado."
   },
   {
     "Id": "Achievement_700102_Desc",
-    "Content": "Supera la Dificultad IV con el Eco de la Geochelone Portacampana"
+    "Content": "Completa la Dificultad IV con el Eco de Geochelone Portacampana."
   },
   {
     "Id": "Achievement_700103_Desc",
-    "Content": "Supera la Dificultad IV con el Eco del Jinete Infiernal"
+    "Content": "Completa la Dificultad IV con el Eco de Jinete Infiernal."
   },
   {
     "Id": "Achievement_700201_Desc",
-    "Content": "Activa la cuarta habilidad adicional del Eco de Sincorona"
+    "Content": "Activa la cuarta habilidad adicional del Eco de Destronado."
   },
   {
     "Id": "Achievement_700202_Desc",

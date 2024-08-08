@@ -125,11 +125,11 @@
   },
   {
     "Id": "Achievement_100107_Desc",
-    "Content": "首次通關「天地旋恒」。"
+    "Content": "首次通關「天地旋恆」。"
   },
   {
     "Id": "Achievement_100107_Name",
-    "Content": "天地旋恒"
+    "Content": "天地旋恆"
   },
   {
     "Id": "Achievement_100108_Desc",
@@ -1452,14 +1452,6 @@
     "Content": "和影子玩拳擊吧"
   },
   {
-    "Id": "Achievement_300166_Desc",
-    "Content": "使用10次長離的延奏技能。"
-  },
-  {
-    "Id": "Achievement_300166_Name",
-    "Content": "離火不滅"
-  },
-  {
     "Id": "Achievement_300167_Desc",
     "Content": "使用100次長離的延奏技能。"
   },
@@ -1509,7 +1501,7 @@
   },
   {
     "Id": "Achievement_300173_Desc",
-    "Content": "累計擊敗20次伏霜蟲。"
+    "Content": "累計擊敗50次融火蟲。"
   },
   {
     "Id": "Achievement_300173_Name",
@@ -1625,7 +1617,7 @@
   },
   {
     "Id": "Achievement_300302_Name",
-    "Content": "七步之內，槍又准又快"
+    "Content": "七步之內，槍又準又快"
   },
   {
     "Id": "Achievement_300304_Desc",
@@ -1772,14 +1764,6 @@
     "Content": "天黑請閉眼"
   },
   {
-    "Id": "Achievement_300412_Desc",
-    "Content": "共鳴者因寒霜陸龜的爆炸攻擊失去10次意識。"
-  },
-  {
-    "Id": "Achievement_300412_Name",
-    "Content": "鏈式反應"
-  },
-  {
     "Id": "Achievement_300501_Desc",
     "Content": "解鎖「逆境深塔·深境區」。"
   },
@@ -1853,7 +1837,7 @@
   },
   {
     "Id": "Achievement_300510_Desc",
-    "Content": "首次使用復蘇道具。"
+    "Content": "首次使用復甦道具。"
   },
   {
     "Id": "Achievement_300510_Name",
@@ -1893,7 +1877,7 @@
   },
   {
     "Id": "Achievement_300515_Desc",
-    "Content": "在2分鐘內完成「逆境深塔​​·深境區」中任意一座塔的最後一層。"
+    "Content": "在2分鐘內完成「逆境深塔·深境區」中任意一座塔的最後一層。"
   },
   {
     "Id": "Achievement_300515_Name",
@@ -1909,7 +1893,7 @@
   },
   {
     "Id": "Achievement_300518_Desc",
-    "Content": "連續3期在「逆境深塔​​·深境區」中取得所有印記。"
+    "Content": "連續3期在「逆境深塔·深境區」中取得所有印記。"
   },
   {
     "Id": "Achievement_300518_Name",
