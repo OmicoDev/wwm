@@ -21,7 +21,7 @@ kotlin {
             }
         }
 
-        jvmMain {
+        jvmCommonMain {
             dependencies {
                 api(compose.preview)
             }
