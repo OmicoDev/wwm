@@ -26,9 +26,7 @@ fun Circuit.Builder.addAchievementsFeature(): Circuit.Builder =
         }
         addPresenter<AchievementsScreen, AchievementsUiState> { _, _, _ ->
             presenterOf {
-                with(LocalWwmUiComponent.current) {
-                    produceAchievementsUiState()
-                }
+                LocalWwmUiComponent.current.produceAchievementsUiState()
             }
         }
     }

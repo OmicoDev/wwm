@@ -16,9 +16,8 @@ import dev.omico.wwm.ui.WwmUiComponent
 import dev.omico.wwm.ui.rememberUpdatedListState
 import kotlinx.coroutines.launch
 
-context(WwmUiComponent)
 @Composable
-internal fun produceAchievementsUiState(): AchievementsUiState {
+internal fun WwmUiComponent.produceAchievementsUiState(): AchievementsUiState {
     val scope = rememberCoroutineScope()
     val achievements by achievementsRepository.achievements.collectAsRetainedState(initial = emptyList())
     val achievementCategories
