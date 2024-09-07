@@ -3,7 +3,6 @@
  */
 package dev.omico.wwm.feature.achievements.component
 
-import androidx.compose.foundation.ExperimentalFoundationApi
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -77,7 +76,6 @@ internal fun AchievementListPaneUi(
     )
 }
 
-@OptIn(ExperimentalFoundationApi::class)
 private fun LazyListScope.achievementsCategoryItem(
     state: AchievementsUiState,
     category: WwAchievementCategory,

@@ -6,8 +6,8 @@ kotlin {
     sourceSets {
         commonMain {
             dependencies {
-                implementation(project(":wwm-androidx-compose-material3-adaptive"))
-                implementation(project(":wwm-androidx-window-core"))
+                implementation(jetbrains.androidx.window.core)
+                implementation(jetbrains.compose.material3.adaptive)
             }
             dependencies {
                 implementation(compose.material3)

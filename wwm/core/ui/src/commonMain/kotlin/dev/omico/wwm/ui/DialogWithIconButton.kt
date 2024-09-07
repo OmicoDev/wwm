@@ -4,7 +4,6 @@
 package dev.omico.wwm.ui
 
 import androidx.compose.animation.AnimatedVisibility
-import androidx.compose.animation.ExperimentalAnimationApi
 import androidx.compose.animation.core.tween
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
@@ -21,7 +20,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.painter.Painter
 
-@OptIn(ExperimentalAnimationApi::class)
 @Composable
 fun DialogWithIconButton(
     painter: Painter,

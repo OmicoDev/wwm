@@ -12,5 +12,5 @@ composeCompiler {
 }
 
 configureCommonComposeMultiplatform(
-    composeMultiplatformVersion = Versions.compose.multiplatform,
+    composeMultiplatformVersion = Versions.jetbrains.compose,
 )

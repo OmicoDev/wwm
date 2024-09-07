@@ -9,8 +9,8 @@ val fetchAndroidx: FetchAndroidx by tasks.register<FetchAndroidx>("fetchAndroidx
     val androidxDirectory = rootProject.consensus.localProperties.getOrNull<File>("ANDROIDX_DIRECTORY")
     enabled = androidxDirectory != null
     androidxDirectoryProperty.set(androidxDirectory)
-    // https://developer.android.com/jetpack/androidx/releases/compose-material3-adaptive#1.0.0-beta04
-    commitIdProperty.set("967bd940b24778daf0ac5f9661bc881f4d0487c1")
+    // https://developer.android.com/jetpack/androidx/releases/compose-material3-adaptive#1.0.0
+    commitIdProperty.set("cad2089d1b7edd842b0132ba03a6d2fa4ee7d1a1")
 }
 
 val syncAndroidx: SyncAndroidx by tasks.register<SyncAndroidx>("syncAndroidx") {
@@ -18,18 +18,6 @@ val syncAndroidx: SyncAndroidx by tasks.register<SyncAndroidx>("syncAndroidx") {
     androidxDirectoryProperty.set(fetchAndroidx.androidxDirectoryProperty)
     copySpecsProperty.set(
         listOf(
-            SyncAndroidx.CopySpec(
-                sourcePath = "compose/material3/adaptive/adaptive",
-                targetPath = "wwm/androidx/compose/material3/adaptive",
-            ),
-            SyncAndroidx.CopySpec(
-                sourcePath = "compose/material3/adaptive/adaptive-layout",
-                targetPath = "wwm/androidx/compose/material3/adaptive/layout",
-            ),
-            SyncAndroidx.CopySpec(
-                sourcePath = "compose/material3/adaptive/adaptive-navigation",
-                targetPath = "wwm/androidx/compose/material3/adaptive/navigation",
-            ),
             SyncAndroidx.CopySpec(
                 sourcePath = "compose/material3/material3-adaptive-navigation-suite",
                 targetPath = "wwm/androidx/compose/material3/adaptive/navigation/suite",
