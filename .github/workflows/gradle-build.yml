@@ -18,7 +18,7 @@ jobs:
     env:
       DEPENDENCY_GRAPH_EXCLUDE_PROJECTS: ':(gradm|initialization|project)'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
